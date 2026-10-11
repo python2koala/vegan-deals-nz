@@ -1,4 +1,4 @@
-"""Weekly NZ fetch: this week's Woolworths NZ vegan-tagged specials that are 30%+ off.
+"""Weekly NZ fetch: this week's Woolworths NZ vegan-tagged specials that are 25%+ off.
 
 Source: the owner's link (vegan specials, in stock only, highest price first) - see SOURCE below.
 Woolworths NZ specials run Monday to the following Sunday (NZ time).
@@ -14,7 +14,7 @@ from sd import get, credits_left
 SOURCE = ("https://www.woolworths.co.nz/specials-offers?filters=Specials%3BSpecials%3BSpecials%3Btrue%3BSpecials"
           "&filters=PiesAttributes%3BVegan%3BVegan%3Bfalse%3BDietary+%26+Lifestyle&page=1&inStockProductsOnly=true"
           "&size=120&sort=PriceDesc&staticFilters=SPECIALS&dietary=isVegan&sortBy=PRICE_HIGH_LOW")
-MIN_DISCOUNT = 30
+MIN_DISCOUNT = 25
 PAGE_SIZE = 120  # the most Woolworths NZ allows per request
 AKL = zoneinfo.ZoneInfo("Pacific/Auckland")
 OUT = "data/candidates.json"
