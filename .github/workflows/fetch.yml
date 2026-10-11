@@ -1,0 +1,41 @@
+name: Weekly Woolworths NZ fetch
+# NZ specials run Monday to Sunday. Runs Monday ~7:30am NZDT / 6:30am NZST (18:30 UTC Sunday),
+# with retries Monday afternoon and Tuesday morning NZ time (a finished week is skipped, so retries cost nothing).
+on:
+  schedule:
+    - cron: '30 18 * * 0'
+    - cron: '30 2 * * 1'
+    - cron: '30 18 * * 1'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Fetch again even if this week is already done (1 = yes)'
+        default: '0'
+permissions:
+  contents: write
+concurrency: { group: data, cancel-in-progress: false }
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - run: pip install requests tzdata
+      - name: Fetch this week's list
+        run: python scripts/fetch.py
+        env:
+          SCRAPEDO_TOKEN: ${{ secrets.SCRAPEDO_TOKEN }}
+          FORCE: ${{ github.event.inputs.force || '0' }}
+      - name: Build page data
+        run: python scripts/build.py
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A data docs
+          git commit -m "Weekly candidates from Woolworths NZ" || echo "nothing new"
+          git pull -q --rebase -X ours || true
+          git push

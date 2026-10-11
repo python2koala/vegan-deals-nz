@@ -1,25 +1,30 @@
-name: Test Scrape.do (one-off)
+name: Fetch product details (on request)
+# Runs when the vegan check asks for Woolworths details of specific products (data/details-wanted.json).
 on:
   push:
-    paths: ['scripts/test_scrapedo.py', '.github/workflows/test-scrapedo.yml']
+    paths: ['data/details-wanted.json']
   workflow_dispatch:
 permissions:
   contents: write
+concurrency: { group: data, cancel-in-progress: false }
 jobs:
-  test:
+  details:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
       - run: pip install requests
-      - run: python scripts/test_scrapedo.py
+      - run: python scripts/details.py
         env:
           SCRAPEDO_TOKEN: ${{ secrets.SCRAPEDO_TOKEN }}
+      - run: python scripts/build.py
       - if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
-          git commit -m "Scrape.do test result" || echo "nothing new"
+          git add -A data docs
+          git commit -m "Product details from Woolworths NZ" || echo "nothing new"
+          git pull -q --rebase -X ours || true
           git push

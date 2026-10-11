@@ -1,2 +1,0 @@
-size=500: HTTP 400, got 0 products of None, cost 10
-Credits left: 970 of 1000
