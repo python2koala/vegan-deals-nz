@@ -11,9 +11,10 @@ LIST = ("https://www.woolworths.co.nz/api/v1/products?target=specials&inStockPro
 DETAIL = "https://www.woolworths.co.nz/api/v1/products/{sku}"
 HDR = {"x-requested-with": "OnlineShopping.WebApp", "accept": "application/json"}
 ROUTES = [
-    ("plain", {}),
-    ("plain, NZ location", {"geoCode": "nz"}),
-    ("home internet (residential), NZ", {"super": "true", "geoCode": "nz"}),
+    ("plain, headers as extras", {"extraHeaders": "true"}),
+    ("residential NZ, headers as extras", {"super": "true", "geoCode": "nz", "extraHeaders": "true"}),
+    ("residential NZ, no extra headers", {"super": "true", "geoCode": "nz", "noHeaders": True}),
+    ("residential NZ, real browser", {"super": "true", "geoCode": "nz", "render": "true", "noHeaders": True}),
 ]
 out = []
 
@@ -32,8 +33,16 @@ def credits():
 
 
 def ask(url, extra):
-    p = {"token": TOK, "url": url, "customHeaders": "true", **extra}
-    r = requests.get("https://api.scrape.do/", params=p, headers=HDR, timeout=90)
+    extra = dict(extra)
+    bare = extra.pop("noHeaders", False)
+    p = {"token": TOK, "url": url, **extra}
+    if bare:
+        h = {}
+    elif extra.get("extraHeaders"):
+        h = {"sd-" + k: v for k, v in HDR.items()}
+    else:
+        p["customHeaders"] = "true"; h = HDR
+    r = requests.get("https://api.scrape.do/", params=p, headers=h, timeout=120)
     cost = {k: v for k, v in r.headers.items() if k.lower().startswith("scrape.do")}
     return r, cost
 
@@ -53,7 +62,7 @@ for name, extra in ROUTES:
     except Exception:
         items, prods = [], {}
     say(f"[{name}] HTTP {r.status_code}; products on page 1: {len(items)}; total vegan specials: {prods.get('totalItems')}; "
-        f"cost headers: {cost}; start of reply: {r.text[:120]!r}")
+        f"cost: {cost.get('scrape.do-request-cost')}; reply: {r.text[:700]!r}")
     if good:
         ok = (name, extra, items)
         break
