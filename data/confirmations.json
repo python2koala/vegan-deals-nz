@@ -181,6 +181,18 @@
    "status": "verified",
    "url": "https://www.uncletobys.com.au/products/cereals/uncle-tobys-cheerios/original"
   },
+  "8049": {
+   "brand": "Musashi",
+   "cat": "p",
+   "checked": "2026-10-11",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Musashi Plant Protein Powder Vanilla",
+   "note": "Musashi NZ describes Plant Protein as a \"vegan friendly formula\".",
+   "src": "Musashi (manufacturer)",
+   "status": "verified",
+   "url": "https://nz.musashi.com/products/plant-protein"
+  },
   "811262": {
    "brand": "Ceres Organics",
    "cat": "s",

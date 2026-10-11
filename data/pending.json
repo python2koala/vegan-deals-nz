@@ -3,7 +3,7 @@
   "from": "2026-10-05",
   "to": "2026-10-11"
  },
- "count": 177,
+ "count": 176,
  "rows": [
   {
    "code": "648074",
@@ -22,16 +22,6 @@
    "brand": "musashi pre-workout",
    "size": "225g",
    "pct": 26,
-   "department": "Health & Body",
-   "details": null
-  },
-  {
-   "code": "8049",
-   "slug": "musashi-plant-protein-powder-vanilla",
-   "name": "musashi plant protein powder vanilla",
-   "brand": "musashi plant",
-   "size": "320g",
-   "pct": 28,
    "department": "Health & Body",
    "details": null
   },
