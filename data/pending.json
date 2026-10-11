@@ -3,18 +3,8 @@
   "from": "2026-10-05",
   "to": "2026-10-11"
  },
- "count": 123,
+ "count": 104,
  "rows": [
-  {
-   "code": "6057513",
-   "slug": "nature-s-way-super-food-pea-protein",
-   "name": "nature's way super food pea protein",
-   "brand": "nature's way",
-   "size": "375g",
-   "pct": 30,
-   "department": "Health & Body",
-   "details": null
-  },
   {
    "code": "820909",
    "slug": "natures-way-super-foods-turmeric",
@@ -22,26 +12,6 @@
    "brand": "natures way super foods",
    "size": "100pack",
    "pct": 32,
-   "department": "Health & Body",
-   "details": null
-  },
-  {
-   "code": "820899",
-   "slug": "natures-way-super-foods-smoothie-powder-for-kids",
-   "name": "natures way super foods smoothie powder for kids",
-   "brand": "natures way super foods",
-   "size": "75g",
-   "pct": 30,
-   "department": "Health & Body",
-   "details": null
-  },
-  {
-   "code": "820901",
-   "slug": "natures-way-super-foods-kale-powder",
-   "name": "natures way super foods kale powder",
-   "brand": "natures way super foods",
-   "size": "120g",
-   "pct": 30,
    "department": "Health & Body",
    "details": null
   },
@@ -76,16 +46,6 @@
    "details": null
   },
   {
-   "code": "72618",
-   "slug": "twinings-tea-english-breakfast",
-   "name": "twinings tea english breakfast",
-   "brand": "twinings",
-   "size": "100pack",
-   "pct": 38,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "72617",
    "slug": "twinings-tea-earl-grey",
    "name": "twinings tea earl grey",
@@ -113,16 +73,6 @@
    "size": "80pack",
    "pct": 38,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "200133",
-   "slug": "kellogg-s-just-right-cereal-original",
-   "name": "kellogg's just right cereal original",
-   "brand": "kellogg's just right",
-   "size": "740g",
-   "pct": 34,
-   "department": "Pantry",
    "details": null
   },
   {
@@ -223,16 +173,6 @@
    "size": "",
    "pct": 45,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "588901",
-   "slug": "uncle-tobys-cereal-shredded-wheat",
-   "name": "uncle tobys cereal shredded wheat",
-   "brand": "uncle tobys",
-   "size": "360g",
-   "pct": 30,
-   "department": "Pantry",
    "details": null
   },
   {
@@ -456,16 +396,6 @@
    "details": null
   },
   {
-   "code": "277992",
-   "slug": "proper-crisps-big-cut-chips-purple-gold",
-   "name": "proper crisps big cut chips purple & gold",
-   "brand": "proper crisps big cut",
-   "size": "140g",
-   "pct": 32,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "6029801",
    "slug": "nestl-nesquik-cereal-breakfast",
    "name": "nestlé nesquik cereal breakfast",
@@ -513,16 +443,6 @@
    "size": "1kg",
    "pct": 34,
    "department": "Frozen",
-   "details": null
-  },
-  {
-   "code": "750841",
-   "slug": "uncle-tobys-cheerios-cereal-original-wholegrain",
-   "name": "uncle tobys cheerios cereal original wholegrain",
-   "brand": "uncle tobys cheerios",
-   "size": "320g",
-   "pct": 45,
-   "department": "Pantry",
    "details": null
   },
   {
@@ -586,42 +506,12 @@
    "details": null
   },
   {
-   "code": "500999",
-   "slug": "cocobella-coconut-water-chocolate",
-   "name": "cocobella coconut water chocolate",
-   "brand": "cocobella",
-   "size": "1L",
-   "pct": 31,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "6024207",
-   "slug": "cocobella-coconut-water-coffee-latte",
-   "name": "cocobella coconut water coffee latte",
-   "brand": "cocobella",
-   "size": "1L",
-   "pct": 31,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "265696",
    "slug": "harvest-snaps-pea-crisps-original-salted-90g",
    "name": "harvest snaps pea crisps original salted 90g",
    "brand": "harvest snaps",
    "size": "5pack",
    "pct": 30,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "6052820",
-   "slug": "pringles-crisps-mini-bbq",
-   "name": "pringles crisps mini bbq",
-   "brand": "pringles",
-   "size": "95g",
-   "pct": 33,
    "department": "Pantry",
    "details": null
   },
@@ -916,92 +806,12 @@
    "details": null
   },
   {
-   "code": "6026743",
-   "slug": "remedy-ginger-beer-organic-original",
-   "name": "remedy ginger beer organic original",
-   "brand": "remedy",
-   "size": "330mL",
-   "pct": 41,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "6026802",
-   "slug": "remedy-ginger-beer-organic-with-lime",
-   "name": "remedy ginger beer organic with lime",
-   "brand": "remedy",
-   "size": "330mL",
-   "pct": 41,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "624289",
-   "slug": "remedy-kombucha-raspberry-lemonade-no-sugar",
-   "name": "remedy kombucha raspberry lemonade no sugar",
-   "brand": "remedy",
-   "size": "330mL",
-   "pct": 41,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
    "code": "36377",
    "slug": "ashoka-ready-meal-dal-tadka-medium",
    "name": "ashoka ready meal dal tadka medium",
    "brand": "ashoka",
    "size": "280g",
    "pct": 50,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "571601",
-   "slug": "remedy-kombucha-ginger-lemon-no-sugar",
-   "name": "remedy kombucha ginger & lemon no sugar",
-   "brand": "remedy",
-   "size": "330mL",
-   "pct": 41,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "23848",
-   "slug": "ashoka-ready-meal-bombay-biryani-gluten-free",
-   "name": "ashoka ready meal bombay biryani gluten free",
-   "brand": "ashoka",
-   "size": "280g",
-   "pct": 50,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "969888",
-   "slug": "remedy-kombucha-lychee-strawberry",
-   "name": "remedy kombucha lychee & strawberry",
-   "brand": "remedy",
-   "size": "330mL",
-   "pct": 41,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "124746",
-   "slug": "remedy-kombucha-wild-berry-no-sugar",
-   "name": "remedy kombucha wild berry no sugar",
-   "brand": "remedy",
-   "size": "330mL",
-   "pct": 41,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "811262",
-   "slug": "ceres-organics-raw-wholefood-snack-bar-cacao-fig-orange",
-   "name": "ceres organics raw wholefood snack bar cacao fig & orange",
-   "brand": "ceres organics raw wholefood",
-   "size": "50g",
-   "pct": 30,
    "department": "Pantry",
    "details": null
   },
