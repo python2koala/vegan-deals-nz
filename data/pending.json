@@ -23,7 +23,16 @@
    "size": "5kg",
    "pct": 49,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "sunrice",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Medium Grain Wholegrain Brown Rice",
+    "mayContain": "",
+    "name": "sunrice brown rice calrose medium grain",
+    "packClaim": "Australian grown & owned, Brown Rice combines the nutrients of a whole grain with a distinctive nutty flavour. The outer layer contains vitamins and minerals including thiamin, niacin and magnesium. The slightly firm texture is perfect for salads and as a partner for grilled fish or chicken. Brown Rice is a tasty, nutritious base for many meals., Gluten free, Grilled lamb cutlets on mushroom and thyme brown rice, Source of protein, Wholegrain rice is a source of fibre with a delicious nutty flavour"
+   }
   },
   {
    "code": "803520",
@@ -33,7 +42,16 @@
    "size": "5kg",
    "pct": 50,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "sunrice",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Jasmine White Rice",
+    "mayContain": "",
+    "name": "sunrice jasmine fragrant rice ",
+    "packClaim": "71 serves, Fragrant & Fluffy, Fragrant jasmine rice is a softer long grain varietal that is perfect for Asian dishes., Great for Asian cuisine"
+   }
   },
   {
    "code": "73957",
@@ -43,7 +61,16 @@
    "size": "5kg",
    "pct": 50,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "sunrice",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Medium Grain White Rice",
+    "mayContain": "",
+    "name": "sunrice white rice calrose medium grain",
+    "packClaim": "Australian owned since 1950, Gluten free, Rice is a gluten and cholesterol free food, Soft, tender and absorbent grains, suited to a wide variety of cuisines, The medium sized grains are round, tender and lock in moisture, qualities favoured in Middle Eastern, Korean and Spanish cuisines. With a tendency to cling together, Medium Grain Rice is also a great choice for delicious desserts."
+   }
   },
   {
    "code": "72617",
@@ -568,7 +595,16 @@
    "size": "310g",
    "pct": 45,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Wheat",
+    "brand": "nestlé nesquik",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "<p>Cereals Whole Grain  Wheat  (52%),  Wheat  Flour And/Or  Wheat  Starch, Sugar, Cocoa (5%), Glucose, Vegetable Oil, Salt, Natural Flavour.  Vitamins and Minerals  Minerals (Calcium, Iron, Zinc), Vitamins (E, Niacin, B6, B2, Folic Acid).   Contains Gluten, Wheat.    May Contain Oats, Barley, Rye, Soy, Milk. </p>",
+    "mayContain": "Milk, Soy",
+    "name": "nestlé nesquik cereal breakfast",
+    "packClaim": "Source of fibre; No artificial colours or flavours; Updated recipe check allergen statement; Whole grain no. 1 ingredient; To the last bite; Fun for good inspiring responsible choices with a splash of fun.; With 8 vitamins & minerals; Vitamin B6 and B3 to support the growth & development of children.; Give your box a second life and create new ways to use It again.; Whole grain no. 1 ingredient; Chocolatey milk turn; With 8 vitamins & minerals; Unique chocolate Nesquik® taste; Let them enjoy their favourite Nesquik® breakfast bowl!; Zinc to support immune and cognitive function.; Iron to support the healthy cognitive development of children. As part of a healthy varied diet."
+   }
   },
   {
    "code": "272779",
@@ -597,7 +633,16 @@
    "size": "750g",
    "pct": 38,
    "department": "Frozen",
-   "details": null
+   "details": {
+    "allergens": "Sulphites, Gluten, Wheat",
+    "brand": "mccain pub style",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potato (90%), Batter (Wheat Flour, Wheat Starch, S alt, Maize Flour, Paprika, Onion Powder, Garlic P o wder, Black Pepper, Dextrose), Canola Oil",
+    "mayContain": "",
+    "name": "mccain pub style extra crispy fries signature seasoning",
+    "packClaim": "Low cholesterol, McCAIN PUB STYLE EXTRA CRISPY ARE more than a chip. THEY’RE A PUB MEAL AT HOME. TO CREATE YOUR FAVOURITE PUB CLASSIC, SERVE THEM ALONG WITH A juicy STEAK, delicious PARMA OR CRISPY BATTERED FISH., McCain Signature Seasoning, No artificial colours of flavours, No preservatives"
+   }
   },
   {
    "code": "53205",
@@ -607,7 +652,16 @@
    "size": "750g",
    "pct": 38,
    "department": "Frozen",
-   "details": null
+   "details": {
+    "allergens": "Sulphites, Gluten, Wheat",
+    "brand": "mccain pub style",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potato (91%), Batter (Wheat Flour, Wheat Starch, Salt, Maize Flour, Paprika, Onion Powder, Garlic Powder, Black Pepper, Dextrose), Canola Oil",
+    "mayContain": "",
+    "name": "mccain pub style crispy wedges signature seasoning",
+    "packClaim": "McCain pub style wedges are more than a chip. They're a pub meal at home. To create your favourite pub classic, serve them along with a juicy steak, delicious parma or crispy battered fish., McCain signature seasoning, No artificial colours or flavours, Source of fibre"
+   }
   },
   {
    "code": "272784",
@@ -617,7 +671,16 @@
    "size": "1kg",
    "pct": 34,
    "department": "Frozen",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "wattie's",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Carrots, Peas, Green Beans, Sweetcorn",
+    "mayContain": "",
+    "name": "wattie's frozen mixed vegetables carrots, peas, beans & corn",
+    "packClaim": "Pick of the Crop™ – Since 1934 Wattie’s has been selecting fruit and vegetables at the peak of their season so that the taste and goodness is available all year round. Thanks to this we can still enjoy the quality of Wattie’s Pick of the Crop today., 13 serves of vegetables per pack - one serve of vegetables = 75g., Carrots, peas, green beans & sweetcorn, Good source of vitamin A, Individually snap frozen to lock in flavour texture & goodness, No preservatives, Snap frozen locked in goodness, Source of dietary fibre and folate"
+   }
   },
   {
    "code": "34936",
@@ -627,7 +690,16 @@
    "size": "750g",
    "pct": 38,
    "department": "Frozen",
-   "details": null
+   "details": {
+    "allergens": "Sulphites, Gluten, Wheat",
+    "brand": "mccain pub style",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potato (91%), Batter (Wheat Flour, Wheat Starch, S alt, Maize Flour, Paprika, Onion Powder, Garlic P o wder, Black Pepper, Dextrose), Canola Oil",
+    "mayContain": "",
+    "name": "mccain pub style straight fries signature seasoning",
+    "packClaim": "McCain pub style fries are more than a chip. They're a pub meal at home. To create your favourite pub classic, serve them along with a juicy steak, delicious parma or crispy battered fish., McCain signature seasoning, No artificial colours or flavours, Source of fibre, We should all lower our intake of cholesterol and select unsaturated fats and oils in preference to saturated fats and oils. This product has been cooked in monounsaturated vegetable oil which means that when these chips are cooked in your oven, according to the cooking instructions, the cholesterol level will be negligible compared to chips cooked in animal fat."
+   }
   },
   {
    "code": "507665",
@@ -647,7 +719,16 @@
    "size": "100g",
    "pct": 35,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Contains Sesame, May contain Milk",
+    "brand": "olina's gluten free",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Pepita Seeds (45%), Sesame Seeds, Flaxseeds, Psyllium Husk, Salt, Modified Starch (1442)",
+    "mayContain": "",
+    "name": "olina's gluten free crackers pepita seed",
+    "packClaim": "No gluten seeded crackers bring you back to nature with pure enjoyment. Loaded with a blend of wholesome seeds, rolled and baked crisp in small artisan batches for the best quality and light and crispy texture. Ideal with cheese, dips, pates and toppings or as a perfect snack on its own. , Egg free, GMO free, Light and crispy - ideal for snacking and entertaining, Wheat free"
+   }
   },
   {
    "code": "390969",
@@ -705,7 +786,16 @@
    "size": "5pack",
    "pct": 30,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "May contain: Soy",
+    "brand": "harvest snaps",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "",
+    "mayContain": "",
+    "name": "harvest snaps pea crisps original salted 90g",
+    "packClaim": "At Harvest snaps we love peas - That's why the surprisingly delicious crunch of our pea crisps is hard to beat - plus they're full of flavour and guilt-free! A satisfying snack for any time of day. The only question is which flavour combination is your favourite?, Baked not fried, Gluten free, Healthy food magazine lunchbox awards New Zealand winner 2024, Less sodium & fat - Compared to the average value of then regular potato chip brands, Less than 100 calories per serve, Palm oil free, Source of fibre, Vegan friendly"
+   }
   },
   {
    "code": "816096",
@@ -715,7 +805,16 @@
    "size": "5pack",
    "pct": 33,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Wheat",
+    "brand": "pringles",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Dehydrated potato, vegetable oils, wheat starch (gluten), rice flour, emulsifier (471), salt, maltodextrin, acidity regulator (330).",
+    "mayContain": "",
+    "name": "pringles chips minis original 95g",
+    "packClaim": "\"They're still irresistible, and they're still big on taste, but they're mini! Perfect individual sized packs to pop in your bag or lunch box as a snack on the go!\", 5 packs, Vegan, Vegetarian"
+   }
   },
   {
    "code": "312759",
@@ -725,7 +824,16 @@
    "size": "200g",
    "pct": 33,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Sesame, Gluten, Wheat",
+    "brand": "huntley & palmers",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Kibbled Wheat, Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Toasted Sesame Seeds (3%), Salt, Raising Agent (Baking Soda), Yeast.",
+    "mayContain": "Egg, Milk, Sulphites, Soy",
+    "name": "huntley & palmers crackers sesameal original",
+    "packClaim": "Baked in NZ, No artificial colours flavours, Product shown not actual size, The original crisp, toasted sesame seed cracker. The Huntley & Plamers story began way back in 1822 when Thomas Huntley and George Plamer started crafting crackers in reading, England. A lot has changed since then, but we're still passionate about  baking the best crackers and making life tastier."
+   }
   },
   {
    "code": "274912",
@@ -735,7 +843,16 @@
    "size": "5pack",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Soy, Wheat",
+    "brand": "griffin's snax",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Wheat Flour, Vegetable Oil & Fat (Antioxidant (307b from Soy)), Malt Extract (from Barley), Sugar, Salt, Raising Agents (Baking Soda, 450)",
+    "mayContain": "Egg, Milk, Tree Nuts, Peanuts, Sesame, Sulphites",
+    "name": "griffin's snax crackers minis original 125g",
+    "packClaim": "Free From Artificial Colour;Free From Flavour Enhancers;"
+   }
   },
   {
    "code": "705375",
@@ -745,7 +862,16 @@
    "size": "250g",
    "pct": 33,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Sesame, Gluten, Wheat",
+    "brand": "huntley & palmers wholegrain",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Wholegrains 60% (Kibbled Wheat, Kibbled Red Wheat, Kibbled Purple Wheat, Buckwheat, Oats, Quinoa, Kibbled Rye), Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Seeds (Toasted Sesame, Linseed), Pearled Barley, Salt, Raising Agent (Baking Soda), Yeast.",
+    "mayContain": "Egg, Milk, Sulphites, Soy",
+    "name": "huntley & palmers wholegrain crackers 8 grains",
+    "packClaim": "Baked in NZ, Crisp, wholegrain crackers made with ancient grains. Huntley & Palmers Wholegrain Crackers 8 Grain contribute 33% of the whole grain daily target. - One 27g serving of H&P Wholegrain Crackers 8 Grain contributes 33% of the Grains & Legumes Nutritional Council™ 48g whole grain Daily Target Intake., Made with Ancient Grains - contains 3% ancient grains (buckwheat and millet), No colours, artificial flavours, The Huntley & Palmers story began way back in 1822 when Thomas Huntley and George Palmer started crafting crackers in Reading, England. A lot has changed since then, but we're still passionate about baking the best crackers and making life tastier."
+   }
   },
   {
    "code": "271718",
@@ -765,7 +891,16 @@
    "size": "200g",
    "pct": 33,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Sesame, Gluten, Wheat",
+    "brand": "huntley & palmers",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Kibbled Wheat, Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Toasted Sesame Seeds (3%), Garlic Powder (2%), Rosemary (2%), Salt, Raising Agent (Baking Soda), Yeast.",
+    "mayContain": "Egg, Milk, Sulphites, Soy",
+    "name": "huntley & palmers crackers sesameal rosemary & garlic",
+    "packClaim": "Baked in NZ, Crisp, toasted sesame seed crackers with the delicious combination of rosemary and garlic. The Huntley & Palmers story began way back in 1822 when Thomas Huntley and George Palmer started crafting crackers in reading, England. A lot has changed since then, but we're still passionate about baking the best crackers and making life tastier., No artificial colours flavours"
+   }
   },
   {
    "code": "271713",
@@ -785,7 +920,16 @@
    "size": "200g",
    "pct": 33,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Sesame, Gluten, Wheat",
+    "brand": "huntley & palmers",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Grain & Seeds (62%) (Kibbled Meal Wheat, Kibbled Purple Wheat, Kibbled Red Wheat, Linseed, Toasted Sesame Seeds (3%)), Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Salt, Raising Agent (Baking Soda), Yeast.",
+    "mayContain": "Egg, Milk, Sulphites, Soy",
+    "name": "huntley & palmers crackers classic 5 grain",
+    "packClaim": "Baked in NZ, Crisp, toasted sesame seed crackers made with five classic grains and seeds. The Huntley & Plamers story began way back in 1822 when Thomas Huntley and George Plamer started crafting crackers in reading, England. A lot has changed since then, but we're still passionate about baking the best crackers and making life tastier., No artificial colours flavours"
+   }
   },
   {
    "code": "271669",
@@ -835,7 +979,16 @@
    "size": "200g",
    "pct": 33,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Sesame, Gluten, Wheat",
+    "brand": "huntley & palmers",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Kibbled Wheat, Wheat Flour, Vegetable Fat and or Oil ((Antioxidant 307b)), Toasted Sesame Seeds (3%), Salt, Cracked Black Pepper (1%), Raising Agent (Baking Soda), Yeast.",
+    "mayContain": "Egg, Milk, Sulphites, Soy",
+    "name": "huntley & palmers crackers sesameal cracked pepper",
+    "packClaim": "Baked in NZ, Crisp, toasted sesame seed crackers with a hint of cracked black pepper., No artificial colours flavours, The Huntley & palmers story began way back in 1822 when Thomas Huntley and George palmer started crafting crackers in reading, England. A lot has changed since then, but we’re still passionate about baking the best crackers and making life tastier."
+   }
   },
   {
    "code": "271722",
@@ -934,7 +1087,16 @@
    "size": "300g",
    "pct": 35,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Contains: Gluten, May contain: Soy, Wheat",
+    "brand": "sanitarium skippy",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Corn (89%), Sugar, Salt, Barley Malt Extract, Mineral (Iron), Vitamins (Niacin, Thiamin, Riboflavin, Folate)",
+    "mayContain": "",
+    "name": "sanitarium skippy cereal cornflakes",
+    "packClaim": "‘Bounce into the day’, 99% fat free, Less than a teaspoon of sugar per serve! - Per 30g serve without milk. Based on a teaspoon weight of white sugar (4.9g) as per The NZ Food Composition Tables, 11th Edition 2014., No artificial stuff - No artificial colours, flavours or preservatives., Our favourite cornflakes made right here in NZ!, Proudly 100% New Zealand owned, Sanitarium nutrition service - At Sanitarium we're right behind anything that helps you make smart decisions about the foods you choose. So that's why we were one of the first to sign up to the new voluntary Health Star Rating System. Anytime you see this star rating on a pack, you'll get an idea about what's inside, at a glance. The higher the Health Star Rating the better the choice., Source of iron and B vitamins, This product contains - Less than 1% fat; Vitamins B1, B2 & B3; Good source of iron, folate, thiamin & niacin; No artificial colours, flavours or preservatives"
+   }
   },
   {
    "code": "324624",
@@ -944,7 +1106,16 @@
    "size": "275g",
    "pct": 35,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Contains Gluten Containing Cereals",
+    "brand": "sanitarium",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Rice (89%), Sugar, Salt, Barley Malt Extract, Mineral (Iron), Vitamins (Niacin, Thiamin, Riboflavin)",
+    "mayContain": "",
+    "name": "sanitarium cereal ricies",
+    "packClaim": "99% fat free, B vitamins & good source of iron, Health wellbeing, Less than a teaspoon of sugar per serve! - Per 30g serve without milk. Based on a teaspoon weight of white sugar (4.9g) as per The NZ Food Composition Tables, 11th Edition 2014., No artificial stuff - no artificial colours, flavours or preservatives., Proudly 100% New Zealand owned, Statement Sanitarium nutrition service - At Sanitarium we're right behind anything that helps you make smart decisions about the foods you choose. So that's why we were one of the first to sign up to the new voluntary Health Star Rating System. Anytime you see this star rating on a pack, you'll get an idea about what's inside, at a glance. The higher the Health Star Rating the better the choice., This product contains: Less than 1% fat; Good source of iron; Good source of B vitamins: thiamin (B1) & niacin (B3); No artificial flavours; No artificial colours; No preservatives"
+   }
   },
   {
    "code": "270357",
@@ -1120,7 +1291,16 @@
    "size": "420g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Wheat",
+    "brand": "wattie's",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Navy Beans (51%), Tomato Sauce (49%) Tomatoes (45% ), Sugar, Salt, <b>Wheat <br></b>Flour, Maize Thic kener (1412), Stabilisers (412, 466), Spices, Flav ours, Sweetener (960).      <b>Contains: Wheat, Gl uten.<br></b> <b>May Contain: Soy.</b>",
+    "mayContain": "Soy",
+    "name": "wattie's baked beans 50% less added sugar",
+    "packClaim": "SOURCE OF PROTEIN, Source Of Dietary Fibre;Low Fat;No Added Preservatives;"
+   }
   },
   {
    "code": "265983",
@@ -1130,7 +1310,16 @@
    "size": "420g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Soy",
+    "brand": "watties",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Tomato Sauce (58%) Tomatoes (37%), Water, Sugar, Maize Thickener (1422), Maize Flour, Salt, Stabilisers (412, 466), Flavours, Spice, Food Acid (Citric Acid), Navy Beans (42%) (Contain Traces of Soy).",
+    "mayContain": "",
+    "name": "watties baked beanz lite ",
+    "packClaim": "LOW SUGAR, SOURCE OF FIBRE, SOURCE OF PROTEIN, Low Fat;No Added Preservatives;"
+   }
   },
   {
    "code": "346040",
@@ -1140,7 +1329,16 @@
    "size": "160g",
    "pct": 50,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Soy, Wheat",
+    "brand": "ritz mini",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "WHEAT FLOUR,  VEGETABLE OILS (CONTAINS ANTIOXIDANTS (307b,  330)),  SUGAR,  INVERT SUGAR,  SALT,  BARLEY MALT EXTRACT,  RAISING AGENTS (500,  503),  EMULSIFIER (SOY LECITHIN),  ACIDITY REGULATOR (330),  ENZYME (CONTAINS WHEAT).",
+    "mayContain": "Egg, Milk, Tree Nuts",
+    "name": "ritz mini crackers munching original",
+    "packClaim": ""
+   }
   },
   {
    "code": "6055411",
@@ -1160,7 +1358,16 @@
    "size": "150g",
    "pct": 36,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "heartland",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Canola Oil , Acidity Regulators (262, 330), Salt, Sugar, Flavour Enhancer (621), Dextrose  (Maize), Maize Starch, Natural Flavour",
+    "mayContain": "",
+    "name": "heartland chips salt & vinegar",
+    "packClaim": "Flavoured potato chips, 100% NZ family owned, Fallgate farm Geraldine, NZ - Est. 1975, From our farm to you, Gluten free, No palm oil, Quality checked Fallgate farm - RM Bowan, Suitable for vegetarians, Want to hear a great Kiwi can - do story? Let me introduce you to Raymond Bowan who has been working the land of South Canterbury for decades. Alongside his wife Adrienne, they have been growing the finest potatoes on their own farm, 'Fallgate' since 1975. Now here is where the story gets interesting. Back in 2009, Fallagate Farm was supplying the local chip factory in Timaru when, out of the blue, the overseas owners decided to shut the doors. Most people would just accept the fate of the factory. But not Raymond who thought 'why not just open it back up'? Once you know Raymond, you'll realise he never shies away from a good challenge, and he'd just found a mammoth one! Of course some people didn't have quite the same faith, telling him he'd never be able take on the big boys and win. Raymond with his signature cheeky grin would always tell them they'd just have to wait and see. Raymond followed his dream of reopening the factory and making New Zealand's finest potato chips... and so it was, that Heartland Potato Chips came to be. Fast forward to today and all the potatoes Heartland Chips uses are still grown at Fallgate Farm by son James and delivered a few kilometres down the road to daughter Charlotte at the factory; often by Raymond himself. Heartland Chips has not only grown into one of New Zealand's most loved brands but also the only true-blue, 100% New Zealand owned and operated potato chip company in the land. All because a great kiwi farmer, from a great Kiwi farm, with a great Kiwi can-do attitude, set to work to make the Greatest Kiwi potato chips!"
+   }
   },
   {
    "code": "746171",
@@ -1170,7 +1377,16 @@
    "size": "150g",
    "pct": 36,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "heartland",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Canola Oil , Salt",
+    "mayContain": "",
+    "name": "heartland chips southern salt",
+    "packClaim": "100% NZ family owned, Fallgate farm Est. 1975 geraldine.nz, From our farm to you, Gluten free, No palm oil, Suitable for vegetarians, Want to hear a great Kiwi can-do story? Let me introduce you to Raymond Bowan who has been working the land of South Canterbury for decades. Alongside his wife Adrienne, they have been growing the finest potatoes on their own farm, 'Fallgate' since 1975. Now here is where the story gets interesting. Back in 2009, Fallgate Farm was supplying the local chip factory in Timaru when, out of the blue, the overseas owners decided to shut the doors. Most people would just accept the fate of the factory. But not Raymond who thought 'why not just open it back up'? Once you know Raymond, you'll realise he never shies away from a good challenge, and he'd just found a mammoth one! Of course some people didn't have quite the same faith, telling him he'd never be able to take on the big boys and win. Raymond with his signature cheeky grin would always tell them they'd just have to wait and see. Raymond followed his dream of reopening the factory and making New Zealand's finest potato chips... and so it was, that Heartland Potato Chips came to be. Fast forward to today and all the potatoes Heartland Chips uses are still grown at Fallgate Farm by son James and delivered a few kilometres down the road to daughter Charlotte at the factory; often by Raymond himself. Heartland Chips has not only grown into one of New Zealand's most loved brands, but also the only true-blue, 100% New Zealand owned and operated potato chip company in the land. All because of a great Kiwi farmer, from a great Kiwi farm, with a great Kiwi can-do attitude, set to work to make the Greatest Kiwi Potato Chips!"
+   }
   },
   {
    "code": "917985",
@@ -1220,7 +1436,16 @@
    "size": "135g",
    "pct": 35,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Wheat",
+    "brand": "griffins snax",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Barley Malt Extract, Sugar, Raising Agents (501, 450), Salt.",
+    "mayContain": "Egg, Milk, Sesame, Sulphites, Soy",
+    "name": "griffins snax crackers original",
+    "packClaim": "Made in NZ, loved in NZ, New Zealand made, No artificial colours or flavours, The hands-down, thumbs-up, anytime cracker..., This product has been made to Griffin's highest quality standards."
+   }
   },
   {
    "code": "271709",
