@@ -3,8 +3,108 @@
   "from": "2026-10-05",
   "to": "2026-10-11"
  },
- "count": 104,
+ "count": 177,
  "rows": [
+  {
+   "code": "648074",
+   "slug": "musashi-pre-workout-protein-powder-tropical-energy-performance",
+   "name": "musashi pre-workout protein powder tropical energy & performance",
+   "brand": "musashi pre-workout",
+   "size": "225g",
+   "pct": 26,
+   "department": "Health & Body",
+   "details": null
+  },
+  {
+   "code": "648072",
+   "slug": "musashi-pre-workout-protein-powder-lemon-lime-energy-performance",
+   "name": "musashi pre-workout protein powder lemon lime energy performance",
+   "brand": "musashi pre-workout",
+   "size": "225g",
+   "pct": 26,
+   "department": "Health & Body",
+   "details": null
+  },
+  {
+   "code": "8049",
+   "slug": "musashi-plant-protein-powder-vanilla",
+   "name": "musashi plant protein powder vanilla",
+   "brand": "musashi plant",
+   "size": "320g",
+   "pct": 28,
+   "department": "Health & Body",
+   "details": null
+  },
+  {
+   "code": "659936",
+   "slug": "coca-cola-soft-drink",
+   "name": "coca cola soft drink",
+   "brand": "coca cola",
+   "size": "30pack",
+   "pct": 28,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "228349",
+   "slug": "coca-cola-soft-drink-zero-sugar",
+   "name": "coca cola soft drink zero sugar",
+   "brand": "coca cola",
+   "size": "30pack",
+   "pct": 28,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "660073",
+   "slug": "sprite-lemonade-lemon-lime",
+   "name": "sprite lemonade lemon lime",
+   "brand": "sprite",
+   "size": "30pack",
+   "pct": 28,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "659992",
+   "slug": "sprite-lemonade-lemon-lime-no-sugar",
+   "name": "sprite lemonade lemon lime no sugar",
+   "brand": "sprite",
+   "size": "30pack",
+   "pct": 28,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "660071",
+   "slug": "coca-cola-soft-drink-diet-coke",
+   "name": "coca cola soft drink diet coke",
+   "brand": "coca cola",
+   "size": "30pack",
+   "pct": 28,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "6074152",
+   "slug": "coca-cola-soft-drink-vanilla",
+   "name": "coca cola soft drink vanilla",
+   "brand": "coca cola",
+   "size": "30 x 330mL",
+   "pct": 28,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "820905",
+   "slug": "natures-way-super-foods-acai-powder",
+   "name": "natures way super foods acai powder",
+   "brand": "natures way super foods",
+   "size": "75g",
+   "pct": 25,
+   "department": "Health & Body",
+   "details": null
+  },
   {
    "code": "820909",
    "slug": "natures-way-super-foods-turmeric",
@@ -25,23 +125,44 @@
    }
   },
   {
-   "code": "750029",
-   "slug": "sunrice-brown-rice-calrose-medium-grain",
-   "name": "sunrice brown rice calrose medium grain",
-   "brand": "sunrice",
-   "size": "5kg",
-   "pct": 49,
-   "department": "Pantry",
-   "details": {
-    "allergens": "",
-    "brand": "sunrice",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Medium Grain Wholegrain Brown Rice",
-    "mayContain": "",
-    "name": "sunrice brown rice calrose medium grain",
-    "packClaim": "Australian grown & owned, Brown Rice combines the nutrients of a whole grain with a distinctive nutty flavour. The outer layer contains vitamins and minerals including thiamin, niacin and magnesium. The slightly firm texture is perfect for salads and as a partner for grilled fish or chicken. Brown Rice is a tasty, nutritious base for many meals., Gluten free, Grilled lamb cutlets on mushroom and thyme brown rice, Source of protein, Wholegrain rice is a source of fibre with a delicious nutty flavour"
-   }
+   "code": "820911",
+   "slug": "natures-way-super-foods-beetroot-powder",
+   "name": "natures way super foods beetroot powder",
+   "brand": "natures way super foods",
+   "size": "100g",
+   "pct": 25,
+   "department": "Health & Body",
+   "details": null
+  },
+  {
+   "code": "821268",
+   "slug": "natures-way-super-foods-spirulina",
+   "name": "natures way super foods spirulina",
+   "brand": "natures way super foods",
+   "size": "120g",
+   "pct": 25,
+   "department": "Health & Body",
+   "details": null
+  },
+  {
+   "code": "6036848",
+   "slug": "natures-way-superfood-powder-barley-grass",
+   "name": "natures way superfood powder barley grass",
+   "brand": "natures way",
+   "size": "75g",
+   "pct": 25,
+   "department": "Health & Body",
+   "details": null
+  },
+  {
+   "code": "660275",
+   "slug": "coca-cola-soft-drink",
+   "name": "coca cola soft drink",
+   "brand": "coca cola",
+   "size": "8pack",
+   "pct": 29,
+   "department": "Drinks",
+   "details": null
   },
   {
    "code": "803520",
@@ -82,6 +203,35 @@
    }
   },
   {
+   "code": "750029",
+   "slug": "sunrice-brown-rice-calrose-medium-grain",
+   "name": "sunrice brown rice calrose medium grain",
+   "brand": "sunrice",
+   "size": "5kg",
+   "pct": 49,
+   "department": "Pantry",
+   "details": {
+    "allergens": "",
+    "brand": "sunrice",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Medium Grain Wholegrain Brown Rice",
+    "mayContain": "",
+    "name": "sunrice brown rice calrose medium grain",
+    "packClaim": "Australian grown & owned, Brown Rice combines the nutrients of a whole grain with a distinctive nutty flavour. The outer layer contains vitamins and minerals including thiamin, niacin and magnesium. The slightly firm texture is perfect for salads and as a partner for grilled fish or chicken. Brown Rice is a tasty, nutritious base for many meals., Gluten free, Grilled lamb cutlets on mushroom and thyme brown rice, Source of protein, Wholegrain rice is a source of fibre with a delicious nutty flavour"
+   }
+  },
+  {
+   "code": "229658",
+   "slug": "coca-cola-soft-drink-zero-sugar",
+   "name": "coca cola soft drink zero sugar",
+   "brand": "coca cola",
+   "size": "8pack",
+   "pct": 29,
+   "department": "Drinks",
+   "details": null
+  },
+  {
    "code": "72617",
    "slug": "twinings-tea-earl-grey",
    "name": "twinings tea earl grey",
@@ -101,9 +251,9 @@
    }
   },
   {
-   "code": "888487",
-   "slug": "twinings-herbal-tea-pure-peppermint",
-   "name": "twinings herbal tea pure peppermint",
+   "code": "888464",
+   "slug": "twinings-herbal-tea-pure-camomile",
+   "name": "twinings herbal tea pure camomile",
    "brand": "twinings",
    "size": "80pack",
    "pct": 38,
@@ -113,47 +263,9 @@
     "brand": "twinings",
     "descriptionVegan": [],
     "fetched": "2026-10-11",
-    "ingredients": "Peppermint",
+    "ingredients": "Camomile.",
     "mayContain": "",
-    "name": "twinings herbal tea pure peppermint",
-    "packClaim": ""
-   }
-  },
-  {
-   "code": "829281",
-   "slug": "twinings-tea-english-breakfast-extra-strong",
-   "name": "twinings tea english breakfast extra strong",
-   "brand": "twinings",
-   "size": "80pack",
-   "pct": 38,
-   "department": "Drinks",
-   "details": {
-    "allergens": "",
-    "brand": "twinings",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Black Tea",
-    "mayContain": "",
-    "name": "twinings tea english breakfast extra strong",
-    "packClaim": ""
-   }
-  },
-  {
-   "code": "931160",
-   "slug": "twinings-fruit-tea-lemon-ginger",
-   "name": "twinings fruit tea lemon & ginger",
-   "brand": "twinings",
-   "size": "80pack",
-   "pct": 38,
-   "department": "Drinks",
-   "details": {
-    "allergens": "",
-    "brand": "twinings",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Ginger Root (39%), Lemon Flavour (20%), Lemongrass , Lemon Peel (10%), Blackberry Leaves, Acid (Citri c Acid), Ginger Flavour (3.5%).",
-    "mayContain": "",
-    "name": "twinings fruit tea lemon & ginger",
+    "name": "twinings herbal tea pure camomile",
     "packClaim": ""
    }
   },
@@ -177,6 +289,44 @@
    }
   },
   {
+   "code": "829281",
+   "slug": "twinings-tea-english-breakfast-extra-strong",
+   "name": "twinings tea english breakfast extra strong",
+   "brand": "twinings",
+   "size": "80pack",
+   "pct": 38,
+   "department": "Drinks",
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Black Tea",
+    "mayContain": "",
+    "name": "twinings tea english breakfast extra strong",
+    "packClaim": ""
+   }
+  },
+  {
+   "code": "888487",
+   "slug": "twinings-herbal-tea-pure-peppermint",
+   "name": "twinings herbal tea pure peppermint",
+   "brand": "twinings",
+   "size": "80pack",
+   "pct": 38,
+   "department": "Drinks",
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Peppermint",
+    "mayContain": "",
+    "name": "twinings herbal tea pure peppermint",
+    "packClaim": ""
+   }
+  },
+  {
    "code": "318680",
    "slug": "twinings-green-tea-pure",
    "name": "twinings green tea pure",
@@ -196,9 +346,9 @@
    }
   },
   {
-   "code": "888464",
-   "slug": "twinings-herbal-tea-pure-camomile",
-   "name": "twinings herbal tea pure camomile",
+   "code": "931160",
+   "slug": "twinings-fruit-tea-lemon-ginger",
+   "name": "twinings fruit tea lemon & ginger",
    "brand": "twinings",
    "size": "80pack",
    "pct": 38,
@@ -208,9 +358,9 @@
     "brand": "twinings",
     "descriptionVegan": [],
     "fetched": "2026-10-11",
-    "ingredients": "Camomile.",
+    "ingredients": "Ginger Root (39%), Lemon Flavour (20%), Lemongrass , Lemon Peel (10%), Blackberry Leaves, Acid (Citri c Acid), Ginger Flavour (3.5%).",
     "mayContain": "",
-    "name": "twinings herbal tea pure camomile",
+    "name": "twinings fruit tea lemon & ginger",
     "packClaim": ""
    }
   },
@@ -253,9 +403,9 @@
    }
   },
   {
-   "code": "266826",
-   "slug": "moccona-instant-coffee-indulgence-refill",
-   "name": "moccona instant coffee indulgence refill",
+   "code": "844910",
+   "slug": "moccona-instant-coffee-french-style-refill",
+   "name": "moccona instant coffee french style refill",
    "brand": "moccona",
    "size": "",
    "pct": 45,
@@ -265,10 +415,10 @@
     "brand": "moccona",
     "descriptionVegan": [],
     "fetched": "2026-10-11",
-    "ingredients": "100% Coffee Beans",
+    "ingredients": "Coffee Beans (100%)",
     "mayContain": "",
-    "name": "moccona instant coffee indulgence refill",
-    "packClaim": "A blend of 100% coffee beans have been carefully selected to give Moccona Indulgence a full-bodied and velvety flavour. Indulgence is a dark roasted coffee for the most indulgent coffee experience, Freeze dried instant coffee, Speciality blend, Velvety & full-bodied"
+    "name": "moccona instant coffee french style refill",
+    "packClaim": "Freeze dried instant coffee, Inspired by France, enjoy a delicate and aromatic freeze dried coffee. Finest quality coffee beans are carefully selected and lightly roasted to create a smooth and rounded coffee experience., Smooth & rounded"
    }
   },
   {
@@ -310,9 +460,9 @@
    }
   },
   {
-   "code": "844910",
-   "slug": "moccona-instant-coffee-french-style-refill",
-   "name": "moccona instant coffee french style refill",
+   "code": "266826",
+   "slug": "moccona-instant-coffee-indulgence-refill",
+   "name": "moccona instant coffee indulgence refill",
    "brand": "moccona",
    "size": "",
    "pct": 45,
@@ -322,19 +472,69 @@
     "brand": "moccona",
     "descriptionVegan": [],
     "fetched": "2026-10-11",
-    "ingredients": "Coffee Beans (100%)",
+    "ingredients": "100% Coffee Beans",
     "mayContain": "",
-    "name": "moccona instant coffee french style refill",
-    "packClaim": "Freeze dried instant coffee, Inspired by France, enjoy a delicate and aromatic freeze dried coffee. Finest quality coffee beans are carefully selected and lightly roasted to create a smooth and rounded coffee experience., Smooth & rounded"
+    "name": "moccona instant coffee indulgence refill",
+    "packClaim": "A blend of 100% coffee beans have been carefully selected to give Moccona Indulgence a full-bodied and velvety flavour. Indulgence is a dark roasted coffee for the most indulgent coffee experience, Freeze dried instant coffee, Speciality blend, Velvety & full-bodied"
    }
   },
   {
-   "code": "6057500",
-   "slug": "vibe-coffee-capsules-medium-52g",
-   "name": "vibe coffee capsules medium 52g",
-   "brand": "vibe",
-   "size": "10pack",
-   "pct": 30,
+   "code": "788766",
+   "slug": "robert-harris-coffee-beans-italian-roast",
+   "name": "robert harris coffee beans italian roast",
+   "brand": "robert harris",
+   "size": "200g",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "788771",
+   "slug": "robert-harris-espresso-grind-italian-roast",
+   "name": "robert harris espresso grind italian roast",
+   "brand": "robert harris",
+   "size": "200g",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "306103",
+   "slug": "robert-harris-plunger-filter-grind-start-me-up",
+   "name": "robert harris plunger & filter grind start me up",
+   "brand": "robert harris",
+   "size": "200g",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "306086",
+   "slug": "robert-harris-plunger-filter-grind-italian-roast",
+   "name": "robert harris plunger & filter grind italian roast",
+   "brand": "robert harris",
+   "size": "200g",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "306111",
+   "slug": "robert-harris-coffee-beans-arabica-gold",
+   "name": "robert harris coffee beans arabica gold",
+   "brand": "robert harris",
+   "size": "200g",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "306099",
+   "slug": "robert-harris-plunger-filter-grind-french-roast",
+   "name": "robert harris plunger & filter grind french roast",
+   "brand": "robert harris",
+   "size": "200g",
+   "pct": 25,
    "department": "Drinks",
    "details": null
   },
@@ -359,6 +559,26 @@
    "details": null
   },
   {
+   "code": "6057500",
+   "slug": "vibe-coffee-capsules-medium-52g",
+   "name": "vibe coffee capsules medium 52g",
+   "brand": "vibe",
+   "size": "10pack",
+   "pct": 30,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "867270",
+   "slug": "robert-harris-intense-shot-coffee-pods-italian",
+   "name": "robert harris intense shot coffee pods italian",
+   "brand": "robert harris intense shot",
+   "size": "53g",
+   "pct": 32,
+   "department": "Drinks",
+   "details": null
+  },
+  {
    "code": "922480",
    "slug": "robert-harris-coffee-pods-italian-espresso",
    "name": "robert harris coffee pods italian espresso",
@@ -379,13 +599,33 @@
    "details": null
   },
   {
-   "code": "867270",
-   "slug": "robert-harris-intense-shot-coffee-pods-italian",
-   "name": "robert harris intense shot coffee pods italian",
-   "brand": "robert harris intense shot",
-   "size": "53g",
-   "pct": 32,
-   "department": "Drinks",
+   "code": "70768",
+   "slug": "sharwoods-curry-paste-tandoori-medium",
+   "name": "sharwoods curry paste tandoori medium",
+   "brand": "sharwoods",
+   "size": "290g",
+   "pct": 25,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "70732",
+   "slug": "sharwoods-curry-paste-korma-mild",
+   "name": "sharwoods curry paste korma mild",
+   "brand": "sharwoods",
+   "size": "280g",
+   "pct": 25,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "41968",
+   "slug": "sharwoods-chutney-mango",
+   "name": "sharwoods chutney mango",
+   "brand": "sharwoods",
+   "size": "354g",
+   "pct": 25,
+   "department": "Pantry",
    "details": null
   },
   {
@@ -408,6 +648,56 @@
    }
   },
   {
+   "code": "781884",
+   "slug": "hubbards-light-right-cereal-hazelnut-almond",
+   "name": "hubbards light & right cereal hazelnut & almond",
+   "brand": "hubbards light & right",
+   "size": "425g",
+   "pct": 29,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "159875",
+   "slug": "farrah-s-wraps-original-low-carb",
+   "name": "farrah's wraps original low carb",
+   "brand": "farrah's",
+   "size": "6pack",
+   "pct": 27,
+   "department": "Bakery",
+   "details": null
+  },
+  {
+   "code": "56006",
+   "slug": "farrah-s-low-carb-wraps-ultra-keto",
+   "name": "farrah's low carb wraps ultra keto",
+   "brand": "farrah's",
+   "size": "5pack",
+   "pct": 27,
+   "department": "Bakery",
+   "details": null
+  },
+  {
+   "code": "248065",
+   "slug": "farrah-s-low-carb-wraps-keto-8-inch",
+   "name": "farrah's low carb wraps keto 8 inch",
+   "brand": "farrah's",
+   "size": "6pack",
+   "pct": 27,
+   "department": "Bakery",
+   "details": null
+  },
+  {
+   "code": "6027917",
+   "slug": "hubbards-granola-clusters-crunchy-vanilla",
+   "name": "hubbards granola clusters crunchy vanilla",
+   "brand": "hubbards",
+   "size": "425g",
+   "pct": 28,
+   "department": "Pantry",
+   "details": null
+  },
+  {
    "code": "266588",
    "slug": "greggs-granulated-instant-coffee-decaf-roast",
    "name": "greggs granulated instant coffee decaf roast",
@@ -424,25 +714,6 @@
     "mayContain": "",
     "name": "greggs granulated instant coffee decaf roast",
     "packClaim": "Here at Gregg's we've been PIONEERS at roasting coffee the way New Zealanders like it since way back when. In fact our team in Dunedin have been obsessed with roasting coffee for OVER 150 YEARS now. And it's a passion that continues today. Yep, armed with an uncanny nose for TASTE, and some of the most full and flavour some coffee around, we're still at it - finding ever-more ingenious ways of squeezing the flavour every Kiwi loves out of those awesome little beans. TAKE A SIP and see for yourself. We reckon you'll agree all those years have been worth it., NZ's own - made in Dunedin, Strong invigorating flavours"
-   }
-  },
-  {
-   "code": "78273",
-   "slug": "woolworths-bread-rolls-crusty-family-pack",
-   "name": "woolworths bread rolls crusty family pack",
-   "brand": "woolworths",
-   "size": "15pack",
-   "pct": 43,
-   "department": "Bakery",
-   "details": {
-    "allergens": "Wheat, Gluten, Soy.",
-    "brand": "woolworths",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Wheat Flour, Water, Wheat Gluten, Yeast, Malted Rye, Iodised Salt, Soya Flour, Vitamin (Folic Acid).",
-    "mayContain": "Egg, Milk, Peanuts, Tree Nuts, Sesame, Sulphites.",
-    "name": "woolworths bread rolls crusty family pack",
-    "packClaim": ""
    }
   },
   {
@@ -465,6 +736,25 @@
    }
   },
   {
+   "code": "78273",
+   "slug": "woolworths-bread-rolls-crusty-family-pack",
+   "name": "woolworths bread rolls crusty family pack",
+   "brand": "woolworths",
+   "size": "15pack",
+   "pct": 43,
+   "department": "Bakery",
+   "details": {
+    "allergens": "Wheat, Gluten, Soy.",
+    "brand": "woolworths",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Wheat Flour, Water, Wheat Gluten, Yeast, Malted Rye, Iodised Salt, Soya Flour, Vitamin (Folic Acid).",
+    "mayContain": "Egg, Milk, Peanuts, Tree Nuts, Sesame, Sulphites.",
+    "name": "woolworths bread rolls crusty family pack",
+    "packClaim": ""
+   }
+  },
+  {
    "code": "266721",
    "slug": "greggs-powdered-instant-coffee-red-ribbon-roast",
    "name": "greggs powdered instant coffee red ribbon roast",
@@ -472,6 +762,16 @@
    "size": "100g",
    "pct": 41,
    "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "122372",
+   "slug": "watties-hash-bites",
+   "name": "watties hash bites",
+   "brand": "watties",
+   "size": "700g",
+   "pct": 28,
+   "department": "Frozen",
    "details": null
   },
   {
@@ -494,6 +794,36 @@
    }
   },
   {
+   "code": "409330",
+   "slug": "barker-s-apricot-sauce-nz-spiced-with-mango",
+   "name": "barker's apricot sauce nz spiced with mango",
+   "brand": "barker's",
+   "size": "330g",
+   "pct": 25,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "409242",
+   "slug": "barker-s-plum-sauce-rich-red",
+   "name": "barker's plum sauce rich red",
+   "brand": "barker's",
+   "size": "325g",
+   "pct": 25,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "909277",
+   "slug": "barker-s-cranberry-sauce",
+   "name": "barker's cranberry sauce",
+   "brand": "barker's",
+   "size": "315g",
+   "pct": 25,
+   "department": "Pantry",
+   "details": null
+  },
+  {
    "code": "6037736",
    "slug": "woolworths-turkish-loaf",
    "name": "woolworths turkish loaf",
@@ -513,6 +843,16 @@
    }
   },
   {
+   "code": "901487",
+   "slug": "kashish-basmati-rice-basmati-rice",
+   "name": "kashish basmati rice basmati rice",
+   "brand": "kashish",
+   "size": "1kg",
+   "pct": 25,
+   "department": "Pantry",
+   "details": null
+  },
+  {
    "code": "5354",
    "slug": "robert-timms-coffee-bags-italian",
    "name": "robert timms coffee bags italian",
@@ -520,6 +860,36 @@
    "size": "8pack",
    "pct": 36,
    "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "6006770",
+   "slug": "arepa-chilled-juice-ginger-peach-for-uplift",
+   "name": "arepa chilled juice ginger peach for uplift",
+   "brand": "arepa",
+   "size": "300mL",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "6044042",
+   "slug": "arepa-the-brain-drink-sparkling-lemon-yuzu-vanilla",
+   "name": "arepa the brain drink sparkling lemon yuzu & vanilla",
+   "brand": "arepa the brain",
+   "size": "300mL",
+   "pct": 25,
+   "department": "Fridge & Deli",
+   "details": null
+  },
+  {
+   "code": "6043968",
+   "slug": "arepa-the-brain-drink-uplift-spiced-sparkling-orange",
+   "name": "arepa the brain drink uplift spiced sparkling orange",
+   "brand": "arepa the brain",
+   "size": "300mL",
+   "pct": 25,
+   "department": "Fridge & Deli",
    "details": null
   },
   {
@@ -542,6 +912,37 @@
    }
   },
   {
+   "code": "928942",
+   "slug": "proper-crisps-kumara-chips-seasalt",
+   "name": "proper crisps kumara chips seasalt",
+   "brand": "proper crisps",
+   "size": "100g",
+   "pct": 32,
+   "department": "Pantry",
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "Made in new zealand; vegan; gluten free; gmo free; trans-fat free; high olei"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Seasonal Kumara, High Oleic Sunflower Oil, Sea Salt.",
+    "mayContain": "",
+    "name": "proper crisps kumara chips seasalt",
+    "packClaim": "GLUTEN FREE"
+   }
+  },
+  {
+   "code": "111296",
+   "slug": "olina-s-bakehouse-simply-seed-crackers-original",
+   "name": "olina's bakehouse simply seed crackers original",
+   "brand": "olina's bakehouse simply seed",
+   "size": "80g",
+   "pct": 28,
+   "department": "Pantry",
+   "details": null
+  },
+  {
    "code": "772595",
    "slug": "proper-crisps-chips-marlborough-sea-salt",
    "name": "proper crisps chips marlborough sea salt",
@@ -560,6 +961,48 @@
     "mayContain": "",
     "name": "proper crisps chips marlborough sea salt",
     "packClaim": "GLUTEN FREE, LACTOSE FREE"
+   }
+  },
+  {
+   "code": "772632",
+   "slug": "proper-crisps-chips-rosemary-thyme",
+   "name": "proper crisps chips rosemary & thyme",
+   "brand": "proper crisps",
+   "size": "150g",
+   "pct": 32,
+   "department": "Pantry",
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "100% new zealand grown potatoes; naturally gluten-free, vegan &amp; gmo free; made in nelson, new zealand; high"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Sea Salt, Rose mary, Thyme",
+    "mayContain": "",
+    "name": "proper crisps chips rosemary & thyme",
+    "packClaim": "GLUTEN FREE, LACTOSE FREE"
+   }
+  },
+  {
+   "code": "917612",
+   "slug": "proper-crisps-chips-chilli",
+   "name": "proper crisps chips chilli",
+   "brand": "proper crisps",
+   "size": "150g",
+   "pct": 32,
+   "department": "Pantry",
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "Chilli crisp; 100% new zealand grown potatoes; naturally gluten-free, vegan &amp; gmo free; made in nelson, new zealand; high"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Yeast Extracts, Chilli (Flakes, Powder), Sea Salt, Raw Sugar, Sweet Paprika, Sichuan Pepper",
+    "mayContain": "",
+    "name": "proper crisps chips chilli",
+    "packClaim": "GLUTEN FREE"
    }
   },
   {
@@ -603,27 +1046,6 @@
    }
   },
   {
-   "code": "928942",
-   "slug": "proper-crisps-kumara-chips-seasalt",
-   "name": "proper crisps kumara chips seasalt",
-   "brand": "proper crisps",
-   "size": "100g",
-   "pct": 32,
-   "department": "Pantry",
-   "details": {
-    "allergens": "",
-    "brand": "proper crisps",
-    "descriptionVegan": [
-     "Made in new zealand; vegan; gluten free; gmo free; trans-fat free; high olei"
-    ],
-    "fetched": "2026-10-11",
-    "ingredients": "Seasonal Kumara, High Oleic Sunflower Oil, Sea Salt.",
-    "mayContain": "",
-    "name": "proper crisps kumara chips seasalt",
-    "packClaim": "GLUTEN FREE"
-   }
-  },
-  {
    "code": "665718",
    "slug": "proper-crisps-chips-garden-medley",
    "name": "proper crisps chips garden medley",
@@ -645,45 +1067,81 @@
    }
   },
   {
-   "code": "917612",
-   "slug": "proper-crisps-chips-chilli",
-   "name": "proper crisps chips chilli",
-   "brand": "proper crisps",
-   "size": "150g",
-   "pct": 32,
-   "department": "Pantry",
+   "code": "179076",
+   "slug": "coca-cola-soft-drink-diet-coke",
+   "name": "coca cola soft drink diet coke",
+   "brand": "coca cola",
+   "size": "2.25L",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "822845",
+   "slug": "mccain-pub-style-extra-crispy-fries-signature-seasoning",
+   "name": "mccain pub style extra crispy fries signature seasoning",
+   "brand": "mccain pub style",
+   "size": "750g",
+   "pct": 38,
+   "department": "Frozen",
    "details": {
-    "allergens": "",
-    "brand": "proper crisps",
-    "descriptionVegan": [
-     "Chilli crisp; 100% new zealand grown potatoes; naturally gluten-free, vegan &amp; gmo free; made in nelson, new zealand; high"
-    ],
+    "allergens": "Sulphites, Gluten, Wheat",
+    "brand": "mccain pub style",
+    "descriptionVegan": [],
     "fetched": "2026-10-11",
-    "ingredients": "Potatoes, High Oleic Sunflower Oil, Yeast Extracts, Chilli (Flakes, Powder), Sea Salt, Raw Sugar, Sweet Paprika, Sichuan Pepper",
+    "ingredients": "Potato (90%), Batter (Wheat Flour, Wheat Starch, S alt, Maize Flour, Paprika, Onion Powder, Garlic P o wder, Black Pepper, Dextrose), Canola Oil",
     "mayContain": "",
-    "name": "proper crisps chips chilli",
-    "packClaim": "GLUTEN FREE"
+    "name": "mccain pub style extra crispy fries signature seasoning",
+    "packClaim": "Low cholesterol, McCAIN PUB STYLE EXTRA CRISPY ARE more than a chip. THEY’RE A PUB MEAL AT HOME. TO CREATE YOUR FAVOURITE PUB CLASSIC, SERVE THEM ALONG WITH A juicy STEAK, delicious PARMA OR CRISPY BATTERED FISH., McCain Signature Seasoning, No artificial colours of flavours, No preservatives"
    }
   },
   {
-   "code": "772632",
-   "slug": "proper-crisps-chips-rosemary-thyme",
-   "name": "proper crisps chips rosemary & thyme",
-   "brand": "proper crisps",
-   "size": "150g",
-   "pct": 32,
+   "code": "271636",
+   "slug": "sprite-lemonade-lemon-lime-no-sugar",
+   "name": "sprite lemonade lemon lime no sugar",
+   "brand": "sprite",
+   "size": "2.25L",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "179075",
+   "slug": "coca-cola-soft-drink-coke",
+   "name": "coca cola soft drink coke",
+   "brand": "coca cola",
+   "size": "2.25L",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "324231",
+   "slug": "uncle-tobys-roll-ups-fruit-snack-fun-prints-strawberry",
+   "name": "uncle tobys roll-ups fruit snack fun prints strawberry",
+   "brand": "uncle tobys roll-ups",
+   "size": "94g",
+   "pct": 27,
    "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "272784",
+   "slug": "wattie-s-frozen-mixed-vegetables-carrots-peas-beans-corn",
+   "name": "wattie's frozen mixed vegetables carrots, peas, beans & corn",
+   "brand": "wattie's",
+   "size": "1kg",
+   "pct": 34,
+   "department": "Frozen",
    "details": {
     "allergens": "",
-    "brand": "proper crisps",
-    "descriptionVegan": [
-     "100% new zealand grown potatoes; naturally gluten-free, vegan &amp; gmo free; made in nelson, new zealand; high"
-    ],
+    "brand": "wattie's",
+    "descriptionVegan": [],
     "fetched": "2026-10-11",
-    "ingredients": "Potatoes, High Oleic Sunflower Oil, Sea Salt, Rose mary, Thyme",
+    "ingredients": "Carrots, Peas, Green Beans, Sweetcorn",
     "mayContain": "",
-    "name": "proper crisps chips rosemary & thyme",
-    "packClaim": "GLUTEN FREE, LACTOSE FREE"
+    "name": "wattie's frozen mixed vegetables carrots, peas, beans & corn",
+    "packClaim": "Pick of the Crop™ – Since 1934 Wattie’s has been selecting fruit and vegetables at the peak of their season so that the taste and goodness is available all year round. Thanks to this we can still enjoy the quality of Wattie’s Pick of the Crop today., 13 serves of vegetables per pack - one serve of vegetables = 75g., Carrots, peas, green beans & sweetcorn, Good source of vitamin A, Individually snap frozen to lock in flavour texture & goodness, No preservatives, Snap frozen locked in goodness, Source of dietary fibre and folate"
    }
   },
   {
@@ -706,99 +1164,14 @@
    }
   },
   {
-   "code": "272779",
-   "slug": "wattie-s-frozen-garden-peas",
-   "name": "wattie's frozen garden peas",
-   "brand": "wattie's",
-   "size": "1kg",
-   "pct": 34,
-   "department": "Frozen",
-   "details": {
-    "allergens": "",
-    "brand": "wattie's",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Peas",
-    "mayContain": "",
-    "name": "wattie's frozen garden peas ",
-    "packClaim": "13 serves of vegetables per pack - one serve of vegetable = 75g. Aim for a variety of vegetables each day., From the Canterbury plains, Good source of folate, High in dietary fibre, Individually snap frozen within hours of harvest to lock in flavour, nutrients & texture, No added flavours or colours, No preservatives, NZ grown peas, Pick of the Crop™ – In 1934 Sir James Wattie had a vision, to capture the goodness of fruit and vegetables at their peak from around New Zealand. Thanks to his foresight, we can still enjoy Wattie's 'pick of the crop' any time of year., Source of vitamin C, Wattie's® Freshlock™ snap frozen"
-   }
-  },
-  {
-   "code": "822845",
-   "slug": "mccain-pub-style-extra-crispy-fries-signature-seasoning",
-   "name": "mccain pub style extra crispy fries signature seasoning",
-   "brand": "mccain pub style",
-   "size": "750g",
-   "pct": 38,
-   "department": "Frozen",
-   "details": {
-    "allergens": "Sulphites, Gluten, Wheat",
-    "brand": "mccain pub style",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Potato (90%), Batter (Wheat Flour, Wheat Starch, S alt, Maize Flour, Paprika, Onion Powder, Garlic P o wder, Black Pepper, Dextrose), Canola Oil",
-    "mayContain": "",
-    "name": "mccain pub style extra crispy fries signature seasoning",
-    "packClaim": "Low cholesterol, McCAIN PUB STYLE EXTRA CRISPY ARE more than a chip. THEY’RE A PUB MEAL AT HOME. TO CREATE YOUR FAVOURITE PUB CLASSIC, SERVE THEM ALONG WITH A juicy STEAK, delicious PARMA OR CRISPY BATTERED FISH., McCain Signature Seasoning, No artificial colours of flavours, No preservatives"
-   }
-  },
-  {
-   "code": "53205",
-   "slug": "mccain-pub-style-crispy-wedges-signature-seasoning",
-   "name": "mccain pub style crispy wedges signature seasoning",
-   "brand": "mccain pub style",
-   "size": "750g",
-   "pct": 38,
-   "department": "Frozen",
-   "details": {
-    "allergens": "Sulphites, Gluten, Wheat",
-    "brand": "mccain pub style",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Potato (91%), Batter (Wheat Flour, Wheat Starch, Salt, Maize Flour, Paprika, Onion Powder, Garlic Powder, Black Pepper, Dextrose), Canola Oil",
-    "mayContain": "",
-    "name": "mccain pub style crispy wedges signature seasoning",
-    "packClaim": "McCain pub style wedges are more than a chip. They're a pub meal at home. To create your favourite pub classic, serve them along with a juicy steak, delicious parma or crispy battered fish., McCain signature seasoning, No artificial colours or flavours, Source of fibre"
-   }
-  },
-  {
-   "code": "272784",
-   "slug": "wattie-s-frozen-mixed-vegetables-carrots-peas-beans-corn",
-   "name": "wattie's frozen mixed vegetables carrots, peas, beans & corn",
-   "brand": "wattie's",
-   "size": "1kg",
-   "pct": 34,
-   "department": "Frozen",
-   "details": {
-    "allergens": "",
-    "brand": "wattie's",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Carrots, Peas, Green Beans, Sweetcorn",
-    "mayContain": "",
-    "name": "wattie's frozen mixed vegetables carrots, peas, beans & corn",
-    "packClaim": "Pick of the Crop™ – Since 1934 Wattie’s has been selecting fruit and vegetables at the peak of their season so that the taste and goodness is available all year round. Thanks to this we can still enjoy the quality of Wattie’s Pick of the Crop today., 13 serves of vegetables per pack - one serve of vegetables = 75g., Carrots, peas, green beans & sweetcorn, Good source of vitamin A, Individually snap frozen to lock in flavour texture & goodness, No preservatives, Snap frozen locked in goodness, Source of dietary fibre and folate"
-   }
-  },
-  {
-   "code": "34936",
-   "slug": "mccain-pub-style-straight-fries-signature-seasoning",
-   "name": "mccain pub style straight fries signature seasoning",
-   "brand": "mccain pub style",
-   "size": "750g",
-   "pct": 38,
-   "department": "Frozen",
-   "details": {
-    "allergens": "Sulphites, Gluten, Wheat",
-    "brand": "mccain pub style",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Potato (91%), Batter (Wheat Flour, Wheat Starch, S alt, Maize Flour, Paprika, Onion Powder, Garlic P o wder, Black Pepper, Dextrose), Canola Oil",
-    "mayContain": "",
-    "name": "mccain pub style straight fries signature seasoning",
-    "packClaim": "McCain pub style fries are more than a chip. They're a pub meal at home. To create your favourite pub classic, serve them along with a juicy steak, delicious parma or crispy battered fish., McCain signature seasoning, No artificial colours or flavours, Source of fibre, We should all lower our intake of cholesterol and select unsaturated fats and oils in preference to saturated fats and oils. This product has been cooked in monounsaturated vegetable oil which means that when these chips are cooked in your oven, according to the cooking instructions, the cholesterol level will be negligible compared to chips cooked in animal fat."
-   }
+   "code": "179078",
+   "slug": "fanta-soft-drink-orange",
+   "name": "fanta soft drink orange",
+   "brand": "fanta",
+   "size": "2.25L",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
   },
   {
    "code": "507665",
@@ -820,6 +1193,123 @@
     "name": "be right coconut rolls ",
     "packClaim": "GLUTEN FREE, Free From Artificial Colour;Free From Flavour Enhancers;Free From Preservatives;Free From Dairy;; Vegan; USDA Organic"
    }
+  },
+  {
+   "code": "179077",
+   "slug": "sprite-lemonade-lemon-lime",
+   "name": "sprite lemonade lemon lime",
+   "brand": "sprite",
+   "size": "2.25L",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "324234",
+   "slug": "uncle-tobys-roll-ups-fruit-snack-rainbow-berry-berry",
+   "name": "uncle tobys roll-ups fruit snack rainbow berry berry",
+   "brand": "uncle tobys roll-ups",
+   "size": "94g",
+   "pct": 27,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "53205",
+   "slug": "mccain-pub-style-crispy-wedges-signature-seasoning",
+   "name": "mccain pub style crispy wedges signature seasoning",
+   "brand": "mccain pub style",
+   "size": "750g",
+   "pct": 38,
+   "department": "Frozen",
+   "details": {
+    "allergens": "Sulphites, Gluten, Wheat",
+    "brand": "mccain pub style",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potato (91%), Batter (Wheat Flour, Wheat Starch, Salt, Maize Flour, Paprika, Onion Powder, Garlic Powder, Black Pepper, Dextrose), Canola Oil",
+    "mayContain": "",
+    "name": "mccain pub style crispy wedges signature seasoning",
+    "packClaim": "McCain pub style wedges are more than a chip. They're a pub meal at home. To create your favourite pub classic, serve them along with a juicy steak, delicious parma or crispy battered fish., McCain signature seasoning, No artificial colours or flavours, Source of fibre"
+   }
+  },
+  {
+   "code": "179083",
+   "slug": "lift-soft-drink-lemon",
+   "name": "lift soft drink lemon",
+   "brand": "lift",
+   "size": "2.25L",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "451923",
+   "slug": "leggo-s-pasta-sauce-roasted-garlic-tomato-onion",
+   "name": "leggo's pasta sauce roasted garlic tomato & onion",
+   "brand": "leggo's",
+   "size": "500g",
+   "pct": 25,
+   "department": "Dinner",
+   "details": null
+  },
+  {
+   "code": "34936",
+   "slug": "mccain-pub-style-straight-fries-signature-seasoning",
+   "name": "mccain pub style straight fries signature seasoning",
+   "brand": "mccain pub style",
+   "size": "750g",
+   "pct": 38,
+   "department": "Frozen",
+   "details": {
+    "allergens": "Sulphites, Gluten, Wheat",
+    "brand": "mccain pub style",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potato (91%), Batter (Wheat Flour, Wheat Starch, S alt, Maize Flour, Paprika, Onion Powder, Garlic P o wder, Black Pepper, Dextrose), Canola Oil",
+    "mayContain": "",
+    "name": "mccain pub style straight fries signature seasoning",
+    "packClaim": "McCain pub style fries are more than a chip. They're a pub meal at home. To create your favourite pub classic, serve them along with a juicy steak, delicious parma or crispy battered fish., McCain signature seasoning, No artificial colours or flavours, Source of fibre, We should all lower our intake of cholesterol and select unsaturated fats and oils in preference to saturated fats and oils. This product has been cooked in monounsaturated vegetable oil which means that when these chips are cooked in your oven, according to the cooking instructions, the cholesterol level will be negligible compared to chips cooked in animal fat."
+   }
+  },
+  {
+   "code": "450687",
+   "slug": "leggo-s-pasta-sauce-bolognese",
+   "name": "leggo's pasta sauce bolognese",
+   "brand": "leggo's",
+   "size": "500g",
+   "pct": 25,
+   "department": "Dinner",
+   "details": null
+  },
+  {
+   "code": "272779",
+   "slug": "wattie-s-frozen-garden-peas",
+   "name": "wattie's frozen garden peas",
+   "brand": "wattie's",
+   "size": "1kg",
+   "pct": 34,
+   "department": "Frozen",
+   "details": {
+    "allergens": "",
+    "brand": "wattie's",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Peas",
+    "mayContain": "",
+    "name": "wattie's frozen garden peas ",
+    "packClaim": "13 serves of vegetables per pack - one serve of vegetable = 75g. Aim for a variety of vegetables each day., From the Canterbury plains, Good source of folate, High in dietary fibre, Individually snap frozen within hours of harvest to lock in flavour, nutrients & texture, No added flavours or colours, No preservatives, NZ grown peas, Pick of the Crop™ – In 1934 Sir James Wattie had a vision, to capture the goodness of fruit and vegetables at their peak from around New Zealand. Thanks to his foresight, we can still enjoy Wattie's 'pick of the crop' any time of year., Source of vitamin C, Wattie's® Freshlock™ snap frozen"
+   }
+  },
+  {
+   "code": "451922",
+   "slug": "leggo-s-bolognese-pasta-sauce-red-wine-tomato-herbs",
+   "name": "leggo's bolognese pasta sauce red wine tomato & herbs",
+   "brand": "leggo's bolognese",
+   "size": "500g",
+   "pct": 25,
+   "department": "Pantry",
+   "details": null
   },
   {
    "code": "800973",
@@ -898,6 +1388,26 @@
    }
   },
   {
+   "code": "270378",
+   "slug": "watties-tomato-sauce",
+   "name": "watties tomato sauce",
+   "brand": "watties",
+   "size": "575g",
+   "pct": 26,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "270377",
+   "slug": "watties-tomato-sauce-lite-reduced-salt",
+   "name": "watties tomato sauce lite reduced salt",
+   "brand": "watties",
+   "size": "560g",
+   "pct": 26,
+   "department": "Pantry",
+   "details": null
+  },
+  {
    "code": "265696",
    "slug": "harvest-snaps-pea-crisps-original-salted-90g",
    "name": "harvest snaps pea crisps original salted 90g",
@@ -917,42 +1427,44 @@
    }
   },
   {
-   "code": "816096",
-   "slug": "pringles-chips-minis-original-95g",
-   "name": "pringles chips minis original 95g",
-   "brand": "pringles",
-   "size": "5pack",
-   "pct": 33,
+   "code": "267557",
+   "slug": "sunrice-jasmine-rice",
+   "name": "sunrice jasmine rice",
+   "brand": "sunrice",
+   "size": "1kg",
+   "pct": 28,
    "department": "Pantry",
-   "details": {
-    "allergens": "Gluten, Wheat",
-    "brand": "pringles",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Dehydrated potato, vegetable oils, wheat starch (gluten), rice flour, emulsifier (471), salt, maltodextrin, acidity regulator (330).",
-    "mayContain": "",
-    "name": "pringles chips minis original 95g",
-    "packClaim": "\"They're still irresistible, and they're still big on taste, but they're mini! Perfect individual sized packs to pop in your bag or lunch box as a snack on the go!\", 5 packs, Vegan, Vegetarian"
-   }
+   "details": null
   },
   {
-   "code": "312759",
-   "slug": "huntley-palmers-crackers-sesameal-original",
-   "name": "huntley & palmers crackers sesameal original",
-   "brand": "huntley & palmers",
-   "size": "200g",
-   "pct": 33,
+   "code": "33183",
+   "slug": "sunrice-white-rice-calrose-medium-grain",
+   "name": "sunrice white rice calrose medium grain",
+   "brand": "sunrice",
+   "size": "1kg",
+   "pct": 28,
    "department": "Pantry",
-   "details": {
-    "allergens": "Sesame, Gluten, Wheat",
-    "brand": "huntley & palmers",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Kibbled Wheat, Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Toasted Sesame Seeds (3%), Salt, Raising Agent (Baking Soda), Yeast.",
-    "mayContain": "Egg, Milk, Sulphites, Soy",
-    "name": "huntley & palmers crackers sesameal original",
-    "packClaim": "Baked in NZ, No artificial colours flavours, Product shown not actual size, The original crisp, toasted sesame seed cracker. The Huntley & Plamers story began way back in 1822 when Thomas Huntley and George Plamer started crafting crackers in reading, England. A lot has changed since then, but we're still passionate about  baking the best crackers and making life tastier."
-   }
+   "details": null
+  },
+  {
+   "code": "94536",
+   "slug": "sunrice-brown-rice-calrose-medium-grain",
+   "name": "sunrice brown rice calrose medium grain",
+   "brand": "sunrice",
+   "size": "1kg",
+   "pct": 28,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "293212",
+   "slug": "keri-premium-fruit-juice-pineapple",
+   "name": "keri premium fruit juice pineapple",
+   "brand": "keri premium",
+   "size": "1L",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
   },
   {
    "code": "274912",
@@ -974,6 +1486,65 @@
    }
   },
   {
+   "code": "271718",
+   "slug": "schweppes-drink-mixers-diet-indian-tonic-water",
+   "name": "schweppes drink mixers diet indian tonic water",
+   "brand": "schweppes",
+   "size": "1.5L",
+   "pct": 33,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "271713",
+   "slug": "schweppes-drink-mixers-indian-tonic-water",
+   "name": "schweppes drink mixers indian tonic water",
+   "brand": "schweppes",
+   "size": "1.5L",
+   "pct": 33,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "293217",
+   "slug": "keri-premium-orange-juice",
+   "name": "keri premium orange juice",
+   "brand": "keri premium",
+   "size": "1L",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "816096",
+   "slug": "pringles-chips-minis-original-95g",
+   "name": "pringles chips minis original 95g",
+   "brand": "pringles",
+   "size": "5pack",
+   "pct": 33,
+   "department": "Pantry",
+   "details": {
+    "allergens": "Gluten, Wheat",
+    "brand": "pringles",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Dehydrated potato, vegetable oils, wheat starch (gluten), rice flour, emulsifier (471), salt, maltodextrin, acidity regulator (330).",
+    "mayContain": "",
+    "name": "pringles chips minis original 95g",
+    "packClaim": "\"They're still irresistible, and they're still big on taste, but they're mini! Perfect individual sized packs to pop in your bag or lunch box as a snack on the go!\", 5 packs, Vegan, Vegetarian"
+   }
+  },
+  {
+   "code": "271759",
+   "slug": "schweppes-ginger-beer",
+   "name": "schweppes ginger beer",
+   "brand": "schweppes",
+   "size": "1.5L",
+   "pct": 33,
+   "department": "Drinks",
+   "details": null
+  },
+  {
    "code": "705375",
    "slug": "huntley-palmers-wholegrain-crackers-8-grains",
    "name": "huntley & palmers wholegrain crackers 8 grains",
@@ -993,9 +1564,106 @@
    }
   },
   {
-   "code": "271718",
-   "slug": "schweppes-drink-mixers-diet-indian-tonic-water",
-   "name": "schweppes drink mixers diet indian tonic water",
+   "code": "271722",
+   "slug": "schweppes-drink-mixers-soda-water",
+   "name": "schweppes drink mixers soda water",
+   "brand": "schweppes",
+   "size": "1.5L",
+   "pct": 33,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "271724",
+   "slug": "schweppes-drink-mixers-diet-ginger-ale",
+   "name": "schweppes drink mixers diet ginger ale",
+   "brand": "schweppes",
+   "size": "1.5L",
+   "pct": 33,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "293225",
+   "slug": "keri-premium-tomato-juice-spicy",
+   "name": "keri premium tomato juice spicy",
+   "brand": "keri premium",
+   "size": "1L",
+   "pct": 25,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "271669",
+   "slug": "schweppes-drink-mixers-soda-with-a-twist-of-lemon",
+   "name": "schweppes drink mixers soda with a twist of lemon",
+   "brand": "schweppes",
+   "size": "1.5L",
+   "pct": 33,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "312759",
+   "slug": "huntley-palmers-crackers-sesameal-original",
+   "name": "huntley & palmers crackers sesameal original",
+   "brand": "huntley & palmers",
+   "size": "200g",
+   "pct": 33,
+   "department": "Pantry",
+   "details": {
+    "allergens": "Sesame, Gluten, Wheat",
+    "brand": "huntley & palmers",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Kibbled Wheat, Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Toasted Sesame Seeds (3%), Salt, Raising Agent (Baking Soda), Yeast.",
+    "mayContain": "Egg, Milk, Sulphites, Soy",
+    "name": "huntley & palmers crackers sesameal original",
+    "packClaim": "Baked in NZ, No artificial colours flavours, Product shown not actual size, The original crisp, toasted sesame seed cracker. The Huntley & Plamers story began way back in 1822 when Thomas Huntley and George Plamer started crafting crackers in reading, England. A lot has changed since then, but we're still passionate about  baking the best crackers and making life tastier."
+   }
+  },
+  {
+   "code": "312755",
+   "slug": "huntley-palmers-crackers-sesameal-cracked-pepper",
+   "name": "huntley & palmers crackers sesameal cracked pepper",
+   "brand": "huntley & palmers",
+   "size": "200g",
+   "pct": 33,
+   "department": "Pantry",
+   "details": {
+    "allergens": "Sesame, Gluten, Wheat",
+    "brand": "huntley & palmers",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Kibbled Wheat, Wheat Flour, Vegetable Fat and or Oil ((Antioxidant 307b)), Toasted Sesame Seeds (3%), Salt, Cracked Black Pepper (1%), Raising Agent (Baking Soda), Yeast.",
+    "mayContain": "Egg, Milk, Sulphites, Soy",
+    "name": "huntley & palmers crackers sesameal cracked pepper",
+    "packClaim": "Baked in NZ, Crisp, toasted sesame seed crackers with a hint of cracked black pepper., No artificial colours flavours, The Huntley & palmers story began way back in 1822 when Thomas Huntley and George palmer started crafting crackers in reading, England. A lot has changed since then, but we’re still passionate about baking the best crackers and making life tastier."
+   }
+  },
+  {
+   "code": "360870",
+   "slug": "huntley-palmers-crackers-classic-5-grain",
+   "name": "huntley & palmers crackers classic 5 grain",
+   "brand": "huntley & palmers",
+   "size": "200g",
+   "pct": 33,
+   "department": "Pantry",
+   "details": {
+    "allergens": "Sesame, Gluten, Wheat",
+    "brand": "huntley & palmers",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Grain & Seeds (62%) (Kibbled Meal Wheat, Kibbled Purple Wheat, Kibbled Red Wheat, Linseed, Toasted Sesame Seeds (3%)), Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Salt, Raising Agent (Baking Soda), Yeast.",
+    "mayContain": "Egg, Milk, Sulphites, Soy",
+    "name": "huntley & palmers crackers classic 5 grain",
+    "packClaim": "Baked in NZ, Crisp, toasted sesame seed crackers made with five classic grains and seeds. The Huntley & Plamers story began way back in 1822 when Thomas Huntley and George Plamer started crafting crackers in reading, England. A lot has changed since then, but we're still passionate about baking the best crackers and making life tastier., No artificial colours flavours"
+   }
+  },
+  {
+   "code": "271717",
+   "slug": "schweppes-lemonade",
+   "name": "schweppes lemonade",
    "brand": "schweppes",
    "size": "1.5L",
    "pct": 33,
@@ -1022,45 +1690,6 @@
    }
   },
   {
-   "code": "271713",
-   "slug": "schweppes-drink-mixers-indian-tonic-water",
-   "name": "schweppes drink mixers indian tonic water",
-   "brand": "schweppes",
-   "size": "1.5L",
-   "pct": 33,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "360870",
-   "slug": "huntley-palmers-crackers-classic-5-grain",
-   "name": "huntley & palmers crackers classic 5 grain",
-   "brand": "huntley & palmers",
-   "size": "200g",
-   "pct": 33,
-   "department": "Pantry",
-   "details": {
-    "allergens": "Sesame, Gluten, Wheat",
-    "brand": "huntley & palmers",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Grain & Seeds (62%) (Kibbled Meal Wheat, Kibbled Purple Wheat, Kibbled Red Wheat, Linseed, Toasted Sesame Seeds (3%)), Wheat Flour, Vegetable Fat and or Oil (Antioxidant (307b)), Salt, Raising Agent (Baking Soda), Yeast.",
-    "mayContain": "Egg, Milk, Sulphites, Soy",
-    "name": "huntley & palmers crackers classic 5 grain",
-    "packClaim": "Baked in NZ, Crisp, toasted sesame seed crackers made with five classic grains and seeds. The Huntley & Plamers story began way back in 1822 when Thomas Huntley and George Plamer started crafting crackers in reading, England. A lot has changed since then, but we're still passionate about baking the best crackers and making life tastier., No artificial colours flavours"
-   }
-  },
-  {
-   "code": "271669",
-   "slug": "schweppes-drink-mixers-soda-with-a-twist-of-lemon",
-   "name": "schweppes drink mixers soda with a twist of lemon",
-   "brand": "schweppes",
-   "size": "1.5L",
-   "pct": 33,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "271715",
    "slug": "schweppes-drink-mixers-ginger-ale",
    "name": "schweppes drink mixers ginger ale",
@@ -1071,61 +1700,32 @@
    "details": null
   },
   {
-   "code": "271717",
-   "slug": "schweppes-lemonade",
-   "name": "schweppes lemonade",
-   "brand": "schweppes",
-   "size": "1.5L",
-   "pct": 33,
+   "code": "293215",
+   "slug": "keri-premium-fruit-juice-grapefruit",
+   "name": "keri premium fruit juice grapefruit",
+   "brand": "keri premium",
+   "size": "1L",
+   "pct": 25,
    "department": "Drinks",
    "details": null
   },
   {
-   "code": "271724",
-   "slug": "schweppes-drink-mixers-diet-ginger-ale",
-   "name": "schweppes drink mixers diet ginger ale",
-   "brand": "schweppes",
-   "size": "1.5L",
-   "pct": 33,
+   "code": "293210",
+   "slug": "keri-premium-fruit-drink-cranberry",
+   "name": "keri premium fruit drink cranberry",
+   "brand": "keri premium",
+   "size": "1L",
+   "pct": 25,
    "department": "Drinks",
    "details": null
   },
   {
-   "code": "312755",
-   "slug": "huntley-palmers-crackers-sesameal-cracked-pepper",
-   "name": "huntley & palmers crackers sesameal cracked pepper",
-   "brand": "huntley & palmers",
-   "size": "200g",
-   "pct": 33,
-   "department": "Pantry",
-   "details": {
-    "allergens": "Sesame, Gluten, Wheat",
-    "brand": "huntley & palmers",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Kibbled Wheat, Wheat Flour, Vegetable Fat and or Oil ((Antioxidant 307b)), Toasted Sesame Seeds (3%), Salt, Cracked Black Pepper (1%), Raising Agent (Baking Soda), Yeast.",
-    "mayContain": "Egg, Milk, Sulphites, Soy",
-    "name": "huntley & palmers crackers sesameal cracked pepper",
-    "packClaim": "Baked in NZ, Crisp, toasted sesame seed crackers with a hint of cracked black pepper., No artificial colours flavours, The Huntley & palmers story began way back in 1822 when Thomas Huntley and George palmer started crafting crackers in reading, England. A lot has changed since then, but we’re still passionate about baking the best crackers and making life tastier."
-   }
-  },
-  {
-   "code": "271722",
-   "slug": "schweppes-drink-mixers-soda-water",
-   "name": "schweppes drink mixers soda water",
-   "brand": "schweppes",
-   "size": "1.5L",
-   "pct": 33,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "271759",
-   "slug": "schweppes-ginger-beer",
-   "name": "schweppes ginger beer",
-   "brand": "schweppes",
-   "size": "1.5L",
-   "pct": 33,
+   "code": "293216",
+   "slug": "keri-premium-tomato-juice",
+   "name": "keri premium tomato juice",
+   "brand": "keri premium",
+   "size": "1L",
+   "pct": 25,
    "department": "Drinks",
    "details": null
   },
@@ -1149,6 +1749,26 @@
    }
   },
   {
+   "code": "178085",
+   "slug": "musashi-energy-drink-blue-raspberry-zero-sugar",
+   "name": "musashi energy drink blue raspberry zero sugar",
+   "brand": "musashi",
+   "size": "500mL",
+   "pct": 25,
+   "department": "Health & Body",
+   "details": null
+  },
+  {
+   "code": "239289",
+   "slug": "musashi-energy-drink-green-apple",
+   "name": "musashi energy drink green apple",
+   "brand": "musashi",
+   "size": "500mL",
+   "pct": 25,
+   "department": "Health & Body",
+   "details": null
+  },
+  {
    "code": "176655",
    "slug": "the-natural-chip-company-corn-snacks-veggie-straws-lightly-salted",
    "name": "the natural chip company corn snacks veggie straws lightly salted",
@@ -1168,23 +1788,23 @@
    }
   },
   {
-   "code": "6055354",
-   "slug": "ours-bubbly-fruit-drink-feijoa-fizz",
-   "name": "ours. bubbly fruit drink feijoa fizz",
-   "brand": "ours. bubbly",
-   "size": "1.5L",
-   "pct": 35,
-   "department": "Drinks",
+   "code": "178289",
+   "slug": "musashi-energy-drink-purple-grape-zero-sugar",
+   "name": "musashi energy drink purple grape zero sugar",
+   "brand": "musashi",
+   "size": "500mL",
+   "pct": 25,
+   "department": "Health & Body",
    "details": null
   },
   {
-   "code": "6055293",
-   "slug": "ours-bubbly-fruit-drink-apple-spritz",
-   "name": "ours. bubbly fruit drink apple spritz",
-   "brand": "ours. bubbly",
-   "size": "1.5L",
-   "pct": 35,
-   "department": "Drinks",
+   "code": "178196",
+   "slug": "musashi-energy-drink-fruit-crush-zero-sugar",
+   "name": "musashi energy drink fruit crush zero sugar",
+   "brand": "musashi",
+   "size": "500mL",
+   "pct": 25,
+   "department": "Health & Body",
    "details": null
   },
   {
@@ -1208,23 +1828,94 @@
    "details": null
   },
   {
-   "code": "266586",
-   "slug": "sanitarium-skippy-cereal-cornflakes",
-   "name": "sanitarium skippy cereal cornflakes",
-   "brand": "sanitarium skippy",
-   "size": "300g",
+   "code": "6055293",
+   "slug": "ours-bubbly-fruit-drink-apple-spritz",
+   "name": "ours. bubbly fruit drink apple spritz",
+   "brand": "ours. bubbly",
+   "size": "1.5L",
    "pct": 35,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "6055354",
+   "slug": "ours-bubbly-fruit-drink-feijoa-fizz",
+   "name": "ours. bubbly fruit drink feijoa fizz",
+   "brand": "ours. bubbly",
+   "size": "1.5L",
+   "pct": 35,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "6070091",
+   "slug": "macy-tailor-tortilla-chips-grain-free-sea-salt",
+   "name": "macy & tailor tortilla chips grain free sea salt",
+   "brand": "macy & tailor",
+   "size": "50g",
+   "pct": 25,
    "department": "Pantry",
-   "details": {
-    "allergens": "Contains: Gluten, May contain: Soy, Wheat",
-    "brand": "sanitarium skippy",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Corn (89%), Sugar, Salt, Barley Malt Extract, Mineral (Iron), Vitamins (Niacin, Thiamin, Riboflavin, Folate)",
-    "mayContain": "",
-    "name": "sanitarium skippy cereal cornflakes",
-    "packClaim": "‘Bounce into the day’, 99% fat free, Less than a teaspoon of sugar per serve! - Per 30g serve without milk. Based on a teaspoon weight of white sugar (4.9g) as per The NZ Food Composition Tables, 11th Edition 2014., No artificial stuff - No artificial colours, flavours or preservatives., Our favourite cornflakes made right here in NZ!, Proudly 100% New Zealand owned, Sanitarium nutrition service - At Sanitarium we're right behind anything that helps you make smart decisions about the foods you choose. So that's why we were one of the first to sign up to the new voluntary Health Star Rating System. Anytime you see this star rating on a pack, you'll get an idea about what's inside, at a glance. The higher the Health Star Rating the better the choice., Source of iron and B vitamins, This product contains - Less than 1% fat; Vitamins B1, B2 & B3; Good source of iron, folate, thiamin & niacin; No artificial colours, flavours or preservatives"
-   }
+   "details": null
+  },
+  {
+   "code": "6069865",
+   "slug": "macy-tailor-tortilla-chips-grain-free-spicy-bbq",
+   "name": "macy & tailor tortilla chips grain free spicy bbq",
+   "brand": "macy & tailor",
+   "size": "50g",
+   "pct": 25,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "731000",
+   "slug": "e2-sports-drink-apple-crush",
+   "name": "e2 sports drink apple crush",
+   "brand": "e2",
+   "size": "800mL",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "11348",
+   "slug": "e2-sports-drink-apple-blackcurrant",
+   "name": "e2 sports drink apple & blackcurrant",
+   "brand": "e2",
+   "size": "800mL",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "264495",
+   "slug": "e2-sports-drink-mango",
+   "name": "e2 sports drink mango",
+   "brand": "e2",
+   "size": "800mL",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "11307",
+   "slug": "e2-sports-drink-orange",
+   "name": "e2 sports drink orange",
+   "brand": "e2",
+   "size": "800mL",
+   "pct": 26,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "909176",
+   "slug": "fiji-water-natural-artesian",
+   "name": "fiji water natural artesian",
+   "brand": "fiji",
+   "size": "1L",
+   "pct": 29,
+   "department": "Drinks",
+   "details": null
   },
   {
    "code": "324624",
@@ -1246,6 +1937,25 @@
    }
   },
   {
+   "code": "266586",
+   "slug": "sanitarium-skippy-cereal-cornflakes",
+   "name": "sanitarium skippy cereal cornflakes",
+   "brand": "sanitarium skippy",
+   "size": "300g",
+   "pct": 35,
+   "department": "Pantry",
+   "details": {
+    "allergens": "Contains: Gluten, May contain: Soy, Wheat",
+    "brand": "sanitarium skippy",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Corn (89%), Sugar, Salt, Barley Malt Extract, Mineral (Iron), Vitamins (Niacin, Thiamin, Riboflavin, Folate)",
+    "mayContain": "",
+    "name": "sanitarium skippy cereal cornflakes",
+    "packClaim": "‘Bounce into the day’, 99% fat free, Less than a teaspoon of sugar per serve! - Per 30g serve without milk. Based on a teaspoon weight of white sugar (4.9g) as per The NZ Food Composition Tables, 11th Edition 2014., No artificial stuff - No artificial colours, flavours or preservatives., Our favourite cornflakes made right here in NZ!, Proudly 100% New Zealand owned, Sanitarium nutrition service - At Sanitarium we're right behind anything that helps you make smart decisions about the foods you choose. So that's why we were one of the first to sign up to the new voluntary Health Star Rating System. Anytime you see this star rating on a pack, you'll get an idea about what's inside, at a glance. The higher the Health Star Rating the better the choice., Source of iron and B vitamins, This product contains - Less than 1% fat; Vitamins B1, B2 & B3; Good source of iron, folate, thiamin & niacin; No artificial colours, flavours or preservatives"
+   }
+  },
+  {
    "code": "270357",
    "slug": "keri-fruit-juice-orange-with-apple-base",
    "name": "keri fruit juice orange with apple base",
@@ -1262,6 +1972,25 @@
     "mayContain": "",
     "name": "keri fruit juice orange with apple base",
     "packClaim": "1L Bottle, Excellent Source of Vitamin C, No Added Sugar, No Preservatives, Orange with Apple Fruit Juice"
+   }
+  },
+  {
+   "code": "221041",
+   "slug": "keri-fruit-drink-apple-blackcurrant",
+   "name": "keri fruit drink apple blackcurrant",
+   "brand": "keri",
+   "size": "1L",
+   "pct": 38,
+   "department": "Drinks",
+   "details": {
+    "allergens": "",
+    "brand": "keri",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Water, Juices from Concentrate (Apple 22.8%, Blackcurrant 2.8%), Sugar, Flavour, Food Acid (330), Colour (150d).",
+    "mayContain": "",
+    "name": "keri fruit drink apple blackcurrant",
+    "packClaim": "1L Bottle, Apple and Blackcurrant Fruit Drink, Made in NZ from local and imported ingredients, Natural , NO , No preservatives, Serve Cold for Maximum Refreshment, Sweetened with"
    }
   },
   {
@@ -1322,25 +2051,6 @@
    }
   },
   {
-   "code": "221041",
-   "slug": "keri-fruit-drink-apple-blackcurrant",
-   "name": "keri fruit drink apple blackcurrant",
-   "brand": "keri",
-   "size": "1L",
-   "pct": 38,
-   "department": "Drinks",
-   "details": {
-    "allergens": "",
-    "brand": "keri",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Water, Juices from Concentrate (Apple 22.8%, Blackcurrant 2.8%), Sugar, Flavour, Food Acid (330), Colour (150d).",
-    "mayContain": "",
-    "name": "keri fruit drink apple blackcurrant",
-    "packClaim": "1L Bottle, Apple and Blackcurrant Fruit Drink, Made in NZ from local and imported ingredients, Natural , NO , No preservatives, Serve Cold for Maximum Refreshment, Sweetened with"
-   }
-  },
-  {
    "code": "22019",
    "slug": "keri-fruit-drink-apple-50-less-sugar",
    "name": "keri fruit drink apple 50% less sugar",
@@ -1379,6 +2089,26 @@
    }
   },
   {
+   "code": "344550",
+   "slug": "mutti-chopped-tomatoes-finely",
+   "name": "mutti chopped tomatoes finely",
+   "brand": "mutti",
+   "size": "400g",
+   "pct": 26,
+   "department": "Pantry",
+   "details": null
+  },
+  {
+   "code": "271598",
+   "slug": "pepsi-soft-drink-cola",
+   "name": "pepsi soft drink cola",
+   "brand": "pepsi",
+   "size": "1.5L",
+   "pct": 50,
+   "department": "Drinks",
+   "details": null
+  },
+  {
    "code": "271600",
    "slug": "pepsi-max-soft-drink-cola-max",
    "name": "pepsi max soft drink cola max",
@@ -1396,6 +2126,16 @@
     "name": "pepsi max soft drink cola max",
     "packClaim": "Low joule cola., Max taste zero sugar"
    }
+  },
+  {
+   "code": "271605",
+   "slug": "mountain-dew-soft-drink",
+   "name": "mountain dew soft drink",
+   "brand": "mountain dew",
+   "size": "1.5L",
+   "pct": 50,
+   "department": "Drinks",
+   "details": null
   },
   {
    "code": "682826",
@@ -1417,45 +2157,6 @@
    }
   },
   {
-   "code": "271605",
-   "slug": "mountain-dew-soft-drink",
-   "name": "mountain dew soft drink",
-   "brand": "mountain dew",
-   "size": "1.5L",
-   "pct": 50,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "878585",
-   "slug": "pepsi-max-soft-drink-raspberry-cola",
-   "name": "pepsi max soft drink raspberry cola",
-   "brand": "pepsi max",
-   "size": "1.5L",
-   "pct": 50,
-   "department": "Drinks",
-   "details": {
-    "allergens": "Phenylketonurics: contains Phenylalanine, This product contains Caffeine",
-    "brand": "pepsi max",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Carbonated Water, Colour  (150d), Sweeteners (951, 950), Food Acids (338, 330), Flavours, Preservative (202), Caffeine",
-    "mayContain": "",
-    "name": "pepsi max soft drink raspberry cola",
-    "packClaim": "Low joule Raspberry flavoured cola drink., Max taste, No sugar"
-   }
-  },
-  {
-   "code": "271598",
-   "slug": "pepsi-soft-drink-cola",
-   "name": "pepsi soft drink cola",
-   "brand": "pepsi",
-   "size": "1.5L",
-   "pct": 50,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "271603",
    "slug": "7up-soft-drink-light-lemonade",
    "name": "7up soft drink light lemonade",
@@ -1466,23 +2167,14 @@
    "details": null
   },
   {
-   "code": "661397",
-   "slug": "wattie-s-baked-beans-50-less-added-sugar",
-   "name": "wattie's baked beans 50% less added sugar",
-   "brand": "wattie's",
-   "size": "420g",
-   "pct": 32,
+   "code": "6017410",
+   "slug": "eta-ripples-chips-pickled-onion",
+   "name": "eta ripples chips pickled onion",
+   "brand": "eta ripples",
+   "size": "150g",
+   "pct": 26,
    "department": "Pantry",
-   "details": {
-    "allergens": "Gluten, Wheat",
-    "brand": "wattie's",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Navy Beans (51%), Tomato Sauce (49%) Tomatoes (45% ), Sugar, Salt, <b>Wheat <br></b>Flour, Maize Thic kener (1412), Stabilisers (412, 466), Spices, Flav ours, Sweetener (960).      <b>Contains: Wheat, Gl uten.<br></b> <b>May Contain: Soy.</b>",
-    "mayContain": "Soy",
-    "name": "wattie's baked beans 50% less added sugar",
-    "packClaim": "SOURCE OF PROTEIN, Source Of Dietary Fibre;Low Fat;No Added Preservatives;"
-   }
+   "details": null
   },
   {
    "code": "265983",
@@ -1501,6 +2193,25 @@
     "mayContain": "",
     "name": "watties baked beanz lite ",
     "packClaim": "LOW SUGAR, SOURCE OF FIBRE, SOURCE OF PROTEIN, Low Fat;No Added Preservatives;"
+   }
+  },
+  {
+   "code": "661397",
+   "slug": "wattie-s-baked-beans-50-less-added-sugar",
+   "name": "wattie's baked beans 50% less added sugar",
+   "brand": "wattie's",
+   "size": "420g",
+   "pct": 32,
+   "department": "Pantry",
+   "details": {
+    "allergens": "Gluten, Wheat",
+    "brand": "wattie's",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Navy Beans (51%), Tomato Sauce (49%) Tomatoes (45% ), Sugar, Salt, <b>Wheat <br></b>Flour, Maize Thic kener (1412), Stabilisers (412, 466), Spices, Flav ours, Sweetener (960).      <b>Contains: Wheat, Gl uten.<br></b> <b>May Contain: Soy.</b>",
+    "mayContain": "Soy",
+    "name": "wattie's baked beans 50% less added sugar",
+    "packClaim": "SOURCE OF PROTEIN, Source Of Dietary Fibre;Low Fat;No Added Preservatives;"
    }
   },
   {
@@ -1542,44 +2253,6 @@
    }
   },
   {
-   "code": "746174",
-   "slug": "heartland-chips-salt-vinegar",
-   "name": "heartland chips salt & vinegar",
-   "brand": "heartland",
-   "size": "150g",
-   "pct": 36,
-   "department": "Pantry",
-   "details": {
-    "allergens": "",
-    "brand": "heartland",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Potatoes, High Oleic Sunflower Oil, Canola Oil , Acidity Regulators (262, 330), Salt, Sugar, Flavour Enhancer (621), Dextrose  (Maize), Maize Starch, Natural Flavour",
-    "mayContain": "",
-    "name": "heartland chips salt & vinegar",
-    "packClaim": "Flavoured potato chips, 100% NZ family owned, Fallgate farm Geraldine, NZ - Est. 1975, From our farm to you, Gluten free, No palm oil, Quality checked Fallgate farm - RM Bowan, Suitable for vegetarians, Want to hear a great Kiwi can - do story? Let me introduce you to Raymond Bowan who has been working the land of South Canterbury for decades. Alongside his wife Adrienne, they have been growing the finest potatoes on their own farm, 'Fallgate' since 1975. Now here is where the story gets interesting. Back in 2009, Fallagate Farm was supplying the local chip factory in Timaru when, out of the blue, the overseas owners decided to shut the doors. Most people would just accept the fate of the factory. But not Raymond who thought 'why not just open it back up'? Once you know Raymond, you'll realise he never shies away from a good challenge, and he'd just found a mammoth one! Of course some people didn't have quite the same faith, telling him he'd never be able take on the big boys and win. Raymond with his signature cheeky grin would always tell them they'd just have to wait and see. Raymond followed his dream of reopening the factory and making New Zealand's finest potato chips... and so it was, that Heartland Potato Chips came to be. Fast forward to today and all the potatoes Heartland Chips uses are still grown at Fallgate Farm by son James and delivered a few kilometres down the road to daughter Charlotte at the factory; often by Raymond himself. Heartland Chips has not only grown into one of New Zealand's most loved brands but also the only true-blue, 100% New Zealand owned and operated potato chip company in the land. All because a great kiwi farmer, from a great Kiwi farm, with a great Kiwi can-do attitude, set to work to make the Greatest Kiwi potato chips!"
-   }
-  },
-  {
-   "code": "746171",
-   "slug": "heartland-chips-southern-salt",
-   "name": "heartland chips southern salt",
-   "brand": "heartland",
-   "size": "150g",
-   "pct": 36,
-   "department": "Pantry",
-   "details": {
-    "allergens": "",
-    "brand": "heartland",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Potatoes, High Oleic Sunflower Oil, Canola Oil , Salt",
-    "mayContain": "",
-    "name": "heartland chips southern salt",
-    "packClaim": "100% NZ family owned, Fallgate farm Est. 1975 geraldine.nz, From our farm to you, Gluten free, No palm oil, Suitable for vegetarians, Want to hear a great Kiwi can-do story? Let me introduce you to Raymond Bowan who has been working the land of South Canterbury for decades. Alongside his wife Adrienne, they have been growing the finest potatoes on their own farm, 'Fallgate' since 1975. Now here is where the story gets interesting. Back in 2009, Fallgate Farm was supplying the local chip factory in Timaru when, out of the blue, the overseas owners decided to shut the doors. Most people would just accept the fate of the factory. But not Raymond who thought 'why not just open it back up'? Once you know Raymond, you'll realise he never shies away from a good challenge, and he'd just found a mammoth one! Of course some people didn't have quite the same faith, telling him he'd never be able to take on the big boys and win. Raymond with his signature cheeky grin would always tell them they'd just have to wait and see. Raymond followed his dream of reopening the factory and making New Zealand's finest potato chips... and so it was, that Heartland Potato Chips came to be. Fast forward to today and all the potatoes Heartland Chips uses are still grown at Fallgate Farm by son James and delivered a few kilometres down the road to daughter Charlotte at the factory; often by Raymond himself. Heartland Chips has not only grown into one of New Zealand's most loved brands, but also the only true-blue, 100% New Zealand owned and operated potato chip company in the land. All because of a great Kiwi farmer, from a great Kiwi farm, with a great Kiwi can-do attitude, set to work to make the Greatest Kiwi Potato Chips!"
-   }
-  },
-  {
    "code": "917985",
    "slug": "heartland-thick-cut-chips-salt-vinegar",
    "name": "heartland thick cut chips salt & vinegar",
@@ -1618,6 +2291,44 @@
    }
   },
   {
+   "code": "918029",
+   "slug": "heartland-thick-cut-chips-southern-salt",
+   "name": "heartland thick cut chips southern salt",
+   "brand": "heartland",
+   "size": "140g",
+   "pct": 38,
+   "department": "Pantry",
+   "details": {
+    "allergens": "",
+    "brand": "heartland",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Canola Oil, Salt.",
+    "mayContain": "",
+    "name": "heartland thick cut chips southern salt",
+    "packClaim": "GLUTEN FREE"
+   }
+  },
+  {
+   "code": "746171",
+   "slug": "heartland-chips-southern-salt",
+   "name": "heartland chips southern salt",
+   "brand": "heartland",
+   "size": "150g",
+   "pct": 36,
+   "department": "Pantry",
+   "details": {
+    "allergens": "",
+    "brand": "heartland",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Canola Oil , Salt",
+    "mayContain": "",
+    "name": "heartland chips southern salt",
+    "packClaim": "100% NZ family owned, Fallgate farm Est. 1975 geraldine.nz, From our farm to you, Gluten free, No palm oil, Suitable for vegetarians, Want to hear a great Kiwi can-do story? Let me introduce you to Raymond Bowan who has been working the land of South Canterbury for decades. Alongside his wife Adrienne, they have been growing the finest potatoes on their own farm, 'Fallgate' since 1975. Now here is where the story gets interesting. Back in 2009, Fallgate Farm was supplying the local chip factory in Timaru when, out of the blue, the overseas owners decided to shut the doors. Most people would just accept the fate of the factory. But not Raymond who thought 'why not just open it back up'? Once you know Raymond, you'll realise he never shies away from a good challenge, and he'd just found a mammoth one! Of course some people didn't have quite the same faith, telling him he'd never be able to take on the big boys and win. Raymond with his signature cheeky grin would always tell them they'd just have to wait and see. Raymond followed his dream of reopening the factory and making New Zealand's finest potato chips... and so it was, that Heartland Potato Chips came to be. Fast forward to today and all the potatoes Heartland Chips uses are still grown at Fallgate Farm by son James and delivered a few kilometres down the road to daughter Charlotte at the factory; often by Raymond himself. Heartland Chips has not only grown into one of New Zealand's most loved brands, but also the only true-blue, 100% New Zealand owned and operated potato chip company in the land. All because of a great Kiwi farmer, from a great Kiwi farm, with a great Kiwi can-do attitude, set to work to make the Greatest Kiwi Potato Chips!"
+   }
+  },
+  {
    "code": "138602",
    "slug": "heartland-chips-nearly-nude-less-salt",
    "name": "heartland chips nearly nude less salt",
@@ -1637,22 +2348,22 @@
    }
   },
   {
-   "code": "918029",
-   "slug": "heartland-thick-cut-chips-southern-salt",
-   "name": "heartland thick cut chips southern salt",
+   "code": "746174",
+   "slug": "heartland-chips-salt-vinegar",
+   "name": "heartland chips salt & vinegar",
    "brand": "heartland",
-   "size": "140g",
-   "pct": 38,
+   "size": "150g",
+   "pct": 36,
    "department": "Pantry",
    "details": {
     "allergens": "",
     "brand": "heartland",
     "descriptionVegan": [],
     "fetched": "2026-10-11",
-    "ingredients": "Potatoes, High Oleic Sunflower Oil, Canola Oil, Salt.",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Canola Oil , Acidity Regulators (262, 330), Salt, Sugar, Flavour Enhancer (621), Dextrose  (Maize), Maize Starch, Natural Flavour",
     "mayContain": "",
-    "name": "heartland thick cut chips southern salt",
-    "packClaim": "GLUTEN FREE"
+    "name": "heartland chips salt & vinegar",
+    "packClaim": "Flavoured potato chips, 100% NZ family owned, Fallgate farm Geraldine, NZ - Est. 1975, From our farm to you, Gluten free, No palm oil, Quality checked Fallgate farm - RM Bowan, Suitable for vegetarians, Want to hear a great Kiwi can - do story? Let me introduce you to Raymond Bowan who has been working the land of South Canterbury for decades. Alongside his wife Adrienne, they have been growing the finest potatoes on their own farm, 'Fallgate' since 1975. Now here is where the story gets interesting. Back in 2009, Fallagate Farm was supplying the local chip factory in Timaru when, out of the blue, the overseas owners decided to shut the doors. Most people would just accept the fate of the factory. But not Raymond who thought 'why not just open it back up'? Once you know Raymond, you'll realise he never shies away from a good challenge, and he'd just found a mammoth one! Of course some people didn't have quite the same faith, telling him he'd never be able take on the big boys and win. Raymond with his signature cheeky grin would always tell them they'd just have to wait and see. Raymond followed his dream of reopening the factory and making New Zealand's finest potato chips... and so it was, that Heartland Potato Chips came to be. Fast forward to today and all the potatoes Heartland Chips uses are still grown at Fallgate Farm by son James and delivered a few kilometres down the road to daughter Charlotte at the factory; often by Raymond himself. Heartland Chips has not only grown into one of New Zealand's most loved brands but also the only true-blue, 100% New Zealand owned and operated potato chip company in the land. All because a great kiwi farmer, from a great Kiwi farm, with a great Kiwi can-do attitude, set to work to make the Greatest Kiwi potato chips!"
    }
   },
   {
@@ -1675,19 +2386,9 @@
    }
   },
   {
-   "code": "271709",
-   "slug": "sparkling-duet-soft-drink-orange-lemon",
-   "name": "sparkling duet soft drink orange lemon",
-   "brand": "sparkling duet",
-   "size": "1.5L",
-   "pct": 32,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "271773",
-   "slug": "sparkling-duet-soft-drink-raspberry",
-   "name": "sparkling duet soft drink raspberry",
+   "code": "271898",
+   "slug": "sparkling-duet-lemonade-diet",
+   "name": "sparkling duet lemonade diet",
    "brand": "sparkling duet",
    "size": "1.5L",
    "pct": 32,
@@ -1705,9 +2406,9 @@
    "details": null
   },
   {
-   "code": "271898",
-   "slug": "sparkling-duet-lemonade-diet",
-   "name": "sparkling duet lemonade diet",
+   "code": "271709",
+   "slug": "sparkling-duet-soft-drink-orange-lemon",
+   "name": "sparkling duet soft drink orange lemon",
    "brand": "sparkling duet",
    "size": "1.5L",
    "pct": 32,
@@ -1728,6 +2429,26 @@
    "code": "271776",
    "slug": "sparkling-duet-soft-drink-lime",
    "name": "sparkling duet soft drink lime",
+   "brand": "sparkling duet",
+   "size": "1.5L",
+   "pct": 32,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "726590",
+   "slug": "kiwi-blue-sparkling-water",
+   "name": "kiwi blue sparkling water",
+   "brand": "kiwi blue",
+   "size": "1.25L",
+   "pct": 29,
+   "department": "Drinks",
+   "details": null
+  },
+  {
+   "code": "271773",
+   "slug": "sparkling-duet-soft-drink-raspberry",
+   "name": "sparkling duet soft drink raspberry",
    "brand": "sparkling duet",
    "size": "1.5L",
    "pct": 32,
