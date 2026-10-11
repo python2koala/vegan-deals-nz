@@ -30,14 +30,19 @@ def main():
     todo = [c for c in dict.fromkeys(map(str, want)) if c not in cache][:MAX_PER_RUN]
     left = credits_left()
     print(f"{len(todo)} products need details; Scrape.do credits left: {left}")
-    done, held = 0, []
+    if left is None:
+        print("Cannot read the Scrape.do credit balance; fetching nothing to be safe.")
+        todo, held0 = [], list(dict.fromkeys(map(str, want)))
+    else:
+        held0 = []
+    done, held = 0, held0
     for code in todo:
-        if left is not None and left - 10 < RESERVE:
+        if left - 10 < RESERVE:
             held.append(code); continue
         d = get(f"/api/v1/products/{code}")
         if d is None:
             held.append(code); continue
-        left = credits_left()
+        left = min(left - 10, credits_left() or left - 10)
         desc = re.sub(r"<[^>]+>", " ", text_of(d.get("description")))
         claims = [text_of(c).strip() for c in (d.get("claims") or []) + (d.get("endorsements") or []) if text_of(c).strip()]
         ing = d.get("ingredients") or {}

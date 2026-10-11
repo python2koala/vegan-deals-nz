@@ -8,14 +8,19 @@ import os, time, requests
 TOK = os.environ.get("SCRAPEDO_TOKEN", "")
 BASE = "https://www.woolworths.co.nz"
 HDR = {"sd-x-requested-with": "OnlineShopping.WebApp", "sd-accept": "application/json"}
+LAST = {"left": None}  # credits left as reported by Scrape.do on the latest successful request
 
 
 def credits_left():
+    """Lowest credit count we know of: Scrape.do's own response header beats its /info page, which can lag."""
+    info = None
     try:
         j = requests.get("https://api.scrape.do/info", params={"token": TOK}, timeout=30).json()
-        return int(j.get("RemainingMonthlyRequest"))
+        info = int(j.get("RemainingMonthlyRequest"))
     except Exception:
-        return None
+        pass
+    known = [v for v in (info, LAST["left"]) if v is not None]
+    return min(known) if known else None
 
 
 def get(path, tries=4):
@@ -25,6 +30,10 @@ def get(path, tries=4):
             r = requests.get("https://api.scrape.do/", timeout=150, headers=HDR, params={
                 "token": TOK, "url": BASE + path, "super": "true", "geoCode": "nz", "extraHeaders": "true"})
             if r.status_code == 200:
+                try:
+                    LAST["left"] = int(r.headers.get("scrape.do-remaining-credits"))
+                except (TypeError, ValueError):
+                    pass
                 return r.json()
             print(f"  {path.split('?')[0]} -> HTTP {r.status_code} (try {i + 1}): {r.text[:160]!r}")
         except Exception as e:
