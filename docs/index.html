@@ -2,7 +2,7 @@
 (function(){
 function F(m){var g=document.getElementById('grid');if(g)g.innerHTML='<div class="empty"><h3>Deals could not load</h3><p>'+String(m).replace(/[<>&]/g,'')+'</p></div>';}
 try{
-var WW='https://www.woolworths.co.nz/shop/productdetails?stockcode=',IMG={};
+var WW='https://www.woolworths.co.nz/shop/productdetails?stockcode=',IMG={},IMGBASE='https://raw.githubusercontent.com/python2koala/vegan-deals-nz/main/docs/';
 var CATS={d:'Drinks',c:'Coffee',s:'Snacks & sweets',p:'Pantry',b:'Bakery & freezer',h:'Health & beauty',o:'Household'};
 var FL={'471':'Emulsifier 471 source not stated; it can be animal fat.','635':'Flavour enhancer 635 can be animal-derived.','422':'Glycerin (422) source not stated; it can be animal fat.','322':'Lecithin (322) source not stated; it can come from egg.','d3':'Vitamin D3 is usually made from lanolin (sheep\'s wool).','sugar':'Refined sugar made overseas may be filtered with bone char.','noing':'No ingredient list is published to check.'};
 function boot(D){
@@ -36,6 +36,7 @@ function sh(el,s,u){var b=el.parentNode;b.classList.toggle('plain',s==='plain');
 function all(c,s,u){[].forEach.call(document.querySelectorAll('.ph img[data-code="'+c+'"]'),function(x){sh(x,s,u);});}
 function photos(){[].forEach.call(document.querySelectorAll('.ph img[data-code]'),function(el){var c=el.dataset.code,h=PH[c];if(h){sh(el,h.s,h.u);return;}
 if(!pu(c)){PH[c]={s:'none'};all(c,'none');return;}
+if(/^img\//.test(pu(c))){PH[c]={s:'cut',u:IMGBASE+pu(c)};all(c,'cut',IMGBASE+pu(c));return;}
 var t=new Image();t.referrerPolicy='no-referrer';t.crossOrigin='anonymous';
 t.onload=function(){var r;try{r={s:'cut',u:cut(t)};}catch(x){r={s:'plain',u:pu(c)};}PH[c]=r;all(c,r.s,r.u);};
 t.onerror=function(){var u=new Image();u.referrerPolicy='no-referrer';u.onload=function(){PH[c]={s:'plain',u:pu(c)};all(c,'plain',pu(c));};u.onerror=function(){PH[c]={s:'none'};all(c,'none');};u.src=pu(c);};

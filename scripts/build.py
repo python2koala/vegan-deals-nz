@@ -41,7 +41,8 @@ for c in cand["rows"]:
     rows.append([c["code"], " ".join((d.get("name") or c["name"]).split()), d.get("brand") or c["brand"], c["size"],
                  c["now"], c["was"], c["half"], 1 if d["status"] == "verified" else 0, ",".join(d.get("flags", [])),
                  mc, d.get("cat") or "p", idx(N, d["note"]), idx(S, d["src"]), idx(U, d.get("url") or ""),
-                 1 if d["status"] == "verified" else 0, c.get("slug") or "", c.get("image") or ""])
+                 1 if d["status"] == "verified" else 0, c.get("slug") or "",
+                 f"img/{c['code']}.png" if os.path.exists(f"docs/img/{c['code']}.png") else (c.get("image") or "")])
 rows.sort(key=lambda r: (-r[4], r[1]))
 os.makedirs("docs", exist_ok=True)
 out = {"w": [cand["week"]["from"], cand["week"]["to"]], "built": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%MZ"),
