@@ -53,7 +53,16 @@
    "size": "100pack",
    "pct": 38,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Black Tea (Rainforest Alliance Certified), Bergamo t Flavours (3.5%).",
+    "mayContain": "",
+    "name": "twinings tea earl grey",
+    "packClaim": ""
+   }
   },
   {
    "code": "888487",
@@ -63,7 +72,16 @@
    "size": "80pack",
    "pct": 38,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Peppermint",
+    "mayContain": "",
+    "name": "twinings herbal tea pure peppermint",
+    "packClaim": ""
+   }
   },
   {
    "code": "829281",
@@ -73,7 +91,16 @@
    "size": "80pack",
    "pct": 38,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Black Tea",
+    "mayContain": "",
+    "name": "twinings tea english breakfast extra strong",
+    "packClaim": ""
+   }
   },
   {
    "code": "931160",
@@ -83,7 +110,16 @@
    "size": "80pack",
    "pct": 38,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Ginger Root (39%), Lemon Flavour (20%), Lemongrass , Lemon Peel (10%), Blackberry Leaves, Acid (Citri c Acid), Ginger Flavour (3.5%).",
+    "mayContain": "",
+    "name": "twinings fruit tea lemon & ginger",
+    "packClaim": ""
+   }
   },
   {
    "code": "307864",
@@ -93,7 +129,16 @@
    "size": "80pack",
    "pct": 38,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Decaffeinated Black Tea.",
+    "mayContain": "",
+    "name": "twinings decaf english breakfast 160g",
+    "packClaim": "Decaffeinated"
+   }
   },
   {
    "code": "318680",
@@ -103,7 +148,16 @@
    "size": "100pack",
    "pct": 38,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Green Tea.",
+    "mayContain": "",
+    "name": "twinings green tea pure",
+    "packClaim": "100 tea bags, By appointment to her majesty Queen Elizabeth II tea & coffee merchants R. Twining and company limited. London., Contains natural antioxidants, Fragrant & invigorating, In 1706, Thomas Twinings started selling tea. More than 300 years on, the Twinings' tradition continues with our finest blends for you enjoy every day., To positive living, one tea cup at a time... Let's drink to the fat that our Pure Green Tea has been crafted by our master blenders to deliver a fragrant and invigorating blend. Delicious with every sip, this tea will have you seeing the world in a beautiful glow.; Ethical Tea Partnership"
+   }
   },
   {
    "code": "888464",
@@ -113,7 +167,16 @@
    "size": "80pack",
    "pct": 38,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Camomile.",
+    "mayContain": "",
+    "name": "twinings herbal tea pure camomile",
+    "packClaim": ""
+   }
   },
   {
    "code": "575832",
@@ -123,7 +186,16 @@
    "size": "100pack",
    "pct": 38,
    "department": "",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "twinings",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Black Tea.",
+    "mayContain": "",
+    "name": "twinings tea morning",
+    "packClaim": ""
+   }
   },
   {
    "code": "841328",
@@ -243,7 +315,16 @@
    "size": "200g",
    "pct": 32,
    "department": "Frozen",
-   "details": null
+   "details": {
+    "allergens": "Soy",
+    "brand": "goodness kitchen",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Blueberry (70%), Cocoa solids+ (Cocoa Liquor+ & Co coa Butter+), Coconut oil, Sugar, Emulsifier (SoyL ecithin), Natural vanilla flavour. + Rainforest Al liance CertifiedTM TM",
+    "mayContain": "Milk",
+    "name": "goodness kitchen frozen blueberries choc bites",
+    "packClaim": "Calories 71 per serve, Grown in New Zealand, Honestly good, NZ blueberries single dipped in smooth dark choc, Our blueberries are picked at peak ripeness by our accredited growers in NZ; Next they are snap frozen to lock in the goodness; Each blueberry is single dipped in sustainably sourced smooth dark choc; Then packed in sunny Nelson ready for you to enjoy in a pouch made from 44% recycled plastic, Snacking tips: defrost 10-15 mins before eating. Keep remaining choc bites frozen., Vegan friendly, With powerful antioxidants; RainForest Alliance People & Nature Cocoa"
+   }
   },
   {
    "code": "266588",
@@ -323,7 +404,16 @@
    "size": "220mL",
    "pct": 33,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "heinz",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "White Vinegar, Water, Mustard Seeds (12%), Salt, Turmeric, Spices, Natural Flavour.  <br>  <b>May Contain: Wheat, Gluten.</b>",
+    "mayContain": "Gluten, Wheat",
+    "name": "heinz american mustard ",
+    "packClaim": "No Added Artificial Colour;No Added Artificial Flavour;"
+   }
   },
   {
    "code": "772595",
@@ -333,7 +423,18 @@
    "size": "150g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "ugh sea salt; 100% new zealand grown potatoes; naturally gluten-free, vegan &amp; gmo free; made in nelson, new zealand; high"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Marlborough Se a Salt",
+    "mayContain": "",
+    "name": "proper crisps chips marlborough sea salt",
+    "packClaim": "GLUTEN FREE, LACTOSE FREE"
+   }
   },
   {
    "code": "841215",
@@ -343,7 +444,18 @@
    "size": "140g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "Our cider vinegar crisps are 100% vegan and gluten free"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Sea Salt, Appl e Cider Vinegar, Vinegar, Acacia Gum, Citric Acid, Raw Sugar",
+    "mayContain": "",
+    "name": "proper crisps chips cider vinegar & sea salt",
+    "packClaim": "GLUTEN FREE, LACTOSE FREE"
+   }
   },
   {
    "code": "316527",
@@ -353,7 +465,16 @@
    "size": "150g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "proper white",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Tortillas (Corn, Trace Of Lime), High Oleic Sunflo wer Oil, Sea Salt",
+    "mayContain": "",
+    "name": "proper white corn chips tortilla salted",
+    "packClaim": "Non-GMO white corn; Gluten free; Stone ground white corn; Proudly hand-cooked in NZ; Plant based; Volcanic stone-ground white corn; Muchas Gracias for choosing our proper authentic tortilla chips!; As with our potato crisps, we like to do things differently, and this includes our tasty tortillas! They are crafted to a traditional Mexican recipe, starting with a Masa, (dough), made by volcanic-stone grinding non-GMO white corn, which is then rolled into a round tortilla, baked and cut into totpos, (tortilla chips). We then hand-cook and flavour, to create the perfect chip for any dip or nacho eater!; Fiesta of flavour! Our traditional salted tortilla chips are seasoned with just a sprinkling of sea salt… That’s all! Are we obsessed? We prefer devoted. For us, the end result makes it all worthwhile. Real, scrumptious and cooked by hand since always. So come, open a bag and experience a snack awakening!; Buen Provecho, the Proper Team"
+   }
   },
   {
    "code": "928942",
@@ -363,7 +484,18 @@
    "size": "100g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "Made in new zealand; vegan; gluten free; gmo free; trans-fat free; high olei"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Seasonal Kumara, High Oleic Sunflower Oil, Sea Salt.",
+    "mayContain": "",
+    "name": "proper crisps kumara chips seasalt",
+    "packClaim": "GLUTEN FREE"
+   }
   },
   {
    "code": "665718",
@@ -373,7 +505,18 @@
    "size": "100g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "table crisps; 100% new zealand grown potatoes; naturally gluten-free, vegan &amp; gmo free; made in nelson, new zealand; high"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Seasonal Vegetables (Chioggia Beetroot, Kumara, Parsnip, Carrot), High Oleic Sunflower Oil, Sea Salt.",
+    "mayContain": "",
+    "name": "proper crisps chips garden medley",
+    "packClaim": "Come, open a bag and experience your snack awakening! From the Proper family enjoy!, Crafted with really real ingredients in Nelson, New Zealand, Gluten free, Hand cooked, Look who made your crisps today, Made in New Zealand, Now this is a garden party: a precious medley of striped Chioggia beetroot, carrot, parsnip and kumara, hand cooked and lightly salted. The tastiest way to eat the rainbow! Proper was founded on a longing for a real traditional crisp. And when we say real, we mean really real. Cooked and seasoned with care, that first crisp we made was not just better, it was transcendent. It awakened a fire within us, starting a movement for meaningful snacks that continues to this day. , Real, scrumptious, and cooked by hand since always – find your chef’s name down below., Seasonal & salted - Beetroot, kumara, parsnip, carrot, Source of fibre, Vegan; Vegetarian"
+   }
   },
   {
    "code": "917612",
@@ -383,7 +526,18 @@
    "size": "150g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "Chilli crisp; 100% new zealand grown potatoes; naturally gluten-free, vegan &amp; gmo free; made in nelson, new zealand; high"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Yeast Extracts, Chilli (Flakes, Powder), Sea Salt, Raw Sugar, Sweet Paprika, Sichuan Pepper",
+    "mayContain": "",
+    "name": "proper crisps chips chilli",
+    "packClaim": "GLUTEN FREE"
+   }
   },
   {
    "code": "772632",
@@ -393,7 +547,18 @@
    "size": "150g",
    "pct": 32,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "proper crisps",
+    "descriptionVegan": [
+     "100% new zealand grown potatoes; naturally gluten-free, vegan &amp; gmo free; made in nelson, new zealand; high"
+    ],
+    "fetched": "2026-10-11",
+    "ingredients": "Potatoes, High Oleic Sunflower Oil, Sea Salt, Rose mary, Thyme",
+    "mayContain": "",
+    "name": "proper crisps chips rosemary & thyme",
+    "packClaim": "GLUTEN FREE, LACTOSE FREE"
+   }
   },
   {
    "code": "6029801",
@@ -413,7 +578,16 @@
    "size": "1kg",
    "pct": 34,
    "department": "Frozen",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "wattie's",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Peas",
+    "mayContain": "",
+    "name": "wattie's frozen garden peas ",
+    "packClaim": "13 serves of vegetables per pack - one serve of vegetable = 75g. Aim for a variety of vegetables each day., From the Canterbury plains, Good source of folate, High in dietary fibre, Individually snap frozen within hours of harvest to lock in flavour, nutrients & texture, No added flavours or colours, No preservatives, NZ grown peas, Pick of the Crop™ – In 1934 Sir James Wattie had a vision, to capture the goodness of fruit and vegetables at their peak from around New Zealand. Thanks to his foresight, we can still enjoy Wattie's 'pick of the crop' any time of year., Source of vitamin C, Wattie's® Freshlock™ snap frozen"
+   }
   },
   {
    "code": "822845",
@@ -493,7 +667,16 @@
    "size": "500mL",
    "pct": 43,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "heinz",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Concentrated Tomatoes (Contains 167g of Tomatoes per 100mL), Sugar, Concentrated Vinegar, Salt, Natural Flavour, Spice. Contains 72% Concentrated Tomatoes.",
+    "mayContain": "",
+    "name": "heinz tomato ketchup ",
+    "packClaim": "No Added Preservatives;No Added Artificial Flavour;"
+   }
   },
   {
    "code": "607577",
@@ -503,7 +686,16 @@
    "size": "500mL",
    "pct": 43,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "heinz",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Concentrated Tomatoes (Contains 208g of Tomatoes per 100mL), Vinegar, Sugar, Salt, Spice & Herb Extracts (Contain Garlic), Sweetener (Steviol Glycosides), Spice. Contains 79% Concentrated Tomatoes.",
+    "mayContain": "",
+    "name": "heinz ketchup tomato less sugar",
+    "packClaim": "50% less added sugar & salt - Contains 50% less added sugar and salt than the regular Heinz tomato ketchup 500mL, It's our sun ripened tomatoes, along with our passion & knowledge that give our recipe its unique flavour. Now you can enjoy the unmistakable taste of Heinz Tomato Ketchup with 50% less added sugar & salt- Contains 50% less added sugar and salt than the regular Heinz tomato ketchup 500mL, Naturally sweetened with extracts of the stevia leaf, No artificial colours, No artificial flavours, No artificial sweeteners, No preservatives"
+   }
   },
   {
    "code": "265696",
@@ -673,7 +865,16 @@
    "size": "315g",
    "pct": 42,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Soy",
+    "brand": "morinaga silken",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "WATER, SOYBEANS, CANE SUGAR, MAGUNESIUM CHLORIDE, NATURAL FLAVOUR.",
+    "mayContain": "",
+    "name": "morinaga silken tofu asian dessert",
+    "packClaim": "No preservatives; Shelf stable; Mori-Nu Asian Dessert Tofu is a creamy, tofu-based dessert inspired by the classic annin tofu or almond jelly enjoyed in Japan and China. Lightly sweetened with a subtle almond jelly–inspired flavor, it can be served chilled or at room temp. Enjoy on its own or topped with fresh fruit.; Almond jelly inspired flavor; Asian dessert - Award-winning aseptic package; Long shelf life; Tetra Pak® - Protects what's good; Tetra Pak® Tetra Brik®Aseptic; Certified Gluten Free; Non GMO Project Verified; Kosher Parve"
+   }
   },
   {
    "code": "176655",
@@ -813,7 +1014,16 @@
    "size": "280g",
    "pct": 50,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Processed in a facility that also processes Tree Nuts, Peanuts, Soya, Mustard & Sesame",
+    "brand": "ashoka",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Water, Split Red Gram (13%), Onions, Sunflower Oil, Tomato, Garlic, Split Bengal Gram, Ginger, Salt, Green Chilli, Red Chilli Whole, Coriander Leaves, Cumin Seeds, Turmeric Powder, Dry Mango Powder",
+    "mayContain": "",
+    "name": "ashoka ready meal dal tadka medium",
+    "packClaim": "Medium , \"Ashoka' - the world's leading ethnic Indian foods brand brings to you a complete range of ready-to-eat Indian delicacies. Each recipe, conjured by master chefs, brings out the rich aromatic flavours and tastes. Great care and meticulous detailing are essential ingredients of every recipe., 100% vegetarian, A preparation of lentils tempered with Indian spices, Dal Tadka is a speciality from North India. This scrumptious preparation of lentils with a mixture of Indian spices can be savoured with either freshly made hot Indian bread (naan) or rice., Gluten free, Just heat and eat; microwaveable in 2 minutes, Made in sunflower oil, No preservatives, Ready to eat, Seasoned and cooked lentils, The original Indian taste, Vegan; Halal"
+   }
   },
   {
    "code": "271600",
@@ -823,7 +1033,16 @@
    "size": "1.5L",
    "pct": 50,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Contains Caffeine, Contains Phenylalanine",
+    "brand": "pepsi max",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Carbonated Water, Colour  (150d), Sweeteners (951, 950), Food Acids (338, 330), Preservative (211), Caffeine, Flavours",
+    "mayContain": "",
+    "name": "pepsi max soft drink cola max",
+    "packClaim": "Low joule cola., Max taste zero sugar"
+   }
   },
   {
    "code": "682826",
@@ -833,7 +1052,16 @@
    "size": "1.5L",
    "pct": 50,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Phenylketonurics: contains Phenylalanine, This product contains Caffeine",
+    "brand": "pepsi max",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Carbonated Water, Colour  (150d), Sweeteners (951, 950), Food Acids (338, 330), Flavours, Preservative (202), Caffeine",
+    "mayContain": "",
+    "name": "pepsi max soft drink vanilla",
+    "packClaim": "Low joule vanilla flavoured cola drink., No sugar"
+   }
   },
   {
    "code": "271605",
@@ -853,7 +1081,16 @@
    "size": "1.5L",
    "pct": 50,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Phenylketonurics: contains Phenylalanine, This product contains Caffeine",
+    "brand": "pepsi max",
+    "descriptionVegan": [],
+    "fetched": "2026-10-11",
+    "ingredients": "Carbonated Water, Colour  (150d), Sweeteners (951, 950), Food Acids (338, 330), Flavours, Preservative (202), Caffeine",
+    "mayContain": "",
+    "name": "pepsi max soft drink raspberry cola",
+    "packClaim": "Low joule Raspberry flavoured cola drink., Max taste, No sugar"
+   }
   },
   {
    "code": "271598",
