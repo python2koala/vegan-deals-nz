@@ -1,7 +1,6 @@
 """Weekly NZ fetch: this week's Woolworths NZ vegan-tagged specials that are 30%+ off.
 
-Source (the owner's link, highest price first):
-  https://www.woolworths.co.nz/specials-offers?page=1&dietary=isVegan&staticFilters=SPECIALS&sortBy=PRICE_HIGH_LOW
+Source: the owner's link (vegan specials, in stock only, highest price first) - see SOURCE below.
 Woolworths NZ specials run Monday to the following Sunday (NZ time).
 
 Reads only the product LIST (about 7 requests = ~70 Scrape.do credits). Product details (ingredients,
@@ -12,7 +11,9 @@ Skips if this week's candidates already exist, unless FORCE=1.
 import datetime as dt, json, os, sys, urllib.parse, zoneinfo
 from sd import get, credits_left
 
-SOURCE = "https://www.woolworths.co.nz/specials-offers?page=1&dietary=isVegan&staticFilters=SPECIALS&sortBy=PRICE_HIGH_LOW"
+SOURCE = ("https://www.woolworths.co.nz/specials-offers?filters=Specials%3BSpecials%3BSpecials%3Btrue%3BSpecials"
+          "&filters=PiesAttributes%3BVegan%3BVegan%3Bfalse%3BDietary+%26+Lifestyle&page=1&inStockProductsOnly=true"
+          "&size=120&sort=PriceDesc&staticFilters=SPECIALS&dietary=isVegan&sortBy=PRICE_HIGH_LOW")
 MIN_DISCOUNT = 30
 PAGE_SIZE = 120  # the most Woolworths NZ allows per request
 AKL = zoneinfo.ZoneInfo("Pacific/Auckland")
@@ -37,8 +38,8 @@ def main():
     flt = urllib.parse.quote("PiesAttributes;;Vegan;true")
     items, total = [], None
     for page in range(1, 15):
-        j = get(f"/api/v1/products?target=specials&inStockProductsOnly=false&size={PAGE_SIZE}&page={page}"
-                f"&sortBy=PRICE_HIGH_LOW&dasFilter={flt}")
+        j = get(f"/api/v1/products?target=specials&inStockProductsOnly=true&size={PAGE_SIZE}&page={page}"
+                f"&sort=PriceDesc&sortBy=PRICE_HIGH_LOW&dasFilter={flt}")
         if j is None:
             sys.exit(f"Could not read page {page} of the Woolworths NZ list.")
         prods = j.get("products") or {}
