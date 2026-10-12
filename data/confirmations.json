@@ -663,6 +663,18 @@
    "status": "verified",
    "url": "https://barkers.co.nz/shop/mango-kiwifruit-passionfruit-1"
   },
+  "490712": {
+   "brand": "Leanne's Kitchen",
+   "cat": "b",
+   "checked": "2026-10-13",
+   "flags": [],
+   "mayContain": "",
+   "name": "Vegetarian Dumplings",
+   "note": "Leanne's Kitchen names this product \"Vegetarian - Vegan Dumplings\"; allergens are sesame, soy and gluten only.",
+   "src": "Leanne's Kitchen (manufacturer)",
+   "status": "verified",
+   "url": "https://leanneskitchen.co.nz/products.html"
+  },
   "500999": {
    "brand": "Cocobella",
    "cat": "d",
@@ -866,6 +878,42 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "6056825": {
+   "brand": "Vibe",
+   "cat": "c",
+   "checked": "2026-10-13",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Dark 10 Pack",
+   "note": "Vibe's capsule page answers \"Are your capsules vegan and dairy-free?\" with \"Yes\"; Medium, Dark and Guatemala are listed.",
+   "src": "Vibe Coffee (manufacturer)",
+   "status": "verified",
+   "url": "https://vibecoffee.co.nz/products/100-nespresso-compatible-coffee-pods"
+  },
+  "6056866": {
+   "brand": "Vibe",
+   "cat": "c",
+   "checked": "2026-10-13",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Guatemala 10 Pack",
+   "note": "Vibe's capsule page answers \"Are your capsules vegan and dairy-free?\" with \"Yes\"; Medium, Dark and Guatemala are listed.",
+   "src": "Vibe Coffee (manufacturer)",
+   "status": "verified",
+   "url": "https://vibecoffee.co.nz/products/100-nespresso-compatible-coffee-pods"
+  },
+  "6057500": {
+   "brand": "Vibe",
+   "cat": "c",
+   "checked": "2026-10-13",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Medium 10 Pack",
+   "note": "Vibe's capsule page answers \"Are your capsules vegan and dairy-free?\" with \"Yes\"; Medium, Dark and Guatemala are listed.",
+   "src": "Vibe Coffee (manufacturer)",
+   "status": "verified",
+   "url": "https://vibecoffee.co.nz/products/100-nespresso-compatible-coffee-pods"
   },
   "6057513": {
    "brand": "Nature's Way",
@@ -1397,6 +1445,18 @@
    "status": "no",
    "url": ""
   },
+  "82971": {
+   "brand": "Jed's",
+   "cat": "c",
+   "checked": "2026-10-13",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules 4 Very Strong 10 Pack",
+   "note": "Jed's FAQ: \"Yes, Jed's coffee is by nature suitable for vegetarians and vegans.\"",
+   "src": "Jed's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.jedscoffee.co.nz/contact/"
+  },
   "82975": {
    "brand": "Moccona",
    "cat": "c",
@@ -1408,6 +1468,30 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "82976": {
+   "brand": "Jed's",
+   "cat": "c",
+   "checked": "2026-10-13",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules X Extreme 10 Pack",
+   "note": "Jed's FAQ: \"Yes, Jed's coffee is by nature suitable for vegetarians and vegans.\"",
+   "src": "Jed's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.jedscoffee.co.nz/contact/"
+  },
+  "82992": {
+   "brand": "Jed's",
+   "cat": "c",
+   "checked": "2026-10-13",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules 5 Extra Strong 10 Pack",
+   "note": "Jed's FAQ: \"Yes, Jed's coffee is by nature suitable for vegetarians and vegans.\"",
+   "src": "Jed's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.jedscoffee.co.nz/contact/"
   },
   "83563": {
    "brand": "Heinz",

@@ -3,7 +3,7 @@
   "from": "2026-10-12",
   "to": "2026-10-18"
  },
- "count": 140,
+ "count": 133,
  "rows": [
   {
    "code": "648074",
@@ -196,41 +196,11 @@
    "details": null
   },
   {
-   "code": "6056825",
-   "slug": "vibe-coffee-capsules-dark-52g",
-   "name": "vibe coffee capsules dark 52g",
-   "brand": "vibe",
-   "size": "10pack",
-   "pct": 30,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "6024241",
    "slug": "lavazza-decaf-classico-coffee-pods",
    "name": "lavazza decaf classico coffee pods",
    "brand": "lavazza",
    "size": "",
-   "pct": 30,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "6057500",
-   "slug": "vibe-coffee-capsules-medium-52g",
-   "name": "vibe coffee capsules medium 52g",
-   "brand": "vibe",
-   "size": "10pack",
-   "pct": 30,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "6056866",
-   "slug": "vibe-coffee-capsules-guatemala",
-   "name": "vibe coffee capsules guatemala",
-   "brand": "vibe",
-   "size": "52g 10pack",
    "pct": 30,
    "department": "Drinks",
    "details": null
@@ -252,36 +222,6 @@
    "brand": "barker's",
    "size": "500mL",
    "pct": 30,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "82976",
-   "slug": "jed-s-coffee-capsules-x-extreme",
-   "name": "jed's coffee capsules x extreme",
-   "brand": "jed's",
-   "size": "10pack",
-   "pct": 40,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "82992",
-   "slug": "jed-s-coffee-capsules-5-extra-strong",
-   "name": "jed's coffee capsules 5 extra strong",
-   "brand": "jed's",
-   "size": "10pack",
-   "pct": 40,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "82971",
-   "slug": "jed-s-coffee-capsules-4-very-strong",
-   "name": "jed's coffee capsules 4 very strong",
-   "brand": "jed's",
-   "size": "10pack",
-   "pct": 40,
    "department": "Drinks",
    "details": null
   },
@@ -863,16 +803,6 @@
    "size": "500mL",
    "pct": 25,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "490712",
-   "slug": "leanne-s-kitchen-dumplings-vegetarian",
-   "name": "leanne's kitchen dumplings vegetarian",
-   "brand": "leanne's kitchen",
-   "size": "250g",
-   "pct": 25,
-   "department": "Frozen",
    "details": null
   },
   {
