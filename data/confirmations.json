@@ -1,6 +1,18 @@
 {
  "about": "NZ vegan decisions per Woolworths NZ stockcode (sku). status: verified (listed, neon green), caution (listed, Check first), no (not listed). 'no' decisions are re-checked after 56 days.",
  "rows": {
+  "124742": {
+   "brand": "Remedy",
+   "cat": "d",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Kombucha Wild Berry No Sugar",
+   "note": "Remedy: \"Kombucha, Sodaly and Switchel are all vegan-friendly.\"",
+   "src": "Remedy (manufacturer)",
+   "status": "verified",
+   "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
   "124746": {
    "brand": "Remedy",
    "cat": "d",
@@ -12,6 +24,30 @@
    "src": "Remedy (manufacturer)",
    "status": "verified",
    "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
+  "135064": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Recipe Base Green Curry",
+   "note": "Mingle's product page shows a \"Vegan Friendly\" badge.",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/green-curry"
+  },
+  "135507": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Recipe Base Satay",
+   "note": "Mingle's product page shows a \"Vegan Friendly\" badge.",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/satay-stir-fry"
   },
   "138602": {
    "brand": "Heartland",
@@ -37,6 +73,30 @@
    "status": "no",
    "url": ""
   },
+  "198127": {
+   "brand": "Bluebird",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Originals Multipack Chips Ready Salted 6 x 18g",
+   "note": "Bluebird's NZ FAQ lists Bluebird Ready Salted (Originals, Thick Cut and Thinly Cut) as suitable for vegans.",
+   "src": "Bluebird (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bluebird.co.nz/faqs"
+  },
+  "198233": {
+   "brand": "Copper Kettle",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Multipack Chips Sea Salt 5 x 22g",
+   "note": "Bluebird's NZ FAQ (maker of Copper Kettle) lists Copper Kettle Sea Salt as suitable for vegans.",
+   "src": "Bluebird (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bluebird.co.nz/faqs"
+  },
   "200133": {
    "brand": "Kellogg's",
    "cat": "p",
@@ -48,6 +108,18 @@
    "src": "Kellogg's (manufacturer)",
    "status": "verified",
    "url": "https://www.kelloggs.com.au/en_AU/products/just-right-original.html"
+  },
+  "212840": {
+   "brand": "Vitasoy",
+   "cat": "d",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soy Milky Regular UHT",
+   "note": "Vitasoy's site lists Soy Milky Regular as suitable for vegetarians and vegans.",
+   "src": "Vitasoy (manufacturer)",
+   "status": "verified",
+   "url": "https://soy.com.au/product/soy-milky-regular/"
   },
   "22019": {
    "brand": "Keri",
@@ -72,6 +144,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "234699": {
+   "brand": "Sour Patch Kids",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Lollies",
+   "note": "PETA Australia's accidentally vegan list includes Sour Patch Kids.",
+   "src": "PETA Australia",
+   "status": "verified",
+   "url": "https://www.peta.org.au/living/accidentally-vegan/"
   },
   "23848": {
    "brand": "Ashoka",
@@ -110,6 +194,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "266528": {
+   "brand": "Chelsea",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "White Sugar",
+   "note": "Chelsea FAQ: nearly all its sugars and syrups suit vegans; the only exception is Honey Maple Flavoured Syrup.",
+   "src": "Chelsea (manufacturer)",
+   "status": "verified",
+   "url": "https://www.chelsea.co.nz/about-sugar/faqs/"
   },
   "266586": {
    "brand": "Sanitarium",
@@ -267,6 +363,42 @@
    "status": "no",
    "url": ""
   },
+  "285910": {
+   "brand": "Arnott's",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Ginger Nut Biscuits",
+   "note": "PETA Australia's accidentally vegan list includes Arnott's Gingernut biscuits.",
+   "src": "PETA Australia",
+   "status": "verified",
+   "url": "https://www.peta.org.au/living/accidentally-vegan/"
+  },
+  "297515": {
+   "brand": "Bluebird",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Originals Chips Ready Salted",
+   "note": "Bluebird's NZ FAQ lists Bluebird Ready Salted (Originals, Thick Cut and Thinly Cut) as suitable for vegans.",
+   "src": "Bluebird (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bluebird.co.nz/faqs"
+  },
+  "297603": {
+   "brand": "Bluebird",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Thin Cut Chips Ready Salted",
+   "note": "Bluebird's NZ FAQ lists Bluebird Ready Salted (Originals, Thick Cut and Thinly Cut) as suitable for vegans.",
+   "src": "Bluebird (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bluebird.co.nz/faqs"
+  },
   "307864": {
    "brand": "Twinings",
    "cat": "c",
@@ -351,6 +483,18 @@
    "status": "no",
    "url": ""
   },
+  "333257": {
+   "brand": "Bluebird",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Thick Cut Potato Chips Salted",
+   "note": "Bluebird's NZ FAQ lists Bluebird Ready Salted (Originals, Thick Cut and Thinly Cut) as suitable for vegans.",
+   "src": "Bluebird (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bluebird.co.nz/faqs"
+  },
   "346040": {
    "brand": "Ritz",
    "cat": "s",
@@ -399,6 +543,66 @@
    "status": "verified",
    "url": ""
   },
+  "381220": {
+   "brand": "Ceres Organics",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Organic Red Kidney Beans",
+   "note": "Ceres Organics' product page lists \"Vegetarian, Vegan, Plant Based\".",
+   "src": "Ceres Organics (manufacturer)",
+   "status": "verified",
+   "url": "https://ceres.co.nz/products/11693-organic-red-kidney-beans-400g"
+  },
+  "381227": {
+   "brand": "Ceres Organics",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Organic Black Beans",
+   "note": "Ceres Organics' product page lists Vegan among its dietary attributes; ingredients are black beans and water.",
+   "src": "Ceres Organics (manufacturer)",
+   "status": "verified",
+   "url": "https://ceres.co.nz/products/organic-black-beans-case-x-12-400g"
+  },
+  "381229": {
+   "brand": "Ceres Organics",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Organic Chickpeas",
+   "note": "Ceres Organics' product page lists Vegan among its dietary attributes; ingredients are chickpeas and water.",
+   "src": "Ceres Organics (manufacturer)",
+   "status": "verified",
+   "url": "https://ceres.co.nz/products/11688-organic-chickpeas-garbanzo-beans-400g"
+  },
+  "384925": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wraps Garden Spinach 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
+  },
+  "384926": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wraps Premium White 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
+  },
   "386526": {
    "brand": "Goodness Kitchen",
    "cat": "b",
@@ -422,6 +626,42 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "391861": {
+   "brand": "Remedy",
+   "cat": "d",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Kombucha Organic Pomegranate",
+   "note": "Remedy: \"Kombucha, Sodaly and Switchel are all vegan-friendly.\"",
+   "src": "Remedy (manufacturer)",
+   "status": "verified",
+   "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
+  "468836": {
+   "brand": "Barker's",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Fruit Crush Mixed Berry & Chia",
+   "note": "Barker's product page shows a Vegan dietary badge for this fruit puree.",
+   "src": "Barker's (manufacturer)",
+   "status": "verified",
+   "url": "https://barkers.co.nz/shop/mixed-berry-chia"
+  },
+  "469690": {
+   "brand": "Barker's",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Fruit Crush Mango, Passionfruit & Kiwi",
+   "note": "Barker's product page shows a Vegan dietary badge for this fruit puree.",
+   "src": "Barker's (manufacturer)",
+   "status": "verified",
+   "url": "https://barkers.co.nz/shop/mango-kiwifruit-passionfruit-1"
   },
   "500999": {
    "brand": "Cocobella",
@@ -555,6 +795,18 @@
    "status": "verified",
    "url": "https://www.remedydrinks.com/en-nz/products/ginger-beer-bundle"
   },
+  "6029512": {
+   "brand": "Blue Frog",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Porridge Vanilla Bean & Chia Seed",
+   "note": "Blue Frog's product page for the porridge pockets says \"100% vegan\".",
+   "src": "Blue Frog (manufacturer)",
+   "status": "verified",
+   "url": "https://bluefrogbreakfast.co.nz/products/vanilla-bean-chia-seed-porridge-copy-1"
+  },
   "6029801": {
    "brand": "Nestlé",
    "cat": "p",
@@ -627,6 +879,18 @@
    "status": "verified",
    "url": "https://naturesway.co.nz/products/pea-protein-powder/"
   },
+  "6058621": {
+   "brand": "Barker's",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Fruit Crush Banana Blueberry Acai",
+   "note": "Barker's product page shows a Vegan dietary badge; ingredients are fruit, acacia gum, citrus fibre, flavour and acai.",
+   "src": "Barker's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.barkers.co.nz/shop/banana-blueberry-acai-super-fruit-crush-12-pack"
+  },
   "6059032": {
    "brand": "Morinaga",
    "cat": "b",
@@ -638,6 +902,42 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "60602": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wraps Smoky Chipotle 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
+  },
+  "6062262": {
+   "brand": "Oreo",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Biscuits Chocolate",
+   "note": "PETA Australia lists Oreo Chocolate as accidentally vegan, but Oreo's own FAQ calls it lacto-vegetarian (may contain milk), not vegan.",
+   "src": "PETA Australia",
+   "status": "caution",
+   "url": "https://www.peta.org.au/living/accidentally-vegan/"
+  },
+  "6062868": {
+   "brand": "Oreo",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Biscuits Original",
+   "note": "PETA Australia lists Oreo Classic as accidentally vegan, but Oreo's own FAQ calls it lacto-vegetarian (may contain milk), not vegan.",
+   "src": "PETA Australia",
+   "status": "caution",
+   "url": "https://www.peta.org.au/living/accidentally-vegan/"
   },
   "607577": {
    "brand": "Heinz",
@@ -675,6 +975,18 @@
    "status": "no",
    "url": ""
   },
+  "662367": {
+   "brand": "Remedy",
+   "cat": "d",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Kombucha Ginger & Lemon No Sugar",
+   "note": "Remedy: \"Kombucha, Sodaly and Switchel are all vegan-friendly.\"",
+   "src": "Remedy (manufacturer)",
+   "status": "verified",
+   "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
   "665718": {
    "brand": "Proper Crisps",
    "cat": "s",
@@ -686,6 +998,18 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "verified",
    "url": ""
+  },
+  "671437": {
+   "brand": "Remedy",
+   "cat": "d",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Kombucha Raspberry Lemonade No Sugar",
+   "note": "Remedy: \"Kombucha, Sodaly and Switchel are all vegan-friendly.\"",
+   "src": "Remedy (manufacturer)",
+   "status": "verified",
+   "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
   },
   "682826": {
    "brand": "Pepsi Max",
@@ -699,6 +1023,30 @@
    "status": "no",
    "url": ""
   },
+  "68621": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Japanese Curry",
+   "note": "Mingle's product page shows a \"Vegan Friendly\" badge; ingredients are spices and salt.",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/japanese-curry"
+  },
+  "68721": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Mexican Taco Fiesta Spice Blend",
+   "note": "Mingle's product page shows a \"Vegan Friendly\" badge.",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/taco-mexican-fiesta"
+  },
   "705375": {
    "brand": "Huntley & Palmers",
    "cat": "s",
@@ -710,6 +1058,30 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "717042": {
+   "brand": "Chelsea",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Raw Sugar",
+   "note": "Chelsea FAQ: nearly all its sugars and syrups suit vegans; the only exception is Honey Maple Flavoured Syrup.",
+   "src": "Chelsea (manufacturer)",
+   "status": "verified",
+   "url": "https://www.chelsea.co.nz/about-sugar/faqs/"
+  },
+  "722782": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wraps Multigrain 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
   },
   "72617": {
    "brand": "Twinings",
@@ -746,6 +1118,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "740768": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wraps Wholemeal 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
   },
   "746171": {
    "brand": "Heartland",
@@ -795,6 +1179,30 @@
    "status": "verified",
    "url": "https://www.uncletobys.com.au/products/cereals/uncle-tobys-cheerios/original"
   },
+  "756054": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wraps Premium White Snack 8 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
+  },
+  "758314": {
+   "brand": "Dolmio",
+   "cat": "p",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Extra Pasta Sauce Italian Herbs",
+   "note": "Open Food Facts lists the Vegan label for Dolmio Extra Italian Herb pasta sauce.",
+   "src": "Open Food Facts",
+   "status": "verified",
+   "url": "https://world.openfoodfacts.org/product/9310012039556/dolmio-extra-pasta-sauce-italian-herb"
+  },
   "772595": {
    "brand": "Proper Crisps",
    "cat": "s",
@@ -842,6 +1250,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "797412": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wraps Italian Herb 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
   },
   "800973": {
    "brand": "Olina's",
@@ -953,6 +1373,18 @@
    "status": "no",
    "url": ""
   },
+  "826732": {
+   "brand": "Doritos",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Corn Chips Original",
+   "note": "Bluebird's NZ FAQ (NZ maker of Doritos) lists Doritos Original corn chips as suitable for vegans.",
+   "src": "Bluebird (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bluebird.co.nz/faqs"
+  },
   "829281": {
    "brand": "Twinings",
    "cat": "c",
@@ -1061,6 +1493,30 @@
    "status": "no",
    "url": ""
   },
+  "91082": {
+   "brand": "Remedy",
+   "cat": "d",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Kombucha Mango Passionfruit No Sugar",
+   "note": "Remedy: \"Kombucha, Sodaly and Switchel are all vegan-friendly.\"",
+   "src": "Remedy (manufacturer)",
+   "status": "verified",
+   "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
+  "914330": {
+   "brand": "PopCorners",
+   "cat": "s",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Corn Snacks Sweet & Salty",
+   "note": "New World labels PopCorners Sweet & Salty 130g \"Vegan friendly\".",
+   "src": "New World",
+   "status": "verified",
+   "url": "https://www.newworld.co.nz/shop/product/5327924_ea_000nw"
+  },
   "917612": {
    "brand": "Proper Crisps",
    "cat": "s",
@@ -1128,6 +1584,18 @@
    "flags": [],
    "mayContain": "",
    "name": "Kombucha Lychee & Strawberry",
+   "note": "Remedy: \"Kombucha, Sodaly and Switchel are all vegan-friendly.\"",
+   "src": "Remedy (manufacturer)",
+   "status": "verified",
+   "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
+  "972722": {
+   "brand": "Remedy",
+   "cat": "d",
+   "checked": "2026-10-12",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sodaly Yuzu",
    "note": "Remedy: \"Kombucha, Sodaly and Switchel are all vegan-friendly.\"",
    "src": "Remedy (manufacturer)",
    "status": "verified",

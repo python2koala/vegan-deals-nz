@@ -3,7 +3,7 @@
   "from": "2026-10-12",
   "to": "2026-10-18"
  },
- "count": 179,
+ "count": 140,
  "rows": [
   {
    "code": "648074",
@@ -316,136 +316,6 @@
    "details": null
   },
   {
-   "code": "6029512",
-   "slug": "blue-frog-porridge-vanilla-bean-chia-seed",
-   "name": "blue frog porridge vanilla bean & chia seed",
-   "brand": "blue frog",
-   "size": "7 x 40g",
-   "pct": 25,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "91082",
-   "slug": "remedy-kombucha-mango-passionfruit-no-sugar",
-   "name": "remedy kombucha mango passionfruit no sugar",
-   "brand": "remedy",
-   "size": "750mL",
-   "pct": 27,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "662367",
-   "slug": "remedy-kombucha-ginger-lemon-no-sugar",
-   "name": "remedy kombucha ginger & lemon no sugar",
-   "brand": "remedy",
-   "size": "750mL",
-   "pct": 27,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "124742",
-   "slug": "remedy-kombucha-wild-berry-no-sugar",
-   "name": "remedy kombucha wild berry no sugar",
-   "brand": "remedy",
-   "size": "750mL",
-   "pct": 27,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "391861",
-   "slug": "remedy-kombucha-organic-pomegranate",
-   "name": "remedy kombucha organic pomegranate",
-   "brand": "remedy",
-   "size": "750mL",
-   "pct": 27,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "671437",
-   "slug": "remedy-kombucha-raspberry-lemonade-no-sugar",
-   "name": "remedy kombucha raspberry lemonade no sugar",
-   "brand": "remedy",
-   "size": "750mL",
-   "pct": 27,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "384925",
-   "slug": "farrah-s-wraps-garden-spinach",
-   "name": "farrah's wraps garden spinach",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 28,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "740768",
-   "slug": "farrah-s-wraps-wholemeal",
-   "name": "farrah's wraps wholemeal",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 28,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "384926",
-   "slug": "farrah-s-wraps-premium-white",
-   "name": "farrah's wraps premium white",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 28,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "756054",
-   "slug": "farrah-s-wraps-premium-white-snack",
-   "name": "farrah's wraps premium white snack",
-   "brand": "farrah's",
-   "size": "8pack",
-   "pct": 28,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "722782",
-   "slug": "farrah-s-wraps-multigrain",
-   "name": "farrah's wraps multigrain",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 28,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "797412",
-   "slug": "farrah-s-wraps-italian-herb",
-   "name": "farrah's wraps italian herb",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 28,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "60602",
-   "slug": "farrah-s-wraps-smoky-chipotle",
-   "name": "farrah's wraps smoky chipotle",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 28,
-   "department": "Bakery",
-   "details": null
-  },
-  {
    "code": "272776",
    "slug": "kiwi-crush-frozen-fruit-drink-kiwifruit-concentrate-singles",
    "name": "kiwi crush frozen fruit drink kiwifruit concentrate singles",
@@ -576,16 +446,6 @@
    "details": null
   },
   {
-   "code": "758314",
-   "slug": "dolmio-extra-pasta-sauce-italian-herbs",
-   "name": "dolmio extra pasta sauce italian herbs",
-   "brand": "dolmio extra",
-   "size": "500g",
-   "pct": 25,
-   "department": "Dinner",
-   "details": null
-  },
-  {
    "code": "317629",
    "slug": "wattie-s-frozen-mixed-vegetables-rainbow-mix",
    "name": "wattie's frozen mixed vegetables rainbow mix",
@@ -643,16 +503,6 @@
    "size": "750g",
    "pct": 33,
    "department": "Frozen",
-   "details": null
-  },
-  {
-   "code": "717042",
-   "slug": "chelsea-raw-sugar",
-   "name": "chelsea raw sugar",
-   "brand": "chelsea",
-   "size": "1.2kg",
-   "pct": 28,
-   "department": "Pantry",
    "details": null
   },
   {
@@ -756,42 +606,12 @@
    "details": null
   },
   {
-   "code": "266528",
-   "slug": "chelsea-white-sugar",
-   "name": "chelsea white sugar",
-   "brand": "chelsea",
-   "size": "1.5kg",
-   "pct": 28,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "36493",
    "slug": "sunrice-white-rice-premium-long-grain",
    "name": "sunrice white rice premium long grain",
    "brand": "sunrice",
    "size": "1kg",
    "pct": 27,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "198127",
-   "slug": "bluebird-originals-multipack-chips-ready-salted-108g",
-   "name": "bluebird originals multipack chips ready salted 108g",
-   "brand": "bluebird originals multipack",
-   "size": "6pack",
-   "pct": 25,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "198233",
-   "slug": "copper-kettle-multipack-chips-sea-salt-110g",
-   "name": "copper kettle multipack chips sea salt 110g",
-   "brand": "copper kettle multipack",
-   "size": "5pack",
-   "pct": 40,
    "department": "Pantry",
    "details": null
   },
@@ -1016,16 +836,6 @@
    "details": null
   },
   {
-   "code": "212840",
-   "slug": "vitasoy-soy-milky-regular-uht-milk",
-   "name": "vitasoy soy milky regular uht milk",
-   "brand": "vitasoy",
-   "size": "1L",
-   "pct": 29,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
    "code": "178085",
    "slug": "musashi-energy-drink-blue-raspberry-zero-sugar",
    "name": "musashi energy drink blue raspberry zero sugar",
@@ -1186,16 +996,6 @@
    "details": null
   },
   {
-   "code": "972722",
-   "slug": "remedy-sodaly-yuzu",
-   "name": "remedy sodaly yuzu",
-   "brand": "remedy",
-   "size": "330mL",
-   "pct": 26,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "924485",
    "slug": "fanta-soft-drink-raspberry",
    "name": "fanta soft drink raspberry",
@@ -1216,16 +1016,6 @@
    "details": null
   },
   {
-   "code": "914330",
-   "slug": "popcorners-corn-snacks-sweet-salty",
-   "name": "popcorners corn snacks sweet & salty",
-   "brand": "popcorners",
-   "size": "130g",
-   "pct": 36,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "6056701",
    "slug": "popcorners-corn-snacks-cinnamon-crunch",
    "name": "popcorners corn snacks cinnamon crunch",
@@ -1242,36 +1032,6 @@
    "brand": "sour patch kids",
    "size": "190g",
    "pct": 43,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "285910",
-   "slug": "arnott-s-biscuits-ginger-nut",
-   "name": "arnott's biscuits ginger nut",
-   "brand": "arnott's",
-   "size": "250g",
-   "pct": 31,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "234699",
-   "slug": "sour-patch-kids-lollies",
-   "name": "sour patch kids lollies",
-   "brand": "sour patch kids",
-   "size": "190g",
-   "pct": 43,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "826732",
-   "slug": "doritos-corn-chips-original",
-   "name": "doritos corn chips original",
-   "brand": "doritos",
-   "size": "170g",
-   "pct": 36,
    "department": "Pantry",
    "details": null
   },
@@ -1322,36 +1082,6 @@
    "brand": "edgell",
    "size": "425g",
    "pct": 30,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "297603",
-   "slug": "bluebird-thin-cut-chips-ready-salted",
-   "name": "bluebird thin cut chips ready salted",
-   "brand": "bluebird thin cut",
-   "size": "140g",
-   "pct": 29,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "333257",
-   "slug": "bluebird-thick-cut-potato-chips-salted",
-   "name": "bluebird thick cut potato chips salted",
-   "brand": "bluebird thick cut",
-   "size": "150g",
-   "pct": 47,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "297515",
-   "slug": "bluebird-originals-chips-ready-salted",
-   "name": "bluebird originals chips ready salted",
-   "brand": "bluebird originals",
-   "size": "150g",
-   "pct": 29,
    "department": "Pantry",
    "details": null
   },
@@ -1656,76 +1386,6 @@
    "details": null
   },
   {
-   "code": "381227",
-   "slug": "ceres-organics-beans-black",
-   "name": "ceres organics beans black",
-   "brand": "ceres organics",
-   "size": "400g",
-   "pct": 32,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "68621",
-   "slug": "mingle-japanese-curry",
-   "name": "mingle japanese curry",
-   "brand": "mingle",
-   "size": "30g",
-   "pct": 33,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "68721",
-   "slug": "mingle-mexican-taco-fiesta-spice-blend",
-   "name": "mingle mexican taco fiesta spice blend",
-   "brand": "mingle",
-   "size": "30g",
-   "pct": 33,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "135064",
-   "slug": "mingle-recipe-base-green-curry",
-   "name": "mingle recipe base green curry",
-   "brand": "mingle",
-   "size": "30g",
-   "pct": 33,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "135507",
-   "slug": "mingle-recipe-base-satay",
-   "name": "mingle recipe base satay",
-   "brand": "mingle",
-   "size": "30g",
-   "pct": 33,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "381220",
-   "slug": "ceres-organics-beans-red-kidney",
-   "name": "ceres organics beans red kidney",
-   "brand": "ceres organics",
-   "size": "400g",
-   "pct": 32,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "381229",
-   "slug": "ceres-organics-chickpeas-garbanzo-beans",
-   "name": "ceres organics chickpeas garbanzo beans",
-   "brand": "ceres organics",
-   "size": "400g",
-   "pct": 32,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "352601",
    "slug": "santa-vittoria-water-mineral",
    "name": "santa vittoria water mineral",
@@ -1736,61 +1396,11 @@
    "details": null
   },
   {
-   "code": "6058621",
-   "slug": "barker-s-super-fruit-crush-fruit-snack-banana-blueberry-acai",
-   "name": "barker's super fruit crush fruit snack banana blueberry acai",
-   "brand": "barker's super fruit crush",
-   "size": "90g",
-   "pct": 32,
-   "department": "Dinner",
-   "details": null
-  },
-  {
-   "code": "469690",
-   "slug": "barker-s-super-fruit-crush-fruit-puree-mango-passionfruit-kiwi",
-   "name": "barker's super fruit crush fruit puree mango, passionfruit & kiwi",
-   "brand": "barker's super fruit crush",
-   "size": "90g",
-   "pct": 32,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "468836",
-   "slug": "barker-s-super-fruit-crush-fruit-puree-mixed-berry-chia",
-   "name": "barker's super fruit crush fruit puree mixed berry & chia",
-   "brand": "barker's super fruit crush",
-   "size": "90g",
-   "pct": 32,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "6062868",
-   "slug": "oreo-biscuits-original",
-   "name": "oreo biscuits original",
-   "brand": "oreo",
-   "size": "140g",
-   "pct": 44,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "6062231",
    "slug": "oreo-biscuits-original-double-stuff",
    "name": "oreo biscuits original double stuff",
    "brand": "oreo",
    "size": "136g",
-   "pct": 44,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "6062262",
-   "slug": "oreo-biscuits-chocolate",
-   "name": "oreo biscuits chocolate",
-   "brand": "oreo",
-   "size": "140g",
    "pct": 44,
    "department": "Pantry",
    "details": null
