@@ -27,6 +27,7 @@ jobs:
         run: python scripts/fetch.py
         env:
           SCRAPEDO_TOKEN: ${{ secrets.SCRAPEDO_TOKEN }}
+          SCRAPEDO_TOKEN_2: ${{ secrets.SCRAPEDO_TOKEN_2 }}
           FORCE: ${{ github.event.inputs.force || '0' }}
       - name: Build page data
         run: python scripts/build.py && python scripts/images.py && python scripts/build.py

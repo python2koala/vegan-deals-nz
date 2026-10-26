@@ -28,7 +28,7 @@ def main():
     want = json.load(open(WANT)).get("codes", []) if os.path.exists(WANT) else []
     cache = json.load(open(CACHE)) if os.path.exists(CACHE) else {}
     todo = [c for c in dict.fromkeys(map(str, want)) if c not in cache][:MAX_PER_RUN]
-    left = credits_left()
+    left = credits_left(verbose=True)
     print(f"{len(todo)} products need details; Scrape.do credits left: {left}")
     if left is None:
         print("Cannot read the Scrape.do credit balance; fetching nothing to be safe.")

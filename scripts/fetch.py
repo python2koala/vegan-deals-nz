@@ -30,8 +30,8 @@ def main():
     if now.weekday() == 0 and now.hour < 6:
         print("Too early on Monday (NZ); new specials may not be live yet."); return
 
-    before = credits_left()
-    print(f"Scrape.do credits left: {before}")
+    before = credits_left(verbose=True)
+    print(f"Scrape.do credits left (all accounts): {before}")
     if before is not None and before < 80:
         sys.exit("Not enough Scrape.do credits left this month for the weekly list.")
 

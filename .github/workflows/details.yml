@@ -19,6 +19,7 @@ jobs:
       - run: python scripts/details.py
         env:
           SCRAPEDO_TOKEN: ${{ secrets.SCRAPEDO_TOKEN }}
+          SCRAPEDO_TOKEN_2: ${{ secrets.SCRAPEDO_TOKEN_2 }}
       - run: python scripts/build.py && python scripts/images.py && python scripts/build.py
       - if: always()
         run: |
