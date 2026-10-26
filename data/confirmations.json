@@ -133,6 +133,18 @@
    "status": "no",
    "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
   },
+  "180911": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Vanilla",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "19510": {
    "brand": "Azalea",
    "cat": "p",
@@ -217,6 +229,18 @@
    "status": "no",
    "url": ""
   },
+  "221228": {
+   "brand": "Lipton",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Ice Tea Lemon No Sugar",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "221229": {
    "brand": "Starbucks by Nespresso",
    "cat": "c",
@@ -229,6 +253,18 @@
    "status": "no",
    "url": ""
   },
+  "221667": {
+   "brand": "Lipton",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Ice Tea Peach No Sugar",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "221793": {
    "brand": "Starbucks by Nespresso",
    "cat": "c",
@@ -238,6 +274,30 @@
    "name": "Starbucks by Nespresso Espresso Roast Coffee Pods 36pk",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "226860": {
+   "brand": "Snacka Changi",
+   "cat": "s",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Chips Sweet Chilli",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "227760": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Zero Sugar",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
    "status": "no",
    "url": ""
   },
@@ -276,6 +336,18 @@
    "src": "Ashoka (manufacturer)",
    "status": "verified",
    "url": "https://adf-foods.com/our-brands/ashoka/shelf-table-products/ready-to-eat/"
+  },
+  "246807": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Zero Sugar Zero Caffeine",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "265696": {
    "brand": "Harvest Snaps",
@@ -406,6 +478,42 @@
    "flags": [],
    "mayContain": "",
    "name": "Soft Drink Cola Max",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "271637": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Lemonade Lemon Lime No Sugar",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "271703": {
+   "brand": "Lift",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Lemon",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "271705": {
+   "brand": "Lift",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Diet Lemon",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
    "status": "no",
@@ -831,6 +939,20 @@
    "status": "verified",
    "url": "https://barkers.co.nz/shop/mango-kiwifruit-passionfruit-1"
   },
+  "479847": {
+   "brand": "Pringles",
+   "cat": "s",
+   "checked": "2026-10-27",
+   "flags": [
+    "471"
+   ],
+   "mayContain": "",
+   "name": "Chips Original 53g",
+   "note": "PETA Australia lists Pringles Original as accidentally vegan, but Pringles makes no vegan claim and its Original Minis list emulsifier 471; check first.",
+   "src": "PETA Australia",
+   "status": "caution",
+   "url": "https://peta.org.au/living/accidentally-vegan/"
+  },
   "485413": {
    "brand": "Jed's",
    "cat": "c",
@@ -903,6 +1025,30 @@
    "status": "no",
    "url": ""
   },
+  "548716": {
+   "brand": "Wattie's",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Tomato Sauce 50% Less Sugar",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "549351": {
+   "brand": "Wattie's",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "BBQ Sauce Smoked Hickory Flavoured",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "571601": {
    "brand": "Remedy",
    "cat": "d",
@@ -948,6 +1094,42 @@
    "name": "All Good Barista Coconut Milk",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "6007146": {
+   "brand": "Chia Sisters",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Smoothie Immunity Tropical",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6007294": {
+   "brand": "Chia Sisters",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Smoothie Prebiotic Feijoa",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6007772": {
+   "brand": "Chia Sisters",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Smoothie Antioxidant Berry",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
    "status": "no",
    "url": ""
   },
@@ -1359,6 +1541,18 @@
    "status": "verified",
    "url": "https://www.fortythieves.co.nz/faqs/"
   },
+  "6080410": {
+   "brand": "Black Ruby Bakeries",
+   "cat": "b",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "White Rolls High Protein 4 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "624289": {
    "brand": "Remedy",
    "cat": "d",
@@ -1370,6 +1564,20 @@
    "src": "Remedy (manufacturer)",
    "status": "verified",
    "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
+  "62735": {
+   "brand": "Fantastic",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [
+    "635"
+   ],
+   "mayContain": "milk,egg",
+   "name": "Instant Noodles Chicken Cup",
+   "note": "PAK'nSAVE labels it Vegan, but the maker lists flavour enhancer 635 and unspecified flavours with no vegan claim; check first.",
+   "src": "PAK'nSAVE",
+   "status": "caution",
+   "url": "https://www.paknsave.co.nz/shop/product/5009982_ea_000pns"
   },
   "637518": {
    "brand": "Nescafé",
@@ -1466,6 +1674,30 @@
    "src": "Remedy (manufacturer)",
    "status": "verified",
    "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
+  "662933": {
+   "brand": "McCain",
+   "cat": "b",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Fries Straight Cut",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "662937": {
+   "brand": "McCain",
+   "cat": "b",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Fries Shoestring",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "663046": {
    "brand": "Nescafé",
@@ -1779,6 +2011,54 @@
    "status": "verified",
    "url": "https://www.uncletobys.com.au/products/cereals/uncle-tobys-cheerios/original"
   },
+  "751227": {
+   "brand": "Wattie's",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Tomato Ketchup",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "751247": {
+   "brand": "Wattie's",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Tomato Sauce",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "751258": {
+   "brand": "Wattie's",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Tomato Sauce Lite",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "751271": {
+   "brand": "Wattie's",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "BBQ Sauce",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "756054": {
    "brand": "Farrah's",
    "cat": "b",
@@ -1834,6 +2114,30 @@
    "flags": [],
    "mayContain": "milk,egg",
    "name": "Snax Crackers Original",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "77949": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coke Soft Drink",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "78051": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Diet Coke Soft Drink",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
    "status": "no",
@@ -2201,6 +2505,18 @@
    "status": "no",
    "url": ""
   },
+  "90716": {
+   "brand": "Snacka Changi",
+   "cat": "s",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Chips Salted",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "909799": {
    "brand": "Lilo",
    "cat": "b",
@@ -2306,6 +2622,18 @@
    "name": "McCain Frozen Peas",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "96329": {
+   "brand": "Snacka Changi",
+   "cat": "s",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Chips BBQ",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
    "status": "no",
    "url": ""
   },
