@@ -13,7 +13,16 @@
    "size": "206g",
    "pct": 25,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Arabica Coffee (100%)",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods house blend lungo 36pack",
+    "packClaim": "Starbucks house blend lungo by nespresso, Contents: 36 capsules of Roast and Ground coffee for the Nespresso system. 100% Arabica. Packaged in a protective atmosphere., It’s deceptively simple. A blend of fine Latin American beans roasted to a glistening, dark chestnut colour. Loaded with flavour, balancing tastes of nut and cocoa, just a touch of sweetness from the roast. Inspired by the very first blend we ever created for you back in 1971, this is a delicious cup of coffee., The Starbucks® roast - Each coffee requires a slightly different roast to reach its peak of acidity, body and flavour. We classify our coffees in three roast profiles, so finding your favourite is easy."
+   }
   },
   {
    "code": "221793",
@@ -23,7 +32,16 @@
    "size": "202g",
    "pct": 25,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Contents: 36 Capsules of Roast and Ground Coffee for the Nespresso System.  100% Arabica",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods espresso roast 36pack",
+    "packClaim": "Contents: 36 capsules of roast and round coffee for the Nespresso system. 100% Arabica. Packaged in a protective atmosphere., Dark; Intensity 10- 12, Every espresso beverage we handcraft for you started right here. The quest began in 1975 with a search for the perfect melding of beans and roast, ending months of intense experimentation later with the coffee you're holding in your hand. A recipe for caramelly sweetness - so right it's never been changed., Intensity 11, Rich & caramelly notes, The Starbucks Roast - Each coffee requires a slightly different roast to reach its peak of acidity, body and flavour. We classify our coffees in three roast profiles, so finding your favourite is easy."
+   }
   },
   {
    "code": "717041",
@@ -33,7 +51,16 @@
    "size": "1L",
    "pct": 26,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "olivani",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Extra Virgin Olive Oil",
+    "mayContain": "",
+    "name": "olivani olive oil extra virgin",
+    "packClaim": "At Olivani, we use a combination of carefully selected olives from the Mediterranean's finest olive growing regions along with time honoured processing techniques to make 100% natural olive oils. Picked, pressed and bottled in the Mediterranean. Source of monounsaturated fats., Finest selected olives, First cold pressed, From the first press of the olive, Olivani Extra Virgin Olive Oil is full flavoured and golden green in colour. Olive Oil can become cloudy below 10?. This does not affect the quality and clarity will be restored once the temperature is above 10?., Fruity taste, Ideal for dressings and marinades, Product of Mediterranean"
+   }
   },
   {
    "code": "6063712",
@@ -43,7 +70,16 @@
    "size": "12 x 330mL",
    "pct": 27,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "stoke",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Carbonated Artesian Water, Sugar, Juice Concentrates Lemon & Lime, Citric Acid, Preservative 202",
+    "mayContain": "",
+    "name": "stoke soft drink lemon lime & bitters",
+    "packClaim": ""
+   }
   },
   {
    "code": "116330",
@@ -53,7 +89,16 @@
    "size": "12 x 330mL",
    "pct": 27,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "stoke",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Carbonated Artesian Water, Sugar, Lemon, Ginger, Cinnamon.",
+    "mayContain": "",
+    "name": "stoke ginger beer classic",
+    "packClaim": "Gluten free.; Non-alcoholic; New Zealand family owned; Brewed using ginger, lemon juice and a dash of cinnamon for good measure.; A new generation of premium, hand crafted beverages from the family who pioneered craft brewing in New Zealand.; Our classic ginger beer is hand crafted with the same passion, attention to detail and creative fair that we dedicate to all our beverages. As second generation brewers we're respectful of tradition and never compromise on quality.; Real ingredients"
+   }
   },
   {
    "code": "19510",
@@ -63,7 +108,16 @@
    "size": "500mL",
    "pct": 27,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "azalea",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Grapeseed Oil",
+    "mayContain": "",
+    "name": "azalea grapeseed oil ",
+    "packClaim": "100% pure, High smoke point"
+   }
   },
   {
    "code": "791223",
@@ -203,7 +257,16 @@
    "size": "500mL",
    "pct": 40,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafe",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "<p>Water, Sugar, Soluble Coffee (8.3%), Flavour, Acidity Regulator (Sodium Bicarbonate).</p>",
+    "mayContain": "",
+    "name": "nescafe coffee concentrate espresso caramel",
+    "packClaim": ""
+   }
   },
   {
    "code": "637518",
@@ -213,7 +276,16 @@
    "size": "500mL",
    "pct": 40,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "<p>Water, Soluble Coffee (8.3%), Acidity Regulator (Sodium Bicarbonate).</p>",
+    "mayContain": "",
+    "name": "nescafé espresso coffee concentrate black",
+    "packClaim": "For export only; Just add to milk and ice; 10 servings; Contains 120mg caffeine per serve. Coffee concentrate; Rich Arabica Blend"
+   }
   },
   {
    "code": "647699",
@@ -223,7 +295,16 @@
    "size": "500mL",
    "pct": 40,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "<p>Water, Sugar, Soluble Coffee (8.3%), Acidity Re gulator (Sodium Bicarbonate), Flavour.</p>",
+    "mayContain": "",
+    "name": "nescafé espresso coffee concentrate sweet vanilla",
+    "packClaim": "Makes a vanilla flavoured coffee; Just add to milk and ice; For export only; Contains 130mg caffeine per serve. Coffee concentrate; 10 servings; Rich Arabic Blend"
+   }
   },
   {
    "code": "6047550",
@@ -233,7 +314,16 @@
    "size": "500mL",
    "pct": 40,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafe",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "<p>Water, Sugar, Soluble Coffee (8.3%), Flavour, A cidity Regulator (Sodium Bicarbonate).  </p>",
+    "mayContain": "",
+    "name": "nescafe coffee concentrate mocha",
+    "packClaim": ""
+   }
   },
   {
    "code": "648359",
@@ -243,7 +333,16 @@
    "size": "",
    "pct": 25,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé farmers origins",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+    "mayContain": "",
+    "name": "nescafé farmers origins coffee pods south asia espresso",
+    "packClaim": "Nescafé® - Farmers origins; Farmers origins South Asia; Woody and spicy notes - In Nescafé® South Asia espresso, two leading origins, iconic to the Nescafé® brand, come together to bring you a great Italian espresso experience. Delivering all the roasty boldness, full body and thick, syrupy texture you want in this classic shot, Vietnam and India each offer their unique characteristics to win you over in a quick sip. Woody and spicy notes set this one apart.; Taste the origins - Discover more; Approved for Nespresso® machines; Ristretto 25 ml; Espresso 40 ml; Contents: 10 capsules of roast and ground coffee for the Nespresso system. Packaged in a protective atmosphere."
+   }
   },
   {
    "code": "663242",
@@ -253,7 +352,16 @@
    "size": "10pack",
    "pct": 25,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé farmers origins",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+    "mayContain": "",
+    "name": "nescafé farmers origins coffee pods africa ristretto",
+    "packClaim": "Farmers origins Africas; Sweet & wild berry notes - East African farmers carry the legacy of the world's first coffee beans, and their harvests come together in Nescafe Africas Ristretto. As the birthplace of Arabica and robusta, this is a great place for growing tasty coffee. A strong roast makes these a coffee moment to remember - a sweet cup bursting with wild berry notes.; Taste the origins discover more; Intensity 10; Approved for Nespresso machines; Smooth; Medium; Intense; Ristretto 25 ml; Espresso 40 ml; Contents: 10 capsules of roast and ground coffee for the Nespresso system. Packaged in a protective atmosphere.; At least 80% of aluminium in our capsules in recycled aluminium. The aluminium protects the freshness and aromas of your coffee."
+   }
   },
   {
    "code": "663077",
@@ -263,7 +371,16 @@
    "size": "",
    "pct": 25,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé farmers origins",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+    "mayContain": "",
+    "name": "nescafé farmers origins coffee pods brazil lungo",
+    "packClaim": "Nestlé® - Farmers origins; Farmers origins Brazil; Toasted & cereal notes - Brazilian farmers know a thing or two about growing and harvesting their coffee to bring you one of the smoothest, most balanced long cups. One of the biggest coffee producers the world has seen, Brazil's passion and sunshine shines in the cup. Savour the toasted and cereal notes of Nescafé® Brazil Lungo.; Taste the origins - Discover more; Approved for Nespresso® machines; Espresso 40ml; Lungo 110ml; Contents: 10 capsules of roast and ground coffee for the Nespresso system. Packaged in a protective atmosphere."
+   }
   },
   {
    "code": "663046",
@@ -273,7 +390,16 @@
    "size": "10pack",
    "pct": 25,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafe farmers origins",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+    "mayContain": "",
+    "name": "nescafe farmers origins coffee pods india",
+    "packClaim": "Cocoa and roasted notes - Nescafé® India Espresso is an outstanding blend of coffees from some of India's finest farmers. The lush, tropical lands of southern India are home to coffee, but also to all sorts of spices and fruit trees. Nescafé® India Espresso captures this biodiversity with its enticing cocoa and roasted notes.; Taste the origins discover more; Intensity 9; Approved for Nespresso machines; Smooth; Medium; Intense; Ristretto 25 ml; Espresso 40 ml; Contents: 10 capsules of roast and ground coffee for the Nespresso system. Packaged in a protective atmosphere.; Farmers origins india"
+   }
   },
   {
    "code": "6018775",
@@ -283,7 +409,16 @@
    "size": "10pack",
    "pct": 25,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé farmers origins",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "<p>Roast & Ground Coffee</p>",
+    "mayContain": "",
+    "name": "nescafé farmers origins coffee pods mexico espresso",
+    "packClaim": ""
+   }
   },
   {
    "code": "6072755",
@@ -293,7 +428,16 @@
    "size": "600g",
    "pct": 36,
    "department": "Dinner",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Soy, Wheat",
+    "brand": "auntie dai's",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Wheat Flour, Water, Vegetable Shortening [Refined Vegetable Oil, Antioxidants (320, 321)], Soybean Oil, Spring Onion (7%), Salt, Flavour Enhancer (621)",
+    "mayContain": "",
+    "name": "auntie dai's chinese pancakes spring onion",
+    "packClaim": ""
+   }
   },
   {
    "code": "6038928",
@@ -303,7 +447,16 @@
    "size": "125g",
    "pct": 26,
    "department": "",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Cashew",
+    "brand": "yava",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Rolled Oats, Lontar Sugar (17.8%), Cashews (12.8%) , Red Rice, Coconut Oil, Mung Bean, Sorghum, Cacao Powder (2.1%), Sea Salt, Cacao Mass (0.3%), Raisi ng Agent (500), Natural Vanilla Flavour (0.1%), Va nilla Paste (0.01%).",
+    "mayContain": "Peanuts, Sesame",
+    "name": "yava granola bites chocolate vanilla",
+    "packClaim": ""
+   }
   },
   {
    "code": "6078427",
@@ -343,7 +496,16 @@
    "size": "750g",
    "pct": 29,
    "department": "Dinner",
-   "details": null
+   "details": {
+    "allergens": "Sesame, Gluten, Soy, Wheat",
+    "brand": "shore mariner",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Vegetables (50%) (Cabbage, Carrot, Green Beans, Mushroom, Spring Onion), Wheat Flour, Water, Vermicelli (Wheat Flour), Soy Protein, Soybean Oil, Salt, Sugar, Sesame Oil, Corn Starch, Ginger, Pepper.",
+    "mayContain": "",
+    "name": "shore mariner spring rolls ",
+    "packClaim": "Approx. 50 pieces, Vegan friendly; Halal"
+   }
   },
   {
    "code": "402275",
@@ -353,7 +515,16 @@
    "size": "750g",
    "pct": 29,
    "department": "Dinner",
-   "details": null
+   "details": {
+    "allergens": "Gluten, Wheat, Soy",
+    "brand": "shore mariner",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Vegetables (47%) (Cabbage, Potato, Onion, Carrot, Spring Onion, Ginger), Water, Wheat Flour, Soybean Oil, Corn Starch, Salt, Curry Powder, Sugar, White Pepper",
+    "mayContain": "",
+    "name": "shore mariner samosas ",
+    "packClaim": "Keep frozen, Air fryer, Approx. 50 pieces, Mini-Samoussas aux legumes., Vegan friendly; Halal"
+   }
   },
   {
    "code": "909799",
@@ -363,7 +534,16 @@
    "size": "2pack",
    "pct": 50,
    "department": "Dinner",
-   "details": null
+   "details": {
+    "allergens": "May be present Soy, Egg, Peanuts, Sesame, Tree Nuts.",
+    "brand": "lilo",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "New Zealand Fruit Topping (26%) (Strawberry, Redcu rrant), Sugar, Water, Glucose Syrup, Modified Star ch, Pectin, Acidity Regulator (330), Natural Flavo ur, Natural Colour (Carrot, Blackcurrant), Antioxi dant (300)), Plant Cheesecake (Coconut Oil, Coconu",
+    "mayContain": "Egg, Tree Nuts, Peanuts, Sesame, Soy",
+    "name": "lilo cheesecake strawberry & marshmallow",
+    "packClaim": "GLUTEN FREE"
+   }
   },
   {
    "code": "174412",
@@ -373,7 +553,16 @@
    "size": "4pack",
    "pct": 48,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Product contains Caffeine",
+    "brand": "v sugarfree",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Carbonated Water, Acidity Regulators (330, 331, 576), Sweeteners (968, 955, 950), Flavours, Guarana Extract, Preservatives (452, 202), Caffeine, Colour  (150d), Vitamins (Niacin, Pantothenic Acid, Riboflavin, B6, B12), Antioxidant (300).",
+    "mayContain": "",
+    "name": "v sugarfree energy drink blue",
+    "packClaim": "More good energy than a month-long Mexican wave"
+   }
   },
   {
    "code": "901487",
@@ -383,7 +572,16 @@
    "size": "1kg",
    "pct": 25,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "kashish",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Basmati Rice",
+    "mayContain": "",
+    "name": "kashish basmati rice basmati rice",
+    "packClaim": ""
+   }
   },
   {
    "code": "113920",
@@ -393,7 +591,16 @@
    "size": "1kg",
    "pct": 32,
    "department": "Frozen",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "mccain",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Carrots, Peas, Corn Kernels",
+    "mayContain": "",
+    "name": "mccain frozen mixed vegetables peas, corn & carrots",
+    "packClaim": "Good source of fibre, No artificial colours, flavours or preservatives, Our recipe is simple: good food starts from real ingredients., Snap frozen, The veggie story - picked for perfection... & snap frozen for freshness"
+   }
   },
   {
    "code": "96215",
@@ -403,7 +610,16 @@
    "size": "1kg",
    "pct": 32,
    "department": "Frozen",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "mccain",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Peas",
+    "mayContain": "",
+    "name": "mccain frozen peas ",
+    "packClaim": "A 75g serve of McCain vegetables (½ cup cooked) will provide 1 of your 5 recommended daily serves. - Based on the Australian Guide to Health Eating., Farm picked, Good source of fibre, No artificial colours, flavours or preservatives, Our recipe is simple: Good food starts from real ingredients., Snap frozen, The veggie story - Picked for perfection... & snap frozen for freshness"
+   }
   },
   {
    "code": "6000571",
@@ -413,7 +629,16 @@
    "size": "1L",
    "pct": 27,
    "department": "Fridge & Deli",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "all good",
+    "descriptionVegan": [],
+    "fetched": "2026-10-26",
+    "ingredients": "Water, Coconut Cream (3.8%), Sugar, Pea Protein, A cidity Regulator (Potassium Phosphate), Mineral (C alcium Carbonate), Sunflower Oil, Natural Flavours , Stabiliser (Gellan Gum), Salt",
+    "mayContain": "Gluten, Soy, Almond",
+    "name": "all good coconut milk barista",
+    "packClaim": "LACTOSE FREE, Free from soy, free from artificial flavours, free from artificial colours, free from dairy."
+   }
   },
   {
    "code": "6080410",

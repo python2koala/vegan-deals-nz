@@ -1,4 +1,24 @@
 {
+ "113920": {
+  "allergens": "",
+  "brand": "mccain",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Carrots, Peas, Corn Kernels",
+  "mayContain": "",
+  "name": "mccain frozen mixed vegetables peas, corn & carrots",
+  "packClaim": "Good source of fibre, No artificial colours, flavours or preservatives, Our recipe is simple: good food starts from real ingredients., Snap frozen, The veggie story - picked for perfection... & snap frozen for freshness"
+ },
+ "116330": {
+  "allergens": "",
+  "brand": "stoke",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Carbonated Artesian Water, Sugar, Lemon, Ginger, Cinnamon.",
+  "mayContain": "",
+  "name": "stoke ginger beer classic",
+  "packClaim": "Gluten free.; Non-alcoholic; New Zealand family owned; Brewed using ginger, lemon juice and a dash of cinnamon for good measure.; A new generation of premium, hand crafted beverages from the family who pioneered craft brewing in New Zealand.; Our classic ginger beer is hand crafted with the same passion, attention to detail and creative fair that we dedicate to all our beverages. As second generation brewers we're respectful of tradition and never compromise on quality.; Real ingredients"
+ },
  "138602": {
   "allergens": "",
   "brand": "heartland",
@@ -9,6 +29,16 @@
   "name": "heartland chips nearly nude less salt",
   "packClaim": "100% NZ family owned, 50% less salt - 50% less salt than Heartland Southern Salt Wave Potato Chips., Fallgate Farm Geraldine, NZ - Est. 1975, From our farm to you, Gluten free, Heartland Potato Chips is your classic Kiwi 'can do' story. - From the beginning, Heartland Chips have been innovators with new cuts, new flavours, and now New Zealand’s very first range of unsalted and very lightly salted chips. Designed for health-conscious Kiwis looking to cut back on sodium, the Nude Flat Cut is New Zealand’s first no added salt potato chip. And, for those looking for a slightly less dramatic change, there’s the Nearly Nude, a delicious Flat Cut with all the crunch, but half the salt of a normal chip. This packet of Heartland Chips is made from potatoes grown by a family of Kiwi farmers in a paddock on Fallgate Farm, just outside Timaru, South Canterbury. They’re then sent 30km down the road to a factory owned by that same Kiwi family, who oversee every aspect of the production process. Heartland is New Zealand’s only 100% Kiwi-owned potato chip company. The Bowan family love growing potatoes. But the real fun comes from watching other people enjoy them. So Raymond and Adrienne, with children James, Charlotte and Kate, pour as much energy into turning their potatoes into great chips as they do into growing them in the first place. A Kiwi farm. A Kiwi family business. And a great Kiwi potato chip. It doesn’t get much more Kiwi than that., No palm oil, Quality checked Fallgate farm R M Bowan, Since this product is sold by weight, not volume, some settling of the contents may occur., Suitable for vegetarians"
  },
+ "174412": {
+  "allergens": "Product contains Caffeine",
+  "brand": "v sugarfree",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Carbonated Water, Acidity Regulators (330, 331, 576), Sweeteners (968, 955, 950), Flavours, Guarana Extract, Preservatives (452, 202), Caffeine, Colour  (150d), Vitamins (Niacin, Pantothenic Acid, Riboflavin, B6, B12), Antioxidant (300).",
+  "mayContain": "",
+  "name": "v sugarfree energy drink blue",
+  "packClaim": "More good energy than a month-long Mexican wave"
+ },
  "176655": {
   "allergens": "May contain: Gluten, Milk and Soy",
   "brand": "the natural chip company",
@@ -18,6 +48,16 @@
   "mayContain": "Milk, Gluten, Soy",
   "name": "the natural chip company corn snacks veggie straws lightly salted",
   "packClaim": "Delicious light and crunchy snacks made with potato, kale and tomato. 100% natural, all vegetarian and seasoned with delicious flavours, the Natural Chip Co. Veggie Straws are a great tasting alternative to regular potato chips.,  100% natural, Cooked in sunflower oil, Less than 100 calories per serve, Made with potato, kale & tomato, New Zealand made, No added MSG, No artificial colours or flavours, No GMO, Real ingredients - real flavour, Vegetarian"
+ },
+ "19510": {
+  "allergens": "",
+  "brand": "azalea",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Grapeseed Oil",
+  "mayContain": "",
+  "name": "azalea grapeseed oil ",
+  "packClaim": "100% pure, High smoke point"
  },
  "22019": {
   "allergens": "",
@@ -38,6 +78,26 @@
   "mayContain": "",
   "name": "keri fruit drink apple blackcurrant",
   "packClaim": "1L Bottle, Apple and Blackcurrant Fruit Drink, Made in NZ from local and imported ingredients, Natural , NO , No preservatives, Serve Cold for Maximum Refreshment, Sweetened with"
+ },
+ "221229": {
+  "allergens": "",
+  "brand": "starbucks by nespresso",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Arabica Coffee (100%)",
+  "mayContain": "",
+  "name": "starbucks by nespresso coffee pods house blend lungo 36pack",
+  "packClaim": "Starbucks house blend lungo by nespresso, Contents: 36 capsules of Roast and Ground coffee for the Nespresso system. 100% Arabica. Packaged in a protective atmosphere., It’s deceptively simple. A blend of fine Latin American beans roasted to a glistening, dark chestnut colour. Loaded with flavour, balancing tastes of nut and cocoa, just a touch of sweetness from the roast. Inspired by the very first blend we ever created for you back in 1971, this is a delicious cup of coffee., The Starbucks® roast - Each coffee requires a slightly different roast to reach its peak of acidity, body and flavour. We classify our coffees in three roast profiles, so finding your favourite is easy."
+ },
+ "221793": {
+  "allergens": "",
+  "brand": "starbucks by nespresso",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Contents: 36 Capsules of Roast and Ground Coffee for the Nespresso System.  100% Arabica",
+  "mayContain": "",
+  "name": "starbucks by nespresso coffee pods espresso roast 36pack",
+  "packClaim": "Contents: 36 capsules of roast and round coffee for the Nespresso system. 100% Arabica. Packaged in a protective atmosphere., Dark; Intensity 10- 12, Every espresso beverage we handcraft for you started right here. The quest began in 1975 with a search for the perfect melding of beans and roast, ending months of intense experimentation later with the coffee you're holding in your hand. A recipe for caramelly sweetness - so right it's never been changed., Intensity 11, Rich & caramelly notes, The Starbucks Roast - Each coffee requires a slightly different roast to reach its peak of acidity, body and flavour. We classify our coffees in three roast profiles, so finding your favourite is easy."
  },
  "265696": {
   "allergens": "May contain: Soy",
@@ -309,6 +369,26 @@
   "name": "nibblish fruit mix mixed berries",
   "packClaim": "LOW SODIUM, GLUTEN FREE, LACTOSE FREE, No Added Sugars;Free From Dairy;Free From Additives;"
  },
+ "402275": {
+  "allergens": "Gluten, Wheat, Soy",
+  "brand": "shore mariner",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Vegetables (47%) (Cabbage, Potato, Onion, Carrot, Spring Onion, Ginger), Water, Wheat Flour, Soybean Oil, Corn Starch, Salt, Curry Powder, Sugar, White Pepper",
+  "mayContain": "",
+  "name": "shore mariner samosas ",
+  "packClaim": "Keep frozen, Air fryer, Approx. 50 pieces, Mini-Samoussas aux legumes., Vegan friendly; Halal"
+ },
+ "402332": {
+  "allergens": "Sesame, Gluten, Soy, Wheat",
+  "brand": "shore mariner",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Vegetables (50%) (Cabbage, Carrot, Green Beans, Mushroom, Spring Onion), Wheat Flour, Water, Vermicelli (Wheat Flour), Soy Protein, Soybean Oil, Salt, Sugar, Sesame Oil, Corn Starch, Ginger, Pepper.",
+  "mayContain": "",
+  "name": "shore mariner spring rolls ",
+  "packClaim": "Approx. 50 pieces, Vegan friendly; Halal"
+ },
  "507665": {
   "allergens": "Sesame",
   "brand": "be right",
@@ -351,6 +431,36 @@
   "name": "twinings tea morning",
   "packClaim": ""
  },
+ "6000571": {
+  "allergens": "",
+  "brand": "all good",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Water, Coconut Cream (3.8%), Sugar, Pea Protein, A cidity Regulator (Potassium Phosphate), Mineral (C alcium Carbonate), Sunflower Oil, Natural Flavours , Stabiliser (Gellan Gum), Salt",
+  "mayContain": "Gluten, Soy, Almond",
+  "name": "all good coconut milk barista",
+  "packClaim": "LACTOSE FREE, Free from soy, free from artificial flavours, free from artificial colours, free from dairy."
+ },
+ "6018775": {
+  "allergens": "",
+  "brand": "nescafé farmers origins",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "<p>Roast & Ground Coffee</p>",
+  "mayContain": "",
+  "name": "nescafé farmers origins coffee pods mexico espresso",
+  "packClaim": ""
+ },
+ "6021871": {
+  "allergens": "",
+  "brand": "nescafe",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "<p>Water, Sugar, Soluble Coffee (8.3%), Flavour, Acidity Regulator (Sodium Bicarbonate).</p>",
+  "mayContain": "",
+  "name": "nescafe coffee concentrate espresso caramel",
+  "packClaim": ""
+ },
  "6022561": {
   "allergens": "",
   "brand": "keri",
@@ -391,6 +501,26 @@
   "name": "woolworths turkish loaf ",
   "packClaim": ""
  },
+ "6038928": {
+  "allergens": "Gluten, Cashew",
+  "brand": "yava",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Rolled Oats, Lontar Sugar (17.8%), Cashews (12.8%) , Red Rice, Coconut Oil, Mung Bean, Sorghum, Cacao Powder (2.1%), Sea Salt, Cacao Mass (0.3%), Raisi ng Agent (500), Natural Vanilla Flavour (0.1%), Va nilla Paste (0.01%).",
+  "mayContain": "Peanuts, Sesame",
+  "name": "yava granola bites chocolate vanilla",
+  "packClaim": ""
+ },
+ "6047550": {
+  "allergens": "",
+  "brand": "nescafe",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "<p>Water, Sugar, Soluble Coffee (8.3%), Flavour, A cidity Regulator (Sodium Bicarbonate).  </p>",
+  "mayContain": "",
+  "name": "nescafe coffee concentrate mocha",
+  "packClaim": ""
+ },
  "6055411": {
   "allergens": "",
   "brand": "natureland",
@@ -411,6 +541,26 @@
   "name": "morinaga silken tofu asian dessert",
   "packClaim": "No preservatives; Shelf stable; Mori-Nu Asian Dessert Tofu is a creamy, tofu-based dessert inspired by the classic annin tofu or almond jelly enjoyed in Japan and China. Lightly sweetened with a subtle almond jelly–inspired flavor, it can be served chilled or at room temp. Enjoy on its own or topped with fresh fruit.; Almond jelly inspired flavor; Asian dessert - Award-winning aseptic package; Long shelf life; Tetra Pak® - Protects what's good; Tetra Pak® Tetra Brik®Aseptic; Certified Gluten Free; Non GMO Project Verified; Kosher Parve"
  },
+ "6063712": {
+  "allergens": "",
+  "brand": "stoke",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Carbonated Artesian Water, Sugar, Juice Concentrates Lemon & Lime, Citric Acid, Preservative 202",
+  "mayContain": "",
+  "name": "stoke soft drink lemon lime & bitters",
+  "packClaim": ""
+ },
+ "6072755": {
+  "allergens": "Gluten, Soy, Wheat",
+  "brand": "auntie dai's",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Wheat Flour, Water, Vegetable Shortening [Refined Vegetable Oil, Antioxidants (320, 321)], Soybean Oil, Spring Onion (7%), Salt, Flavour Enhancer (621)",
+  "mayContain": "",
+  "name": "auntie dai's chinese pancakes spring onion",
+  "packClaim": ""
+ },
  "607577": {
   "allergens": "",
   "brand": "heinz",
@@ -421,6 +571,36 @@
   "name": "heinz ketchup tomato less sugar",
   "packClaim": "50% less added sugar & salt - Contains 50% less added sugar and salt than the regular Heinz tomato ketchup 500mL, It's our sun ripened tomatoes, along with our passion & knowledge that give our recipe its unique flavour. Now you can enjoy the unmistakable taste of Heinz Tomato Ketchup with 50% less added sugar & salt- Contains 50% less added sugar and salt than the regular Heinz tomato ketchup 500mL, Naturally sweetened with extracts of the stevia leaf, No artificial colours, No artificial flavours, No artificial sweeteners, No preservatives"
  },
+ "637518": {
+  "allergens": "",
+  "brand": "nescafé",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "<p>Water, Soluble Coffee (8.3%), Acidity Regulator (Sodium Bicarbonate).</p>",
+  "mayContain": "",
+  "name": "nescafé espresso coffee concentrate black",
+  "packClaim": "For export only; Just add to milk and ice; 10 servings; Contains 120mg caffeine per serve. Coffee concentrate; Rich Arabica Blend"
+ },
+ "647699": {
+  "allergens": "",
+  "brand": "nescafé",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "<p>Water, Sugar, Soluble Coffee (8.3%), Acidity Re gulator (Sodium Bicarbonate), Flavour.</p>",
+  "mayContain": "",
+  "name": "nescafé espresso coffee concentrate sweet vanilla",
+  "packClaim": "Makes a vanilla flavoured coffee; Just add to milk and ice; For export only; Contains 130mg caffeine per serve. Coffee concentrate; 10 servings; Rich Arabic Blend"
+ },
+ "648359": {
+  "allergens": "",
+  "brand": "nescafé farmers origins",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+  "mayContain": "",
+  "name": "nescafé farmers origins coffee pods south asia espresso",
+  "packClaim": "Nescafé® - Farmers origins; Farmers origins South Asia; Woody and spicy notes - In Nescafé® South Asia espresso, two leading origins, iconic to the Nescafé® brand, come together to bring you a great Italian espresso experience. Delivering all the roasty boldness, full body and thick, syrupy texture you want in this classic shot, Vietnam and India each offer their unique characteristics to win you over in a quick sip. Woody and spicy notes set this one apart.; Taste the origins - Discover more; Approved for Nespresso® machines; Ristretto 25 ml; Espresso 40 ml; Contents: 10 capsules of roast and ground coffee for the Nespresso system. Packaged in a protective atmosphere."
+ },
  "661397": {
   "allergens": "Gluten, Wheat",
   "brand": "wattie's",
@@ -430,6 +610,36 @@
   "mayContain": "Soy",
   "name": "wattie's baked beans 50% less added sugar",
   "packClaim": "SOURCE OF PROTEIN, Source Of Dietary Fibre;Low Fat;No Added Preservatives;"
+ },
+ "663046": {
+  "allergens": "",
+  "brand": "nescafe farmers origins",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+  "mayContain": "",
+  "name": "nescafe farmers origins coffee pods india",
+  "packClaim": "Cocoa and roasted notes - Nescafé® India Espresso is an outstanding blend of coffees from some of India's finest farmers. The lush, tropical lands of southern India are home to coffee, but also to all sorts of spices and fruit trees. Nescafé® India Espresso captures this biodiversity with its enticing cocoa and roasted notes.; Taste the origins discover more; Intensity 9; Approved for Nespresso machines; Smooth; Medium; Intense; Ristretto 25 ml; Espresso 40 ml; Contents: 10 capsules of roast and ground coffee for the Nespresso system. Packaged in a protective atmosphere.; Farmers origins india"
+ },
+ "663077": {
+  "allergens": "",
+  "brand": "nescafé farmers origins",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+  "mayContain": "",
+  "name": "nescafé farmers origins coffee pods brazil lungo",
+  "packClaim": "Nestlé® - Farmers origins; Farmers origins Brazil; Toasted & cereal notes - Brazilian farmers know a thing or two about growing and harvesting their coffee to bring you one of the smoothest, most balanced long cups. One of the biggest coffee producers the world has seen, Brazil's passion and sunshine shines in the cup. Savour the toasted and cereal notes of Nescafé® Brazil Lungo.; Taste the origins - Discover more; Approved for Nespresso® machines; Espresso 40ml; Lungo 110ml; Contents: 10 capsules of roast and ground coffee for the Nespresso system. Packaged in a protective atmosphere."
+ },
+ "663242": {
+  "allergens": "",
+  "brand": "nescafé farmers origins",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.",
+  "mayContain": "",
+  "name": "nescafé farmers origins coffee pods africa ristretto",
+  "packClaim": "Farmers origins Africas; Sweet & wild berry notes - East African farmers carry the legacy of the world's first coffee beans, and their harvests come together in Nescafe Africas Ristretto. As the birthplace of Arabica and robusta, this is a great place for growing tasty coffee. A strong roast makes these a coffee moment to remember - a sweet cup bursting with wild berry notes.; Taste the origins discover more; Intensity 10; Approved for Nespresso machines; Smooth; Medium; Intense; Ristretto 25 ml; Espresso 40 ml; Contents: 10 capsules of roast and ground coffee for the Nespresso system. Packaged in a protective atmosphere.; At least 80% of aluminium in our capsules in recycled aluminium. The aluminium protects the freshness and aromas of your coffee."
  },
  "665718": {
   "allergens": "",
@@ -462,6 +672,16 @@
   "mayContain": "Egg, Milk, Sulphites, Soy",
   "name": "huntley & palmers wholegrain crackers 8 grains",
   "packClaim": "Baked in NZ, Crisp, wholegrain crackers made with ancient grains. Huntley & Palmers Wholegrain Crackers 8 Grain contribute 33% of the whole grain daily target. - One 27g serving of H&P Wholegrain Crackers 8 Grain contributes 33% of the Grains & Legumes Nutritional Council™ 48g whole grain Daily Target Intake., Made with Ancient Grains - contains 3% ancient grains (buckwheat and millet), No colours, artificial flavours, The Huntley & Palmers story began way back in 1822 when Thomas Huntley and George Palmer started crafting crackers in Reading, England. A lot has changed since then, but we're still passionate about baking the best crackers and making life tastier."
+ },
+ "717041": {
+  "allergens": "",
+  "brand": "olivani",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Extra Virgin Olive Oil",
+  "mayContain": "",
+  "name": "olivani olive oil extra virgin",
+  "packClaim": "At Olivani, we use a combination of carefully selected olives from the Mediterranean's finest olive growing regions along with time honoured processing techniques to make 100% natural olive oils. Picked, pressed and bottled in the Mediterranean. Source of monounsaturated fats., Finest selected olives, First cold pressed, From the first press of the olive, Olivani Extra Virgin Olive Oil is full flavoured and golden green in colour. Olive Oil can become cloudy below 10?. This does not affect the quality and clarity will be restored once the temperature is above 10?., Fruity taste, Ideal for dressings and marinades, Product of Mediterranean"
  },
  "72617": {
   "allergens": "",
@@ -709,6 +929,26 @@
   "name": "twinings herbal tea pure peppermint",
   "packClaim": ""
  },
+ "901487": {
+  "allergens": "",
+  "brand": "kashish",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Basmati Rice",
+  "mayContain": "",
+  "name": "kashish basmati rice basmati rice",
+  "packClaim": ""
+ },
+ "909799": {
+  "allergens": "May be present Soy, Egg, Peanuts, Sesame, Tree Nuts.",
+  "brand": "lilo",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "New Zealand Fruit Topping (26%) (Strawberry, Redcu rrant), Sugar, Water, Glucose Syrup, Modified Star ch, Pectin, Acidity Regulator (330), Natural Flavo ur, Natural Colour (Carrot, Blackcurrant), Antioxi dant (300)), Plant Cheesecake (Coconut Oil, Coconu",
+  "mayContain": "Egg, Tree Nuts, Peanuts, Sesame, Soy",
+  "name": "lilo cheesecake strawberry & marshmallow",
+  "packClaim": "GLUTEN FREE"
+ },
  "917612": {
   "allergens": "",
   "brand": "proper crisps",
@@ -762,5 +1002,15 @@
   "mayContain": "",
   "name": "twinings fruit tea lemon & ginger",
   "packClaim": ""
+ },
+ "96215": {
+  "allergens": "",
+  "brand": "mccain",
+  "descriptionVegan": [],
+  "fetched": "2026-10-26",
+  "ingredients": "Peas",
+  "mayContain": "",
+  "name": "mccain frozen peas ",
+  "packClaim": "A 75g serve of McCain vegetables (½ cup cooked) will provide 1 of your 5 recommended daily serves. - Based on the Australian Guide to Health Eating., Farm picked, Good source of fibre, No artificial colours, flavours or preservatives, Our recipe is simple: Good food starts from real ingredients., Snap frozen, The veggie story - Picked for perfection... & snap frozen for freshness"
  }
 }
