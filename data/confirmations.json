@@ -25,6 +25,20 @@
    "status": "no",
    "url": ""
   },
+  "120207": {
+   "brand": "Sanitarium",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [
+    "d3"
+   ],
+   "mayContain": "",
+   "name": "So Good Oat Milk No Added Sugar",
+   "note": "Open Food Facts labels So Good Oat (no added sugar) as Vegan, but it contains vitamin D of unstated source; no maker confirmation.",
+   "src": "Open Food Facts",
+   "status": "caution",
+   "url": "https://world.openfoodfacts.org/product/9300652809985/oat-milk-sanitarium-so-good"
+  },
   "124742": {
    "brand": "Remedy",
    "cat": "d",
@@ -82,6 +96,18 @@
    "name": "Chips Nearly Nude Less Salt",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "160543": {
+   "brand": "Edmonds",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Self Raising Flour",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -495,6 +521,18 @@
    "status": "no",
    "url": ""
   },
+  "271671": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sprite Lemonade Lemon Lime",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "271703": {
    "brand": "Lift",
    "cat": "d",
@@ -516,6 +554,18 @@
    "name": "Soft Drink Diet Lemon",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "271725": {
+   "brand": "Fanta",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Fanta Soft Drink Orange",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -757,6 +807,18 @@
    "note": "Woolworths NZ pack claim lists \"Vegan; Halal\"; ingredients are lentils, vegetables, oil and spices.",
    "src": "Woolworths NZ listing (pack claim)",
    "status": "verified",
+   "url": ""
+  },
+  "36493": {
+   "brand": "SunRice",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "White Rice Premium Long Grain",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
    "url": ""
   },
   "381220": {
@@ -1385,6 +1447,18 @@
    "status": "verified",
    "url": "https://naturesway.co.nz/products/pea-protein-powder/"
   },
+  "6057985": {
+   "brand": "Harvest",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Salsa Sauce Mild",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "6058621": {
    "brand": "Barker's",
    "cat": "s",
@@ -1553,6 +1627,18 @@
    "status": "no",
    "url": ""
   },
+  "616721": {
+   "brand": "Heartland",
+   "cat": "s",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Chips Apple Cider Vinegar",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "624289": {
    "brand": "Remedy",
    "cat": "d",
@@ -1610,6 +1696,18 @@
    "flags": [],
    "mayContain": "",
    "name": "Nescafé Sweet Vanilla Espresso Coffee Concentrate",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "64811": {
+   "brand": "Fanta",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Fanta No Sugar Soft Drink Orange",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
@@ -1675,6 +1773,18 @@
    "status": "verified",
    "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
   },
+  "662932": {
+   "brand": "McCain",
+   "cat": "b",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Fries Steak Cut",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "662933": {
    "brand": "McCain",
    "cat": "b",
@@ -1684,6 +1794,18 @@
    "name": "Super Fries Straight Cut",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "662935": {
+   "brand": "McCain",
+   "cat": "b",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Fries Crinkle Cut",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -1866,6 +1988,30 @@
    "src": "Jed's (manufacturer)",
    "status": "verified",
    "url": "https://www.jedscoffee.co.nz/contact/"
+  },
+  "709136": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coca-Cola No Sugar Soft Drink Vanilla",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "713942": {
+   "brand": "7UP",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "7UP Soft Drink",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
   },
   "713943": {
    "brand": "Pepsi Max",
@@ -2565,6 +2711,18 @@
    "status": "verified",
    "url": ""
   },
+  "917977": {
+   "brand": "Harvest",
+   "cat": "p",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Salsa Medium",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "917985": {
    "brand": "Heartland",
    "cat": "s",
@@ -2586,6 +2744,18 @@
    "name": "Thick Cut Chips Southern Salt",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "924485": {
+   "brand": "Fanta",
+   "cat": "d",
+   "checked": "2026-10-27",
+   "flags": [],
+   "mayContain": "",
+   "name": "Fanta Soft Drink Raspberry",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
