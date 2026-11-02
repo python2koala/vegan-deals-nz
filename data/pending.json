@@ -3,7 +3,7 @@
   "from": "2026-11-02",
   "to": "2026-11-08"
  },
- "count": 160,
+ "count": 124,
  "rows": [
   {
    "code": "648074",
@@ -73,46 +73,6 @@
    "size": "30pack",
    "pct": 31,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "820905",
-   "slug": "natures-way-super-foods-acai-powder",
-   "name": "natures way super foods acai powder",
-   "brand": "natures way super foods",
-   "size": "75g",
-   "pct": 25,
-   "department": "Health & Body",
-   "details": null
-  },
-  {
-   "code": "820921",
-   "slug": "natures-way-super-foods-matcha",
-   "name": "natures way super foods matcha",
-   "brand": "natures way super foods",
-   "size": "50g",
-   "pct": 26,
-   "department": "Health & Body",
-   "details": null
-  },
-  {
-   "code": "820911",
-   "slug": "natures-way-super-foods-beetroot-powder",
-   "name": "natures way super foods beetroot powder",
-   "brand": "natures way super foods",
-   "size": "100g",
-   "pct": 25,
-   "department": "Health & Body",
-   "details": null
-  },
-  {
-   "code": "821268",
-   "slug": "natures-way-super-foods-spirulina",
-   "name": "natures way super foods spirulina",
-   "brand": "natures way super foods",
-   "size": "120g",
-   "pct": 25,
-   "department": "Health & Body",
    "details": null
   },
   {
@@ -213,16 +173,6 @@
    "size": "",
    "pct": 31,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "911420",
-   "slug": "ben-jerry-s-dairy-free-ice-cream-chocolate-chip-cookie-dough",
-   "name": "ben & jerry's dairy free ice cream chocolate chip cookie dough",
-   "brand": "ben & jerry's",
-   "size": "458mL",
-   "pct": 29,
-   "department": "Frozen",
    "details": null
   },
   {
@@ -356,16 +306,6 @@
    "details": null
   },
   {
-   "code": "276187",
-   "slug": "kellogg-s-nutrigrain-cereal",
-   "name": "kellogg's nutrigrain cereal",
-   "brand": "kellogg's nutrigrain",
-   "size": "470g",
-   "pct": 31,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "32695",
    "slug": "moccona-instant-coffee-classic-medium-roast",
    "name": "moccona instant coffee classic medium roast",
@@ -416,32 +356,12 @@
    "details": null
   },
   {
-   "code": "116518",
-   "slug": "tip-top-trumpet-vegan-frozen-dessert-on-cone-chocolate-vegan-gluten-free",
-   "name": "tip top trumpet vegan frozen dessert on cone chocolate vegan gluten free",
-   "brand": "tip top trumpet vegan",
-   "size": "4pack",
-   "pct": 37,
-   "department": "Frozen",
-   "details": null
-  },
-  {
    "code": "781884",
    "slug": "hubbards-light-right-cereal-hazelnut-almond",
    "name": "hubbards light & right cereal hazelnut & almond",
    "brand": "hubbards light & right",
    "size": "425g",
    "pct": 29,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "266525",
-   "slug": "chelsea-white-sugar",
-   "name": "chelsea white sugar",
-   "brand": "chelsea",
-   "size": "3kg",
-   "pct": 38,
    "department": "Pantry",
    "details": null
   },
@@ -453,46 +373,6 @@
    "size": "340g",
    "pct": 27,
    "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "159875",
-   "slug": "farrah-s-wraps-original-low-carb",
-   "name": "farrah's wraps original low carb",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 27,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "200885",
-   "slug": "farrah-s-low-carb-wraps-supergrains",
-   "name": "farrah's low carb wraps supergrains",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 27,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "56006",
-   "slug": "farrah-s-low-carb-wraps-ultra-keto",
-   "name": "farrah's low carb wraps ultra keto",
-   "brand": "farrah's",
-   "size": "5pack",
-   "pct": 27,
-   "department": "Bakery",
-   "details": null
-  },
-  {
-   "code": "248065",
-   "slug": "farrah-s-low-carb-wraps-keto-8-inch",
-   "name": "farrah's low carb wraps keto 8 inch",
-   "brand": "farrah's",
-   "size": "6pack",
-   "pct": 27,
-   "department": "Bakery",
    "details": null
   },
   {
@@ -516,16 +396,6 @@
    "details": null
   },
   {
-   "code": "701732",
-   "slug": "kellogg-s-cereal-sultana-bran",
-   "name": "kellogg's cereal sultana bran",
-   "brand": "kellogg's",
-   "size": "420g",
-   "pct": 37,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "360257",
    "slug": "pics-peanut-butter-crunchy",
    "name": "pics peanut butter crunchy",
@@ -533,26 +403,6 @@
    "size": "380g",
    "pct": 36,
    "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "174297",
-   "slug": "bundaberg-lemon-lime-bitters",
-   "name": "bundaberg lemon, lime & bitters",
-   "brand": "bundaberg",
-   "size": "6pack",
-   "pct": 36,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "6009501",
-   "slug": "bundaberg-refreshingly-light-soft-drink-apple-lychee",
-   "name": "bundaberg refreshingly light soft drink apple & lychee",
-   "brand": "bundaberg refreshingly light",
-   "size": "4x250mL",
-   "pct": 28,
-   "department": "Drinks",
    "details": null
   },
   {
@@ -566,16 +416,6 @@
    "details": null
   },
   {
-   "code": "6063008",
-   "slug": "bundaberg-diet-ginger-beer",
-   "name": "bundaberg diet ginger beer",
-   "brand": "bundaberg diet",
-   "size": "6 x 200mL",
-   "pct": 36,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "754776",
    "slug": "pics-peanut-butter-smooth",
    "name": "pics peanut butter smooth",
@@ -583,16 +423,6 @@
    "size": "380g",
    "pct": 36,
    "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "231302",
-   "slug": "bundaberg-soft-drink-sparkling-pink-grapefruit",
-   "name": "bundaberg soft drink sparkling pink grapefruit",
-   "brand": "bundaberg",
-   "size": "6pack",
-   "pct": 36,
-   "department": "Drinks",
    "details": null
   },
   {
@@ -606,16 +436,6 @@
    "details": null
   },
   {
-   "code": "369527",
-   "slug": "frys-vegetarian-burgers-meat-free-chicken-style-4pack",
-   "name": "frys vegetarian burgers meat free chicken style 4pack",
-   "brand": "frys",
-   "size": "320g",
-   "pct": 43,
-   "department": "Dinner",
-   "details": null
-  },
-  {
    "code": "360260",
    "slug": "pics-peanut-butter-crunchy-no-salt",
    "name": "pics peanut butter crunchy no salt",
@@ -626,26 +446,6 @@
    "details": null
   },
   {
-   "code": "53114",
-   "slug": "bundaberg-ginger-beer-minis",
-   "name": "bundaberg ginger beer minis",
-   "brand": "bundaberg",
-   "size": "6x200mL",
-   "pct": 36,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "6009797",
-   "slug": "bundaberg-refreshingly-light-soft-drink-lemon-watermelon",
-   "name": "bundaberg refreshingly light soft drink lemon & watermelon",
-   "brand": "bundaberg refreshingly light",
-   "size": "4x250mL",
-   "pct": 28,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "6069581",
    "slug": "tom-luke-snack-balls-protein-sticky-date",
    "name": "tom & luke snack balls protein sticky date",
@@ -653,16 +453,6 @@
    "size": "132g",
    "pct": 29,
    "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "256255",
-   "slug": "bundaberg-soft-drink-sparkling-blood-orange",
-   "name": "bundaberg soft drink sparkling blood orange",
-   "brand": "bundaberg",
-   "size": "6pack",
-   "pct": 36,
-   "department": "Drinks",
    "details": null
   },
   {
@@ -766,42 +556,12 @@
    "details": null
   },
   {
-   "code": "169496",
-   "slug": "alpro-soya-soy-milk-barista",
-   "name": "alpro soya soy milk barista",
-   "brand": "alpro soya",
-   "size": "1L",
-   "pct": 26,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "324234",
-   "slug": "uncle-tobys-roll-ups-fruit-snack-rainbow-berry-berry",
-   "name": "uncle tobys roll-ups fruit snack rainbow berry berry",
-   "brand": "uncle tobys roll-ups",
-   "size": "94g",
-   "pct": 27,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "111296",
    "slug": "olina-s-bakehouse-simply-seed-crackers-original",
    "name": "olina's bakehouse simply seed crackers original",
    "brand": "olina's bakehouse simply seed",
    "size": "80g",
    "pct": 28,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "324231",
-   "slug": "uncle-tobys-roll-ups-fruit-snack-fun-prints-strawberry",
-   "name": "uncle tobys roll-ups fruit snack fun prints strawberry",
-   "brand": "uncle tobys roll-ups",
-   "size": "94g",
-   "pct": 27,
    "department": "Pantry",
    "details": null
   },
@@ -822,36 +582,6 @@
    "brand": "majans",
    "size": "150g",
    "pct": 29,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "451923",
-   "slug": "leggo-s-pasta-sauce-roasted-garlic-tomato-onion",
-   "name": "leggo's pasta sauce roasted garlic tomato & onion",
-   "brand": "leggo's",
-   "size": "500g",
-   "pct": 25,
-   "department": "Dinner",
-   "details": null
-  },
-  {
-   "code": "450687",
-   "slug": "leggo-s-pasta-sauce-bolognese",
-   "name": "leggo's pasta sauce bolognese",
-   "brand": "leggo's",
-   "size": "500g",
-   "pct": 25,
-   "department": "Dinner",
-   "details": null
-  },
-  {
-   "code": "451922",
-   "slug": "leggo-s-bolognese-pasta-sauce-red-wine-tomato-herbs",
-   "name": "leggo's bolognese pasta sauce red wine tomato & herbs",
-   "brand": "leggo's bolognese",
-   "size": "500g",
-   "pct": 25,
    "department": "Pantry",
    "details": null
   },
@@ -882,16 +612,6 @@
    "brand": "otis",
    "size": "1L",
    "pct": 29,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "259501",
-   "slug": "mingle-seasoning-mexican-fiesta-taco",
-   "name": "mingle seasoning mexican fiesta taco",
-   "brand": "mingle",
-   "size": "50g",
-   "pct": 36,
    "department": "Pantry",
    "details": null
   },
@@ -963,16 +683,6 @@
    "size": "2.25L",
    "pct": 30,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "564472",
-   "slug": "vitasoy-protein-plus-soy-uht-milk",
-   "name": "vitasoy protein plus soy uht milk",
-   "brand": "vitasoy",
-   "size": "1L",
-   "pct": 28,
-   "department": "Fridge & Deli",
    "details": null
   },
   {
@@ -1054,25 +764,6 @@
    "pct": 25,
    "department": "Pantry",
    "details": null
-  },
-  {
-   "code": "878585",
-   "slug": "pepsi-max-soft-drink-raspberry-cola",
-   "name": "pepsi max soft drink raspberry cola",
-   "brand": "pepsi max",
-   "size": "1.5L",
-   "pct": 33,
-   "department": "Drinks",
-   "details": {
-    "allergens": "Phenylketonurics: contains Phenylalanine, This product contains Caffeine",
-    "brand": "pepsi max",
-    "descriptionVegan": [],
-    "fetched": "2026-10-11",
-    "ingredients": "Carbonated Water, Colour  (150d), Sweeteners (951, 950), Food Acids (338, 330), Flavours, Preservative (202), Caffeine",
-    "mayContain": "",
-    "name": "pepsi max soft drink raspberry cola",
-    "packClaim": "Low joule Raspberry flavoured cola drink., Max taste, No sugar"
-   }
   },
   {
    "code": "270210",
@@ -1215,16 +906,6 @@
    "details": null
   },
   {
-   "code": "479501",
-   "slug": "pringles-chips-original",
-   "name": "pringles chips original",
-   "brand": "pringles",
-   "size": "134g",
-   "pct": 38,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "345192",
    "slug": "mi-sedaap-instant-noodles-mi-goreng-multi-pack",
    "name": "mi sedaap instant noodles mi goreng multi pack",
@@ -1275,26 +956,6 @@
    "details": null
   },
   {
-   "code": "6069341",
-   "slug": "trek-oat-bar-biscoff",
-   "name": "trek oat bar biscoff",
-   "brand": "trek",
-   "size": "50g",
-   "pct": 25,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "310675",
-   "slug": "vitasoy-oat-unsweetened-uht-milk",
-   "name": "vitasoy oat unsweetened uht milk",
-   "brand": "vitasoy",
-   "size": "1L",
-   "pct": 25,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
    "code": "271722",
    "slug": "schweppes-drink-mixers-soda-water",
    "name": "schweppes drink mixers soda water",
@@ -1302,16 +963,6 @@
    "size": "1.5L",
    "pct": 33,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "479504",
-   "slug": "pringles-chips-barbeque",
-   "name": "pringles chips barbeque",
-   "brand": "pringles",
-   "size": "134g",
-   "pct": 38,
-   "department": "Pantry",
    "details": null
   },
   {
@@ -1425,16 +1076,6 @@
    "details": null
   },
   {
-   "code": "6067127",
-   "slug": "trek-oat-bar-salted-caramel",
-   "name": "trek oat bar salted caramel",
-   "brand": "trek",
-   "size": "50g",
-   "pct": 25,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "271717",
    "slug": "schweppes-lemonade",
    "name": "schweppes lemonade",
@@ -1442,16 +1083,6 @@
    "size": "1.5L",
    "pct": 33,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "513407",
-   "slug": "raglan-yoghurt-snack-vanilla-bean",
-   "name": "raglan yoghurt snack vanilla bean",
-   "brand": "raglan",
-   "size": "150g",
-   "pct": 25,
-   "department": "Fridge & Deli",
    "details": null
   },
   {

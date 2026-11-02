@@ -25,6 +25,18 @@
    "status": "no",
    "url": ""
   },
+  "116518": {
+   "brand": "Tip Top",
+   "cat": "b",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Trumpet Vegan Frozen Dessert Chocolate Gluten Free 4 Pack",
+   "note": "Tip Top calls this its \"Chocolate Vegan Trumpet\"; soy-based, with a may-contain-milk warning from shared production lines.",
+   "src": "Tip Top (manufacturer)",
+   "status": "verified",
+   "url": "https://www.tiptop.co.nz/trumpets/vegan-gluten-free-choc"
+  },
   "120207": {
    "brand": "Sanitarium",
    "cat": "d",
@@ -99,6 +111,18 @@
    "status": "no",
    "url": ""
   },
+  "159875": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wraps Original Low Carb 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
+  },
   "160543": {
    "brand": "Edmonds",
    "cat": "p",
@@ -110,6 +134,30 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
+  },
+  "169496": {
+   "brand": "Alpro",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soya Barista Soy Milk",
+   "note": "Alpro's Barista Soya product page lists Vegan and Vegetarian among its key benefits.",
+   "src": "Alpro (manufacturer)",
+   "status": "verified",
+   "url": "https://www.alpro.com/en-gb/products/drinks/alpro-barista-soya"
+  },
+  "174297": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Lemon, Lime & Bitters 6 Pack",
+   "note": "Bundaberg's FAQ lists Lemon, Lime & Bitters among the beverages \"suitable for vegans\".",
+   "src": "Bundaberg (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
   },
   "174412": {
    "brand": "V",
@@ -219,6 +267,18 @@
    "status": "verified",
    "url": "https://www.kelloggs.com.au/en_AU/products/just-right-original.html"
   },
+  "200885": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Low Carb Wraps Supergrains 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
+  },
   "212840": {
    "brand": "Vitasoy",
    "cat": "d",
@@ -327,6 +387,18 @@
    "status": "no",
    "url": ""
   },
+  "231302": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Sparkling Pink Grapefruit 6 Pack",
+   "note": "Bundaberg's FAQ classes Pink Grapefruit as suitable for vegetarians, not on its vegan list.",
+   "src": "Bundaberg (manufacturer)",
+   "status": "no",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
+  },
   "234585": {
    "brand": "Sour Patch Kids",
    "cat": "s",
@@ -375,6 +447,42 @@
    "status": "no",
    "url": ""
   },
+  "248065": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Low Carb Wraps Keto 8 Inch 6 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
+  },
+  "256255": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Sparkling Blood Orange 6 Pack",
+   "note": "Bundaberg's FAQ lists Blood Orange among the beverages \"suitable for vegans\".",
+   "src": "Bundaberg (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
+  },
+  "259501": {
+   "brand": "Mingle",
+   "cat": "p",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Seasoning Mexican Fiesta Taco 50g",
+   "note": "Mingle's Mexican Fiesta product page lists it as \"Vegan Friendly\"; ingredients are spices and salt.",
+   "src": "Mingle (manufacturer)",
+   "status": "verified",
+   "url": "https://www.mingleseasoning.com/products/mexican-fiesta"
+  },
   "265696": {
    "brand": "Harvest Snaps",
    "cat": "s",
@@ -400,6 +508,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "266525": {
+   "brand": "Chelsea",
+   "cat": "p",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "White Sugar 3kg",
+   "note": "Chelsea FAQ: nearly all its sugars and syrups suit vegans; the only exception is Honey Maple Flavoured Syrup.",
+   "src": "Chelsea (manufacturer)",
+   "status": "verified",
+   "url": "https://www.chelsea.co.nz/about-sugar/faqs/"
   },
   "266528": {
    "brand": "Chelsea",
@@ -605,6 +725,18 @@
    "status": "no",
    "url": ""
   },
+  "276187": {
+   "brand": "Kellogg's",
+   "cat": "p",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Nutri-Grain Cereal",
+   "note": "Kellogg's NZ product page states \"Suitable for vegans.\"",
+   "src": "Kellogg's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.kelloggs.co.nz/en_NZ/products/nutri-grain-product.html"
+  },
   "277992": {
    "brand": "Proper Crisps",
    "cat": "s",
@@ -677,6 +809,18 @@
    "status": "no",
    "url": ""
   },
+  "310675": {
+   "brand": "Vitasoy",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Oat Unsweetened UHT Milk",
+   "note": "Vitasoy's Oat Milk Unsweetened page states \"Suitable for vegetarians and vegans.\"",
+   "src": "Vitasoy (manufacturer)",
+   "status": "verified",
+   "url": "https://soy.com.au/product/oat-milk-unsweetened/"
+  },
   "312747": {
    "brand": "Huntley & Palmers",
    "cat": "s",
@@ -736,6 +880,30 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "324231": {
+   "brand": "Uncle Tobys",
+   "cat": "s",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Roll-Ups Fruit Snack Fun Prints Strawberry",
+   "note": "Uncle Tobys' product page shows the \"Vegan friendly\" attribute switched off for this Roll-Up.",
+   "src": "Uncle Tobys (manufacturer)",
+   "status": "no",
+   "url": "https://www.uncletobys.com.au/products/snacks/roll-ups/funprint-strawberry"
+  },
+  "324234": {
+   "brand": "Uncle Tobys",
+   "cat": "s",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Roll-Ups Fruit Snack Rainbow Berry Berry",
+   "note": "Uncle Tobys' product page shows the \"Vegan friendly\" attribute switched off for this Roll-Up.",
+   "src": "Uncle Tobys (manufacturer)",
+   "status": "no",
+   "url": "https://www.uncletobys.com.au/products/snacks/roll-ups/rainbow-berry"
   },
   "324624": {
    "brand": "Sanitarium",
@@ -820,6 +988,18 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
+  },
+  "369527": {
+   "brand": "Fry's",
+   "cat": "b",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Burgers Meat Free Chicken Style 4 Pack",
+   "note": "Fry's Chicken-Style Burgers page: \"Made from a blend of soy, wheat and pea protein they are 100% vegan.\"",
+   "src": "Fry's (manufacturer)",
+   "status": "verified",
+   "url": "https://fryfamilyfood.com/au/chicken-style-burgers"
   },
   "381220": {
    "brand": "Ceres Organics",
@@ -977,6 +1157,42 @@
    "status": "verified",
    "url": "https://www.jedscoffee.co.nz/contact/"
   },
+  "450687": {
+   "brand": "Leggo's",
+   "cat": "p",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pasta Sauce Bolognese",
+   "note": "Leggo's product page states \"Suitable for vegans and vegetarians\".",
+   "src": "Leggo's (manufacturer)",
+   "status": "verified",
+   "url": "https://leggos.com.au/product/leggos-bolognese-pasta-sauce-500g/11112"
+  },
+  "451922": {
+   "brand": "Leggo's",
+   "cat": "p",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Bolognese Pasta Sauce Red Wine, Tomato & Herbs",
+   "note": "Leggo's product page states \"Suitable for vegans and vegetarians\".",
+   "src": "Leggo's (manufacturer)",
+   "status": "verified",
+   "url": "https://leggos.com.au/product/leggos-bolognese-with-red-wine-pasta-sauce-500g/11114"
+  },
+  "451923": {
+   "brand": "Leggo's",
+   "cat": "p",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pasta Sauce Roasted Garlic Tomato & Onion",
+   "note": "Leggo's product page states \"Suitable for vegans and vegetarians\".",
+   "src": "Leggo's (manufacturer)",
+   "status": "verified",
+   "url": "https://leggos.com.au/product/leggos-tomato-roasted-garlic-pasta-sauce-500g/11123"
+  },
   "468836": {
    "brand": "Barker's",
    "cat": "s",
@@ -1000,6 +1216,32 @@
    "src": "Barker's (manufacturer)",
    "status": "verified",
    "url": "https://barkers.co.nz/shop/mango-kiwifruit-passionfruit-1"
+  },
+  "479501": {
+   "brand": "Pringles",
+   "cat": "s",
+   "checked": "2026-11-02",
+   "flags": [
+    "471"
+   ],
+   "mayContain": "",
+   "name": "Chips Original",
+   "note": "PETA Australia lists Pringles Original as accidentally vegan, but Pringles makes no vegan claim and its Original Minis list emulsifier 471; check first.",
+   "src": "PETA Australia",
+   "status": "caution",
+   "url": "https://www.peta.org.au/living/accidentally-vegan/"
+  },
+  "479504": {
+   "brand": "Pringles",
+   "cat": "s",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Chips Barbeque",
+   "note": "PETA Australia's Accidentally Vegan list includes Pringles BBQ.",
+   "src": "PETA Australia",
+   "status": "verified",
+   "url": "https://www.peta.org.au/living/accidentally-vegan/"
   },
   "479847": {
    "brand": "Pringles",
@@ -1063,6 +1305,18 @@
    "status": "verified",
    "url": ""
   },
+  "513407": {
+   "brand": "Raglan Food Co",
+   "cat": "b",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Yoghurt Snack Vanilla Bean",
+   "note": "Raglan Food Co's FAQ calls it \"our vegan coconut yoghurt\"; the Vanilla Bean 150g pottle uses live vegan cultures.",
+   "src": "Raglan Food Co (manufacturer)",
+   "status": "verified",
+   "url": "https://raglanfoodco.com/faqs/"
+  },
   "522639": {
    "brand": "Heinz",
    "cat": "p",
@@ -1074,6 +1328,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "53114": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Ginger Beer Minis 6 x 200mL",
+   "note": "Bundaberg's FAQ lists Ginger Beer among the beverages \"suitable for vegans\".",
+   "src": "Bundaberg (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
   },
   "53205": {
    "brand": "McCain",
@@ -1110,6 +1376,30 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "56006": {
+   "brand": "Farrah's",
+   "cat": "b",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Low Carb Wraps Ultra Keto 5 Pack",
+   "note": "Farrah's FAQ: all its wraps and tortillas, except Garlic Butter Wraps, are suitable for vegetarians and vegans.",
+   "src": "Farrah's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.farrahs.co.nz/faqs"
+  },
+  "564472": {
+   "brand": "Vitasoy",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Protein Plus Soy UHT Milk",
+   "note": "Vitasoy's Protein Plus product page states \"suitable for vegetarians and vegans\".",
+   "src": "Vitasoy (manufacturer)",
+   "status": "verified",
+   "url": "https://soy.com.au/product/soy-milk-protein-plus/"
   },
   "571601": {
    "brand": "Remedy",
@@ -1194,6 +1484,30 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "6009501": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Refreshingly Light Soft Drink Apple & Lychee 4 x 250mL",
+   "note": "Bundaberg's FAQ lists Refreshingly Light Apple + Lychee among the beverages \"suitable for vegans\".",
+   "src": "Bundaberg (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
+  },
+  "6009797": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Refreshingly Light Soft Drink Lemon & Watermelon 4 x 250mL",
+   "note": "Bundaberg's FAQ classes Refreshingly Light Lemon + Watermelon as suitable for vegetarians, not on its vegan list.",
+   "src": "Bundaberg (manufacturer)",
+   "status": "no",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
   },
   "6018775": {
    "brand": "Nescafé",
@@ -1531,6 +1845,18 @@
    "status": "caution",
    "url": "https://www.peta.org.au/living/accidentally-vegan/"
   },
+  "6063008": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Diet Ginger Beer 6 x 200mL",
+   "note": "Bundaberg's FAQ lists Diet Ginger Beer among the beverages \"suitable for vegans\".",
+   "src": "Bundaberg (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
+  },
   "6063712": {
    "brand": "Stoke",
    "cat": "d",
@@ -1542,6 +1868,30 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
+  },
+  "6067127": {
+   "brand": "Trek",
+   "cat": "s",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Oat Bar Salted Caramel",
+   "note": "TREK's Salted Caramel oat bar page lists Vegan among its highlights; may contain traces of milk.",
+   "src": "Trek (manufacturer)",
+   "status": "verified",
+   "url": "https://www.trekbars.com/en/protein-oat-bars/salted-caramel"
+  },
+  "6069341": {
+   "brand": "Trek",
+   "cat": "s",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Oat Bar Biscoff",
+   "note": "TREK's Biscoff bar page: \"Each bar delivers 9g of plant-based protein, is a source of fibre and vegan.\"",
+   "src": "Trek (manufacturer)",
+   "status": "verified",
+   "url": "https://www.trekbars.com/en/protein-bars/biscoffr-0"
   },
   "6072755": {
    "brand": "Auntie Dai's",
@@ -1928,6 +2278,18 @@
    "src": "Jed's (manufacturer)",
    "status": "verified",
    "url": "https://www.jedscoffee.co.nz/contact/"
+  },
+  "701732": {
+   "brand": "Kellogg's",
+   "cat": "p",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Cereal Sultana Bran",
+   "note": "Kellogg's NZ product page states \"Suitable for vegans.\"",
+   "src": "Kellogg's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.kelloggs.co.nz/en_NZ/products/sultana-bran-product.html"
   },
   "702489": {
    "brand": "Mama San",
@@ -2435,6 +2797,18 @@
    "status": "verified",
    "url": "https://naturesway.co.nz/products/natures-way-kale-powder-120g"
   },
+  "820905": {
+   "brand": "Nature's Way",
+   "cat": "h",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Foods Acai Powder",
+   "note": "Nature's Way NZ Acai Powder: \"Gluten free, dairy free, vegan, Non GMO, soy free.\"",
+   "src": "Nature's Way (manufacturer)",
+   "status": "verified",
+   "url": "https://naturesway.co.nz/products/natures-way-acai-powder-75gm?variant=47804154282210"
+  },
   "820909": {
    "brand": "Nature's Way",
    "cat": "h",
@@ -2446,6 +2820,42 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "verified",
    "url": ""
+  },
+  "820911": {
+   "brand": "Nature's Way",
+   "cat": "h",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Foods Beetroot Powder",
+   "note": "Nature's Way NZ Beetroot Powder: \"Gluten free, dairy free, vegan, Non GMO.\"",
+   "src": "Nature's Way (manufacturer)",
+   "status": "verified",
+   "url": "https://naturesway.co.nz/products/natures-way-beetroot-powder-100g"
+  },
+  "820921": {
+   "brand": "Nature's Way",
+   "cat": "h",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Foods Matcha",
+   "note": "Nature's Way NZ Matcha Powder: \"Gluten free, dairy free, vegan, Non GMO, no added sugar.\"",
+   "src": "Nature's Way (manufacturer)",
+   "status": "verified",
+   "url": "https://naturesway.co.nz/products/natures-way-matcha-green-tea-powder-50g"
+  },
+  "821268": {
+   "brand": "Nature's Way",
+   "cat": "h",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Foods Spirulina",
+   "note": "Nature's Way NZ Spirulina Powder: \"Gluten free, dairy free, vegan, Non GMO, soy free.\"",
+   "src": "Nature's Way (manufacturer)",
+   "status": "verified",
+   "url": "https://naturesway.co.nz/products/natures-way-spirulina-powder-120g"
   },
   "822845": {
    "brand": "McCain",
@@ -2603,6 +3013,18 @@
    "status": "verified",
    "url": "https://lobros.co/pages/got-questions"
   },
+  "878585": {
+   "brand": "Pepsi Max",
+   "cat": "d",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Raspberry Cola",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "886963": {
    "brand": "Jed's",
    "cat": "c",
@@ -2686,6 +3108,18 @@
    "src": "Remedy (manufacturer)",
    "status": "verified",
    "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
+  },
+  "911420": {
+   "brand": "Ben & Jerry's",
+   "cat": "b",
+   "checked": "2026-11-02",
+   "flags": [],
+   "mayContain": "",
+   "name": "Dairy Free Ice Cream Chocolate Chip Cookie Dough",
+   "note": "Ben & Jerry's Australian flavour page shows a Vegan badge for the non-dairy Chocolate Chip Cookie Dough.",
+   "src": "Ben & Jerry's (manufacturer)",
+   "status": "verified",
+   "url": "https://www.benandjerry.com.au/flavours/chocolate-chip-cookie-dough-non-dairy"
   },
   "914330": {
    "brand": "PopCorners",
