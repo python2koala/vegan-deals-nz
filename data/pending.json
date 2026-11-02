@@ -3,7 +3,7 @@
   "from": "2026-11-02",
   "to": "2026-11-08"
  },
- "count": 124,
+ "count": 116,
  "rows": [
   {
    "code": "648074",
@@ -346,16 +346,6 @@
    "details": null
   },
   {
-   "code": "913356",
-   "slug": "barker-s-tea-syrup-feijoa-lime-fruit",
-   "name": "barker's tea syrup feijoa & lime fruit",
-   "brand": "barker's",
-   "size": "500mL",
-   "pct": 30,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "781884",
    "slug": "hubbards-light-right-cereal-hazelnut-almond",
    "name": "hubbards light & right cereal hazelnut & almond",
@@ -573,46 +563,6 @@
    "size": "450g",
    "pct": 50,
    "department": "Dinner",
-   "details": null
-  },
-  {
-   "code": "202639",
-   "slug": "majans-original-bhuja-mix",
-   "name": "majans original bhuja mix",
-   "brand": "majans",
-   "size": "150g",
-   "pct": 29,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "113612",
-   "slug": "majans-nut-mix",
-   "name": "majans nut mix",
-   "brand": "majans",
-   "size": "140g",
-   "pct": 29,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "969729",
-   "slug": "majans-snack-mix-bhuja-ancient-grain-twists",
-   "name": "majans snack mix bhuja ancient grain twists",
-   "brand": "majans",
-   "size": "140g",
-   "pct": 29,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "6062467",
-   "slug": "otis-oat-milk-the-organic-one",
-   "name": "otis oat milk the organic one",
-   "brand": "otis",
-   "size": "1L",
-   "pct": 29,
-   "department": "Pantry",
    "details": null
   },
   {
@@ -926,16 +876,6 @@
    "details": null
   },
   {
-   "code": "6063480",
-   "slug": "emma-tom-s-lemonade-sparkling-old-fashioned",
-   "name": "emma & tom's lemonade sparkling old fashioned",
-   "brand": "emma & tom's",
-   "size": "330mL",
-   "pct": 25,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "271718",
    "slug": "schweppes-drink-mixers-diet-indian-tonic-water",
    "name": "schweppes drink mixers diet indian tonic water",
@@ -1046,32 +986,12 @@
    "details": null
   },
   {
-   "code": "6063393",
-   "slug": "emma-tom-s-ginger-lemonade-sparkling-old-fashioned",
-   "name": "emma & tom's ginger lemonade sparkling old fashioned",
-   "brand": "emma & tom's",
-   "size": "330mL",
-   "pct": 25,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "271715",
    "slug": "schweppes-drink-mixers-ginger-ale",
    "name": "schweppes drink mixers ginger ale",
    "brand": "schweppes",
    "size": "1.5L",
    "pct": 33,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "6063125",
-   "slug": "emma-tom-s-lemonade-sparkling-old-fashioned",
-   "name": "emma & tom's lemonade sparkling old fashioned",
-   "brand": "emma & tom's",
-   "size": "330mL",
-   "pct": 25,
    "department": "Drinks",
    "details": null
   },
