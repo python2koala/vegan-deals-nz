@@ -61,6 +61,18 @@
    "status": "no",
    "url": ""
   },
+  "114581": {
+   "brand": "GoodnessMe",
+   "cat": "s",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Really Fruity Sticks Strawberry & Blueberry 120g",
+   "note": "Woolworths NZ listing shows \"Vegan certified; Certified Vegan NZVS\" for these fruit sticks.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "116330": {
    "brand": "Stoke",
    "cat": "d",
@@ -267,6 +279,18 @@
    "status": "no",
    "url": "https://www.remedydrinks.com/blogs/news/are-remedy-drinks-vegan"
   },
+  "179839": {
+   "brand": "Twinings",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Tea Lady Grey 50 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "180911": {
    "brand": "Coca-Cola",
    "cat": "d",
@@ -471,6 +495,18 @@
    "status": "no",
    "url": ""
   },
+  "229585": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coke Zero Sugar Soft Drink 18 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "231302": {
    "brand": "Bundaberg",
    "cat": "d",
@@ -543,6 +579,42 @@
    "status": "verified",
    "url": "https://www.farrahs.co.nz/faqs"
   },
+  "249344": {
+   "brand": "McCain",
+   "cat": "b",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pub Style Wedges Beer Batter 750g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "249351": {
+   "brand": "McCain",
+   "cat": "b",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pub Style Fries Beer Batter Steak Cut 750g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "250055": {
+   "brand": "Twinings",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Green Tea Lemon 50 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "256255": {
    "brand": "Bundaberg",
    "cat": "d",
@@ -612,6 +684,18 @@
    "flags": [],
    "mayContain": "",
    "name": "Baked Beanz Lite",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "266031": {
+   "brand": "Wattie's",
+   "cat": "p",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Baked Beans Handy Pack 3 x 220g",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
    "status": "no",
@@ -867,6 +951,18 @@
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
    "status": "no",
+   "url": ""
+  },
+  "279904": {
+   "brand": "Streets",
+   "cat": "b",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Calippo Minis Raspberry Pineapple 10 Pack",
+   "note": "Woolworths NZ listing says this mini fruit ice confection is \"vegan friendly and 99% fat free\".",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "verified",
    "url": ""
   },
   "285910": {
@@ -1205,6 +1301,18 @@
    "status": "verified",
    "url": "https://www.uncletobys.com.au/products/cereals/uncle-tobys-cheerios/original"
   },
+  "390866": {
+   "brand": "Mountain Dew",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Mountain Dew Soft Drink 24 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "390969": {
    "brand": "Nibblish",
    "cat": "s",
@@ -1251,6 +1359,30 @@
    "note": "The Woolworths NZ pack claim says \"Vegan friendly\"; ingredients list no animal products.",
    "src": "Woolworths NZ listing (pack claim)",
    "status": "verified",
+   "url": ""
+  },
+  "413302": {
+   "brand": "Red Seal",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Fruit Tea Raspberry & Strawberry 20 Pack",
+   "note": "Red Seal NZ FAQ: \"All Red Seal teas are made with only plant-based ingredients, so they're suitable for both vegetarians and vegans.\"",
+   "src": "Red Seal (manufacturer)",
+   "status": "verified",
+   "url": "https://www.redseal.global/nz/our-products/tea-blends/"
+  },
+  "42980": {
+   "brand": "Twinings",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Tea Earl Grey 50 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
    "url": ""
   },
   "42982": {
@@ -1509,6 +1641,18 @@
    "status": "no",
    "url": ""
   },
+  "5354": {
+   "brand": "Robert Timms",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Bags Italian 8 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "548716": {
    "brand": "Wattie's",
    "cat": "p",
@@ -1677,6 +1821,18 @@
    "status": "no",
    "url": ""
   },
+  "6018784": {
+   "brand": "Nestlé",
+   "cat": "p",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Nesquik Cereal Choco Crunchy 600g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "6021871": {
    "brand": "Nescafé",
    "cat": "c",
@@ -1819,6 +1975,18 @@
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
+   "url": ""
+  },
+  "6039155": {
+   "brand": "Streets",
+   "cat": "b",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Calippo Ice Blocks Super Mix",
+   "note": "Woolworths NZ listing states \"Vegan friendly and 99% fat free\" for this Calippo multipack.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "verified",
    "url": ""
   },
   "6047262": {
@@ -2109,6 +2277,30 @@
    "status": "verified",
    "url": "https://www.trekbars.com/en/protein-bars/biscoffr-0"
   },
+  "6069865": {
+   "brand": "Macy & Tailor",
+   "cat": "s",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Grain Free Tortilla Chips Spicy BBQ 50g",
+   "note": "Macy & Tailor's Grain Free Tortilla Chip Spicy BBQ page lists \"Vegan & vegetarian\".",
+   "src": "Macy & Tailor (manufacturer)",
+   "status": "verified",
+   "url": "https://www.macyandtailor.com/products/p/grainfreetortillabbq"
+  },
+  "6070091": {
+   "brand": "Macy & Tailor",
+   "cat": "s",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Grain Free Tortilla Chips Sea Salt 50g",
+   "note": "Macy & Tailor's Grain Free Tortilla Chip Salted page lists \"Vegan & vegetarian\".",
+   "src": "Macy & Tailor (manufacturer)",
+   "status": "verified",
+   "url": "https://www.macyandtailor.com/products/p/grainfreetortillasalt"
+  },
   "6072755": {
    "brand": "Auntie Dai's",
    "cat": "b",
@@ -2303,6 +2495,90 @@
    "status": "verified",
    "url": "https://www.jedscoffee.co.nz/contact/"
   },
+  "659483": {
+   "brand": "Sparkling Duet",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sparkling Duet Orange Lemon 6 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "659500": {
+   "brand": "Sparkling Duet",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sparkling Duet Lemon 6 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "659501": {
+   "brand": "Sparkling Duet",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sparkling Duet Raspberry 6 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "660269": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coca-Cola Soft Drink 18 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "660281": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Diet Coke Soft Drink 18 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "660282": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sprite Lemonade Lemon Lime 18 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "660283": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sprite Lemonade Lemon Lime No Sugar 18 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "660390": {
    "brand": "Vitasoy",
    "cat": "d",
@@ -2399,6 +2675,30 @@
    "status": "no",
    "url": ""
   },
+  "663069": {
+   "brand": "Red Seal",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Fruit Tea Plum & Boysenberry 20 Pack",
+   "note": "Red Seal NZ FAQ: \"All Red Seal teas are made with only plant-based ingredients, so they're suitable for both vegetarians and vegans.\"",
+   "src": "Red Seal (manufacturer)",
+   "status": "verified",
+   "url": "https://www.redseal.global/nz/our-products/tea-blends/red-seal-plum-boysenberry-hot-or-cold-brew-20s/"
+  },
+  "663070": {
+   "brand": "Red Seal",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Fruit Tea Superfruits 20 Pack",
+   "note": "Red Seal NZ FAQ: \"All Red Seal teas are made with only plant-based ingredients, so they're suitable for both vegetarians and vegans.\"",
+   "src": "Red Seal (manufacturer)",
+   "status": "verified",
+   "url": "https://www.redseal.global/nz/our-products/tea-blends/"
+  },
   "663077": {
    "brand": "Nescafé",
    "cat": "c",
@@ -2494,6 +2794,42 @@
    "src": "Mingle (manufacturer)",
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/taco-mexican-fiesta"
+  },
+  "687778": {
+   "brand": "L'OR",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Lungo Profondo Intensity 8 20 Pack",
+   "note": "L'OR FAQ: \"The coffee in our L'Or Espresso capsules is suitable for both vegetarian and vegan diet.\"",
+   "src": "L'OR (manufacturer)",
+   "status": "verified",
+   "url": "https://service.lorespresso.com/lorespresso-uk/"
+  },
+  "689453": {
+   "brand": "Nescafé",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Gold Intense Instant Coffee 90g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "689466": {
+   "brand": "Nescafé",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Gold Original Instant Coffee 90g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "699718": {
    "brand": "Jed's",
@@ -2650,6 +2986,18 @@
    "src": "Health Lab (manufacturer)",
    "status": "verified",
    "url": "https://healthlab.com.au/collections/vegan-friendly"
+  },
+  "720563": {
+   "brand": "Naturals",
+   "cat": "p",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Stevia Sticks Sugar Substitute 60g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
   },
   "722782": {
    "brand": "Farrah's",
@@ -2843,6 +3191,18 @@
    "status": "verified",
    "url": "https://world.openfoodfacts.org/product/9310012039556/dolmio-extra-pasta-sauce-italian-herb"
   },
+  "758342": {
+   "brand": "Dolmio",
+   "cat": "p",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Extra Pasta Sauce Tomato, Onion & Roast Garlic 500g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "772595": {
    "brand": "Proper Crisps",
    "cat": "s",
@@ -3011,6 +3371,18 @@
    "status": "no",
    "url": ""
   },
+  "804638": {
+   "brand": "Jack Daniel's",
+   "cat": "p",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "BBQ Sauce Original 284g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "",
+   "status": "no",
+   "url": ""
+  },
   "8049": {
    "brand": "Musashi",
    "cat": "p",
@@ -3144,6 +3516,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "823932": {
+   "brand": "Red Seal",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Fruit Tea Lemon & Ginger 20 Pack",
+   "note": "Red Seal NZ FAQ: \"All Red Seal teas are made with only plant-based ingredients, so they're suitable for both vegetarians and vegans.\"",
+   "src": "Red Seal (manufacturer)",
+   "status": "verified",
+   "url": "https://www.redseal.global/nz/our-products/tea-blends/"
   },
   "826732": {
    "brand": "Doritos",
@@ -3385,6 +3769,18 @@
    "status": "no",
    "url": ""
   },
+  "90847": {
+   "brand": "L'OR",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Colombia Intensity 8 20 Pack",
+   "note": "L'OR FAQ: \"The coffee in our L'Or Espresso capsules is suitable for both vegetarian and vegan diet.\"",
+   "src": "L'OR (manufacturer)",
+   "status": "verified",
+   "url": "https://service.lorespresso.com/lorespresso-uk/"
+  },
   "909799": {
    "brand": "Lilo",
    "cat": "b",
@@ -3528,6 +3924,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "940396": {
+   "brand": "Red Seal",
+   "cat": "c",
+   "checked": "2026-11-09",
+   "flags": [],
+   "mayContain": "",
+   "name": "Fruit Tea Blood Orange 20 Pack",
+   "note": "Red Seal NZ FAQ: \"All Red Seal teas are made with only plant-based ingredients, so they're suitable for both vegetarians and vegans.\"",
+   "src": "Red Seal (manufacturer)",
+   "status": "verified",
+   "url": "https://www.redseal.global/nz/our-products/tea-blends/"
   },
   "96215": {
    "brand": "McCain",
