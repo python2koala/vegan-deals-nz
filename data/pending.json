@@ -3,7 +3,7 @@
   "from": "2026-11-09",
   "to": "2026-11-15"
  },
- "count": 96,
+ "count": 77,
  "rows": [
   {
    "code": "390866",
@@ -146,16 +146,6 @@
    "details": null
   },
   {
-   "code": "42982",
-   "slug": "twinings-tea-english-breakfast",
-   "name": "twinings tea english breakfast",
-   "brand": "twinings",
-   "size": "50pack",
-   "pct": 30,
-   "department": "Drinks",
-   "details": null
-  },
-  {
    "code": "6039155",
    "slug": "calippo-ice-blocks-super-mix",
    "name": "calippo ice blocks super mix",
@@ -181,16 +171,6 @@
    "name": "nestlé nesquik cereal choco crunchy",
    "brand": "nestlé nesquik",
    "size": "600g",
-   "pct": 39,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "387064",
-   "slug": "uncle-tobys-cheerios-cereal-wholegrain",
-   "name": "uncle tobys cheerios cereal wholegrain",
-   "brand": "uncle tobys cheerios",
-   "size": "560g",
    "pct": 39,
    "department": "Pantry",
    "details": null
@@ -286,32 +266,12 @@
    "details": null
   },
   {
-   "code": "787662",
-   "slug": "obela-hummus-pine-nut-garnished",
-   "name": "obela hummus pine nut garnished",
-   "brand": "obela",
-   "size": "220g",
-   "pct": 33,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
    "code": "758342",
    "slug": "dolmio-extra-pasta-sauce-tomato-onion-roast-garlic",
    "name": "dolmio extra pasta sauce tomato, onion & roast garlic",
    "brand": "dolmio extra",
    "size": "500g",
    "pct": 25,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "205450",
-   "slug": "massel-ultra-vegetable-stock-cubes-salt-reduced",
-   "name": "massel ultra vegetable stock cubes salt reduced",
-   "brand": "massel ultra",
-   "size": "105g",
-   "pct": 27,
    "department": "Pantry",
    "details": null
   },
@@ -336,26 +296,6 @@
    "details": null
   },
   {
-   "code": "74192",
-   "slug": "health-lab-protein-bar-mudcake",
-   "name": "health lab protein bar mudcake",
-   "brand": "health lab",
-   "size": "50g",
-   "pct": 27,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "787650",
-   "slug": "obela-hummus-zesty-jalapeno-garnished",
-   "name": "obela hummus zesty jalapeno garnished",
-   "brand": "obela",
-   "size": "220g",
-   "pct": 33,
-   "department": "Fridge & Deli",
-   "details": null
-  },
-  {
    "code": "704052",
    "slug": "mexicano-corn-chips-natural",
    "name": "mexicano corn chips natural",
@@ -376,26 +316,6 @@
    "details": null
   },
   {
-   "code": "102753",
-   "slug": "health-lab-protein-bar-choc-caramel-fudge-cake",
-   "name": "health lab protein bar choc caramel fudge cake",
-   "brand": "health lab",
-   "size": "50g",
-   "pct": 27,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "71900",
-   "slug": "health-lab-protein-bar-cookies-cream",
-   "name": "health lab protein bar cookies & cream",
-   "brand": "health lab",
-   "size": "50g",
-   "pct": 27,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "6084215",
    "slug": "obela-dip-garlic-crispy-chili-oil",
    "name": "obela dip garlic & crispy chili oil",
@@ -403,16 +323,6 @@
    "size": "220g",
    "pct": 33,
    "department": "Fridge & Deli",
-   "details": null
-  },
-  {
-   "code": "6047262",
-   "slug": "health-lab-protein-bar-chocolate-wafer",
-   "name": "health lab protein bar chocolate wafer",
-   "brand": "health lab",
-   "size": "44g",
-   "pct": 27,
-   "department": "Pantry",
    "details": null
   },
   {
@@ -816,16 +726,6 @@
    "details": null
   },
   {
-   "code": "883382",
-   "slug": "leggo-s-australian-tomatoes-crushed",
-   "name": "leggo's australian tomatoes crushed",
-   "brand": "leggo's australian",
-   "size": "410g",
-   "pct": 32,
-   "department": "Pantry",
-   "details": null
-  },
-  {
    "code": "227107",
    "slug": "edgell-chickpeas",
    "name": "edgell chickpeas",
@@ -872,96 +772,6 @@
    "brand": "edgell",
    "size": "400g",
    "pct": 32,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "258057",
-   "slug": "frooze-balls-snack-balls-caramel-choc-peanut-butter",
-   "name": "frooze balls snack balls caramel choc peanut butter",
-   "brand": "frooze balls",
-   "size": "70g",
-   "pct": 34,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "462525",
-   "slug": "frooze-balls-snack-balls-cranberry-70g",
-   "name": "frooze balls snack balls cranberry 70g",
-   "brand": "frooze balls",
-   "size": "5pack",
-   "pct": 34,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "103688",
-   "slug": "frooze-balls-snack-balls-choc-hazelnut",
-   "name": "frooze balls snack balls choc hazelnut",
-   "brand": "frooze balls",
-   "size": "70g",
-   "pct": 34,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "877945",
-   "slug": "frooze-balls-snack-balls-cookie-dough",
-   "name": "frooze balls snack balls cookie dough",
-   "brand": "frooze balls",
-   "size": "70g",
-   "pct": 34,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "105184",
-   "slug": "frooze-balls-snack-balls-peanut-butter-jelly",
-   "name": "frooze balls snack balls peanut butter & jelly",
-   "brand": "frooze balls",
-   "size": "70g",
-   "pct": 34,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "256945",
-   "slug": "frooze-balls-snack-balls-raspberry-dark-choc",
-   "name": "frooze balls snack balls raspberry dark choc",
-   "brand": "frooze balls",
-   "size": "70g",
-   "pct": 34,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "676276",
-   "slug": "frooze-balls-snack-balls-lemon-cheesecake-70g",
-   "name": "frooze balls snack balls lemon cheesecake 70g",
-   "brand": "frooze balls",
-   "size": "5pack",
-   "pct": 34,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "139446",
-   "slug": "bluebird-originals-chips-ready-salted",
-   "name": "bluebird originals chips ready salted",
-   "brand": "bluebird",
-   "size": "45g",
-   "pct": 56,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "315634",
-   "slug": "copper-kettle-chips-sea-salt",
-   "name": "copper kettle chips sea salt",
-   "brand": "copper kettle",
-   "size": "40g",
-   "pct": 56,
    "department": "Pantry",
    "details": null
   }
