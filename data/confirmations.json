@@ -183,6 +183,18 @@
    "status": "verified",
    "url": "https://www.bluebird.co.nz/faqs"
   },
+  "156070": {
+   "brand": "Juice Lab",
+   "cat": "d",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Wellness Shot Immunity",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "159875": {
    "brand": "Farrah's",
    "cat": "b",
@@ -194,6 +206,18 @@
    "src": "Farrah's (manufacturer)",
    "status": "verified",
    "url": "https://www.farrahs.co.nz/faqs"
+  },
+  "160023": {
+   "brand": "Edmonds",
+   "cat": "p",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Standard Grade Flour",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
   },
   "160543": {
    "brand": "Edmonds",
@@ -833,6 +857,30 @@
    "status": "no",
    "url": ""
   },
+  "271649": {
+   "brand": "Just Juice",
+   "cat": "d",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Bubbles Orange & Mango with Lemonade",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "271650": {
+   "brand": "Just Juice",
+   "cat": "d",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Bubbles Tropical with Lemonade",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "271671": {
    "brand": "Sprite",
    "cat": "d",
@@ -876,6 +924,18 @@
    "flags": [],
    "mayContain": "",
    "name": "Fanta Soft Drink Orange",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "271736": {
+   "brand": "L&P",
+   "cat": "d",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Soft Drink Lemon & Paeroa Zero Sugar",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
@@ -976,6 +1036,18 @@
    "src": "PETA Australia",
    "status": "verified",
    "url": "https://www.peta.org.au/living/accidentally-vegan/"
+  },
+  "290300": {
+   "brand": "Mutti",
+   "cat": "p",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Cherry Tomatoes",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
   },
   "297515": {
    "brand": "Bluebird",
@@ -1144,6 +1216,18 @@
    "src": "Bluebird (manufacturer)",
    "status": "verified",
    "url": "https://www.bluebird.co.nz/faqs"
+  },
+  "341456": {
+   "brand": "Lotus",
+   "cat": "s",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Biscoff Creme Filled Biscuits",
+   "note": "Woolworths NZ listing states Lotus Biscoff biscuits are vegan friendly.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "verified",
+   "url": ""
   },
   "346040": {
    "brand": "Ritz",
@@ -1845,6 +1929,18 @@
    "status": "no",
    "url": ""
   },
+  "6021872": {
+   "brand": "Lotus",
+   "cat": "s",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Biscoff Creme Filled Biscuits Vanilla Cream",
+   "note": "Woolworths NZ listing states Lotus Biscoff biscuits are vegan friendly.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "verified",
+   "url": ""
+  },
   "6022561": {
    "brand": "Keri",
    "cat": "d",
@@ -2013,6 +2109,18 @@
    "status": "no",
    "url": ""
   },
+  "6049175": {
+   "brand": "Nescafé",
+   "cat": "c",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Nescafé Sunrise Instant Coffee",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "6052820": {
    "brand": "Pringles",
    "cat": "s",
@@ -2130,6 +2238,18 @@
    "name": "Silken Tofu Asian Dessert",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6059367": {
+   "brand": "Arnott's",
+   "cat": "s",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk egg",
+   "name": "Shapes Light & Crispy Vinegar & Sea Salt",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -2361,6 +2481,18 @@
    "status": "no",
    "url": ""
   },
+  "6076253": {
+   "brand": "Maggi",
+   "cat": "p",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "2 Minute Stir Fry Noodles Sweet & Smokey Barbecue",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "6078427": {
    "brand": "Forty Thieves",
    "cat": "p",
@@ -2382,6 +2514,30 @@
    "name": "White Rolls High Protein 4 Pack",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6084017": {
+   "brand": "Snackachangi",
+   "cat": "s",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Corn Chips Chipotle Salsa",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "6084215": {
+   "brand": "Obela",
+   "cat": "b",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Dip Garlic & Crispy Chilli Oil",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -2759,6 +2915,30 @@
    "status": "verified",
    "url": "https://www.froozeballs.com/product-page/frooze-balls-double-filled-pouch-lemon-cheesecake"
   },
+  "679778": {
+   "brand": "Kettle Chip Company",
+   "cat": "s",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Chips Sea Salt & Vinegar",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "679984": {
+   "brand": "Kettle Chip Company",
+   "cat": "s",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Chips Original Sea Salt",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "682826": {
    "brand": "Pepsi Max",
    "cat": "d",
@@ -2867,6 +3047,18 @@
    "status": "verified",
    "url": "https://www.paknsave.co.nz/shop/product/5042072_ea_000pns"
   },
+  "704052": {
+   "brand": "Mexicano",
+   "cat": "s",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Corn Chips Natural",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "705375": {
    "brand": "Huntley & Palmers",
    "cat": "s",
@@ -2922,6 +3114,30 @@
    "flags": [],
    "mayContain": "",
    "name": "Coca-Cola No Sugar Soft Drink Vanilla",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "713923": {
+   "brand": "Mountain Dew",
+   "cat": "d",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Mountain Dew Soft Drink 2L",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "713937": {
+   "brand": "Pepsi",
+   "cat": "d",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pepsi Soft Drink 2L",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
@@ -3179,6 +3395,42 @@
    "status": "verified",
    "url": "https://www.farrahs.co.nz/faqs"
   },
+  "758286": {
+   "brand": "Dolmio",
+   "cat": "p",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Extra Pasta Sauce Bolognese",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "758288": {
+   "brand": "Dolmio",
+   "cat": "p",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Extra Pasta Sauce Red Wine & Italian Herb",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "758299": {
+   "brand": "Dolmio",
+   "cat": "p",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Extra Pasta Sauce Spicy Peppers",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "758314": {
    "brand": "Dolmio",
    "cat": "p",
@@ -3200,6 +3452,30 @@
    "name": "Extra Pasta Sauce Tomato, Onion & Roast Garlic 500g",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "758397": {
+   "brand": "Fuze",
+   "cat": "d",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Ice Tea Lemon",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "758424": {
+   "brand": "Fuze",
+   "cat": "d",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Ice Tea Peach",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -3334,6 +3610,18 @@
    "src": "Jed's (manufacturer)",
    "status": "verified",
    "url": "https://www.jedscoffee.co.nz/contact/"
+  },
+  "795295": {
+   "brand": "Mutti",
+   "cat": "p",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "",
+   "name": "Tomatoes Baby Roma",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
   },
   "797412": {
    "brand": "Farrah's",
@@ -3658,6 +3946,18 @@
    "name": "Instant Coffee French Style Refill",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "855494": {
+   "brand": "Arnott's",
+   "cat": "s",
+   "checked": "2026-11-10",
+   "flags": [],
+   "mayContain": "milk egg",
+   "name": "Cracker Chips Sea Salt",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
