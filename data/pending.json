@@ -13,7 +13,16 @@
    "size": "225g",
    "pct": 26,
    "department": "Health & Body",
-   "details": null
+   "details": {
+    "allergens": "Contains: Soy and Caffeine",
+    "brand": "musashi pre-workout",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Citrulline (22%), Beta Alanine (13%), Creatine (13%), Branched Chain Amino Acids (11%) (L-Leucine, L-Isoleucine, L-valine, Emulsifier (Soy Lethicin)), Dextrose , L-Tyrosine, Acidity Regulators (Malic Acid, Citric Acid, Sodium Bicarbinate), L-Arginine, L-Ornithine, Coffee Bean Extract, L-Carnitine, Sweetener (Sucralose), Anticaking Agent (Silicon Dioxide), Flavour, Natural Colour (Curcumin)",
+    "mayContain": "",
+    "name": "musashi pre-workout protein powder lemon lime energy performance",
+    "packClaim": "25 serves, 250 caffeine, Citrulline malate 2000mg, AAKG 300mg, High potency formula, Supports energy & performance, The science - Musashi Pre Workout is a unique formulation that contains a blend of citrulline, beta-alanine, caffeine, creatine and amino acids to act as a pre-workout catalyst to take your game or gym session to the next level. This refreshingly delicious blend is scientifically formulated to support your sports nutrition needs."
+   }
   },
   {
    "code": "648074",
@@ -23,7 +32,16 @@
    "size": "225g",
    "pct": 26,
    "department": "Health & Body",
-   "details": null
+   "details": {
+    "allergens": "Contains: Soy and Caffeine.",
+    "brand": "musashi pre-workout",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Citrulline (22%), Beta Alanine (13%), Creatine (13%), Branched Chain Amino Acids (11%) (L-Leucine, L-Isoleucine, L-valine, Emulsifier (Soy Lecithin)), Dextrose , L-Tyrosine, Acidity Regulators (Malic Acid, Citric Acid, Sodium Bicarbonate), L-Arginine, L-Ornithine, Coffee Bean Extract, L-Carnitine, Natural Colour (Beetroot, Curcumin), Sweetener (Sucralose), Flavour, Anticaking Agent (Silicon Dioxide)",
+    "mayContain": "",
+    "name": "musashi pre-workout protein powder tropical energy & performance",
+    "packClaim": "25 serves, 250mg caffeine, Citrulline malate 2000mg, AAKG 300mg, High potency fomula, Key features - 1200mg creatine / 1200mg ß-alanine; citrulline + arginine + ornithine; focus blend, Supplement food, Supports energy & performance, THE SCIENCE - MUSASHI PRE WORKOUT is a unique formulation that contains a blend of citrulline, beta-alanine, caffeine, creatine and amino acids to act as a pre-workout catalyst to take your game or gym session to the next level. This refreshingly delicious blend is scientifically formulated to support your sports nutrition needs."
+   }
   },
   {
    "code": "228349",
@@ -33,7 +51,16 @@
    "size": "30pack",
    "pct": 33,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Contains caffeine, Contains phenylalanine",
+    "brand": "coca cola",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Carbonated water, colour (150d), food acids (338, 331), sweeteners (951, 950), flavour, caffeine.",
+    "mayContain": "",
+    "name": "coca cola soft drink zero sugar",
+    "packClaim": "30 x 330mL Multipack Soft Drink Cans, A Quality Product of The Coca-Cola Company, Perfect for drinking on the go, having with a meal or relaxing at home, Real Coke Taste with Zero Sugar, Serve Drink Cold for Maximum Refreshment"
+   }
   },
   {
    "code": "659936",
@@ -43,7 +70,16 @@
    "size": "30pack",
    "pct": 33,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Contains caffeine",
+    "brand": "coca cola",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Carbonated Water, Sugar, Colour (150d), Food Acid (338), Flavour, Caffeine.",
+    "mayContain": "",
+    "name": "coca cola soft drink ",
+    "packClaim": "A Quality Product of The Coca-Cola Company, Classic Coke Taste, Perfect for drinking on the go, having with a meal or relaxing at home, Serve Drink Cold for Maximum Refreshment, Soft Drink Multipack Cans 30 x 330mL"
+   }
   },
   {
    "code": "659992",
@@ -53,7 +89,16 @@
    "size": "30pack",
    "pct": 33,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Contains phenylalanine",
+    "brand": "sprite",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Carbonated Water, Food Acids (330, 331), Flavour, Sweeteners (951, 950), Preservative (211).",
+    "mayContain": "",
+    "name": "sprite lemonade lemon lime no sugar",
+    "packClaim": "30 x 330mL Soft Drink, Hit of refreshment, Lemon-lime flavour, NO , No added colours, ZERO , Zero Sugar"
+   }
   },
   {
    "code": "660071",
@@ -63,7 +108,16 @@
    "size": "30pack",
    "pct": 33,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Contains caffeine, Contains phenylalanine",
+    "brand": "coca cola",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Carbonated Water, Colour (150d), Food Acids (338, 330), Sweeteners (951, 950), Flavour, Caffeine.",
+    "mayContain": "",
+    "name": "coca cola soft drink diet coke",
+    "packClaim": "A Quality Product of The Coca-Cola Company, Diet Coke Light Taste, Perfect for drinking on the go, having with a meal or relaxing at home. , Soft Drink Multipack Cans 30 x 330mL, Sugar Free"
+   }
   },
   {
    "code": "660073",
@@ -73,7 +127,16 @@
    "size": "30pack",
    "pct": 33,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "sprite",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Carbonated Water, Sugar, Food Acids (330, 331), Fl avour, Preservative (211).",
+    "mayContain": "",
+    "name": "sprite lemonade lemon lime",
+    "packClaim": "30 x 330mL Multipack Soft Drink Cans, Great with meals, Hit of refreshment, Lemon-lime flavour, NO , No added colours"
+   }
   },
   {
    "code": "6036848",
@@ -83,7 +146,16 @@
    "size": "75g",
    "pct": 25,
    "department": "Health & Body",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "natures way",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Barley Grass",
+    "mayContain": "",
+    "name": "natures way superfood powder barley grass",
+    "packClaim": "GLUTEN FREE, LACTOSE FREE, Non GMO"
+   }
   },
   {
    "code": "805877",
@@ -93,7 +165,16 @@
    "size": "170g",
    "pct": 29,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé classic espresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "100% Natural Coffee Beans.    Soluble Coffee.",
+    "mayContain": "",
+    "name": "nescafé classic espresso instant coffee ",
+    "packClaim": "Approximately 100 cups based on 1.7g per cup, Good to know - NESCAFÉ Espresso is made from 100% natural coffee beans - no additives or preservatievs, Granulated soluble coffee, Made from 100% natural coffee beans and nothing else, THE NESCAFÉ PLAN is our global sustainability initiative that supports responsible coffee farming, production and consumption. To us it’s more than just providing a high quality cup of coffee - we go beyond the cup."
+   }
   },
   {
    "code": "805879",
@@ -103,7 +184,16 @@
    "size": "170g",
    "pct": 29,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé classic",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "<p>100% Natural Coffee Beans.   Soluble Coffee.</p>",
+    "mayContain": "",
+    "name": "nescafé classic instant coffee ",
+    "packClaim": "100% sustainable coffee beans - We go beyond the cup by ensuring our coffee not only tastes good but also does good., Approximately 100 cups based on 1.7g per serve., Bold & smooth, For kiwi coffee lovers - Arabica - A little less heat on this sweet bean; Robusta - We turn up the heat on this guy; Care & craft in roasting - We treat our beans with extra care, roasting them separately to bring out their unique flavour and aroma, creating the perfect cup, bold & smooth at the same time., Good food, good life®, Good to know - Nescafé classic is made from 100% natural coffee beans - no additives or preservatives.\t, Roasted & blended with natural coffee beans - Nescafé classic turns good mornings into great ones., Soluble coffee"
+   }
   },
   {
    "code": "805878",
@@ -113,7 +203,16 @@
    "size": "170g",
    "pct": 29,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "nescafé classic fine blend",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "100% Natural Coffee Beans.  Soluble Coffee",
+    "mayContain": "",
+    "name": "nescafé classic fine blend instant coffee ",
+    "packClaim": "100% sustainable coffee beans - We go beyond the cup by ensuring our coffee not only tastes good but also does good. To learn more about our sustainability initiatives, 5 - medium roast, Approximately 100 cups based on 1.7g per serve., Bold & smooth, For kiwi coffee lovers - Arabica - A little less heat on this sweet bean; Robusta - We turn up the heat on this guy; Care & craft in roasting - We treat our beans with extra care, roasting them separately to bring out their unique flavour and aroma, creating the perfect cup, bold & smooth at the same time., Good to know - Nescafé fine blend is made from 100% natural coffee beans - no additives or preservatives., Grown respectfully Nescafe 1938, Roasted & blended with natural coffee beans - Nescafé classic fine blend turns good mornings into great ones., Soluble coffee"
+   }
   },
   {
    "code": "901701",
@@ -123,7 +222,16 @@
    "size": "10pack",
    "pct": 37,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "Contains Phenylalanine",
+    "brand": "pepsi max",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Carbonated Water, Colour  (150d), Sweeteners (951, 950), Food Acids (338, 330), Flavours, Preservative (202), Caffeine",
+    "mayContain": "",
+    "name": "pepsi max soft drink vanilla",
+    "packClaim": "Low joule vanilla flavoured cola drink., Max taste zero sugar, Zero sugar"
+   }
   },
   {
    "code": "489536",
@@ -133,7 +241,16 @@
    "size": "1kg",
    "pct": 44,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Peanuts",
+    "brand": "pic's",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Peanuts (99.5%), Sea Salt",
+    "mayContain": "",
+    "name": "pic's peanut butter smoochy",
+    "packClaim": "GLUTEN FREE, New Zealand's #1 Peanut Butter\n5 Star health rating\nAll Natural\nProudly made in Nelson, NZ\nMade in Pic's solar powered roastery\nB Corp certified\nZero Carbon EKOS Certified; Certified B Corporation; Ekos Net Zero Carbon Organisation"
+   }
   },
   {
    "code": "887052",
@@ -143,7 +260,16 @@
    "size": "1kg",
    "pct": 44,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Peanuts",
+    "brand": "pics",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Hi Oleic Peanuts (99.5%), Sea Salt",
+    "mayContain": "",
+    "name": "pics peanut butter crunchy",
+    "packClaim": "GLUTEN FREE, Contains Fat;Contains Protein;Contains Fibre;; Certified B Corporation; Ekos Net Zero Carbon Organisation"
+   }
   },
   {
    "code": "198407",
@@ -153,7 +279,16 @@
    "size": "1kg",
    "pct": 44,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Contains: Peanuts",
+    "brand": "pics really good",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Hi Oleic Peanuts (99.5%), Sea Salt",
+    "mayContain": "",
+    "name": "pics really good peanut butter smooth",
+    "packClaim": "\"This is really good peanut butter that deserves a front row place in everyone's pantry. Our peanuts are fresh roasted daily, then lovingly squished in sunny Nelson, New Zealand. See how your peanut butter is made on a free factory tour.\" - The peanut butter guy - Founder & Chief Peanut Butter Maker, All natural, Gluten free, New Zealand's #1 peanut butter, Our Hi Oleic peanuts deliver a nutritional trifecta - Good fats - read about good fats on the other side of jar. Protein, Fibre, Pic's Peanut Butter World Nelson NZ, Pic's solar powdered roastery - We harness the sun's power to roast our peanuts., Proudly made in NZ, Pure & natural so give me a stir!; Certified B Corporation; Ekos Net Zero Carbon Organisation"
+   }
   },
   {
    "code": "469118",
@@ -163,7 +298,16 @@
    "size": "1kg",
    "pct": 44,
    "department": "Pantry",
-   "details": null
+   "details": {
+    "allergens": "Peanuts",
+    "brand": "pic's really good",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Hi Oleic Peanuts (100%)",
+    "mayContain": "",
+    "name": "pic's really good peanut butter crunchy no salt",
+    "packClaim": "Freshly roasted and lovingly squashed at PB world in sunny Nelson\t, In Nelson, already famous for its sunshine and wine, beaches, bush and National Parks, there lies a magical kingdom where all your peanut butter dreams can come true. Between your first glimpse of the world's biggest peanut butter jar, the moment The Great Star Door swings open and you step into Pic's Peanut Butter World; your life will change forever. Walk alongside our legendary Hi Oleic nuts as they spread eagerly out on the toasty warm bed of Roasting Matilda - Pic's gleaming 25m long oven. Revel in the rousing aroma of roasting nuts as you follow their progress through the maze of pipework to a bank of high powered grinders that transform them into your beloved spread. And there's lots more ... an exceptionally warm welcome, the history of peanut butter and the unexpurgated story of Pic’s - maybe even Pic himself. A cafe where the locals lunch, and a store full of Pic's products and peculiar souvenirs., Pic's Peanut Butter World Nelson NZ, Really good"
+   }
   },
   {
    "code": "309640",
@@ -173,7 +317,16 @@
    "size": "10pack",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee With Flavouring for the Nespresso System.",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods smooth caramel",
+    "packClaim": "Flavoured arabica coffee; Caramel flavoured roasted ground coffee capsules; Buttery caramel & vanilla notes; A delightfully well-rounded cup with just the right touch of sweet caramel flavour and buttery notes. Enjoy this Starbucks® Blonde roasted coffee with or without milk for a coffee that is oh-so-delicious.; The Starbucks® Roast - Each coffee requires a slightly different roast to reach its peak of aroma, acidity, body and flavour. We classify our coffees in three roast profiles, so finding your favourite is easy."
+   }
   },
   {
    "code": "59706",
@@ -183,7 +336,16 @@
    "size": "57g",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.  100% Arabica",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods house blend lungo",
+    "packClaim": "Rich with toffee notes; Intensity 8; Contents: 10 capsules of roast and ground coffee for the Nespresso system. 100% Arabica.; It’s deceptively simple. A blend of fine Latin American beans roasted to a glistening, dark chestnut color. Loaded with flavour, balancing tastes of nut and cocoa, just a touch of sweetness from the roast. Inspired by the very first blend we ever created for you back in 1971, this is a delicious cup of coffee.; Medium roast; THE STARBUCKS® ROAST – Each coffee requires a slightly different roast to reach its peak of aroma, acidity, body and flavour. We classify our coffees in three roast profiles, so finding your favourite is easy.; Committed to ethical coffee sourcing in partnership with Conservation International; 100% Arabica coffee"
+   }
   },
   {
    "code": "155945",
@@ -193,7 +355,16 @@
    "size": "56g",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.  100% Arabica",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods italian style roast ristretto",
+    "packClaim": ""
+   }
   },
   {
    "code": "59704",
@@ -203,7 +374,16 @@
    "size": "57g",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.  100% Arabica",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods espresso roast",
+    "packClaim": ""
+   }
   },
   {
    "code": "309435",
@@ -213,7 +393,16 @@
    "size": "10pack",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee With Flavouring for the Nespresso System.",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods creamy vanilla",
+    "packClaim": "Flavoured arabica coffee; Vanilla flavoured roasted ground coffee capsules; Sweet vanilla & biscuit notes; So simple. So delicious. Sit back and savour this Starbucks® Blonde roasted coffee flavoured with creamy vanilla and biscuit notes. Enjoy with or without milk for a sweet and delightful cup.; The Starbucks® Roast - Each coffee requires a slightly different roast to reach its peak of aroma, acidity, body and flavour. We classify our coffees in three roast profiles, so finding your favourite is easy."
+   }
   },
   {
    "code": "197155",
@@ -223,7 +412,16 @@
    "size": "56g",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.  100% Arabica.",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods breakfast blend",
+    "packClaim": "Intensity 7, \tLively and citrusy notes, 80% Recycled Aluminum- using recycled aluminum, Blonde; medium; dark - Intensity 4-6; intensity 7-9; intensity 10-12, committed to 100% ethical coffee sourcing in partnership with conservation international, Contents: 10 capsules of Roast and Ground Coffee for the Nespresso system. 100% Arabic. Packaged in a protective atmosphere., Medium roast - The Starbucks ® Roast each coffee requires a slightly different roast to reach its peak of aroma, acidity, body and flavour. We classify our coffees in three roast profiles, so finding your favourite is easy., We introduced this blend in 1998 for those who prefer a milder cup of coffee in the morning. Sitting on the lighter side of medium roast; Starbucks® Breakfast Blend is the result of playing with the roast and taste profile for a flavour the appeals to a wider range of palates. Perfect if you appreciate a less intense coffee with lots of character, it’s lively and citrusy with a clean finish."
+   }
   },
   {
    "code": "6059428",
@@ -233,7 +431,16 @@
    "size": "10pack",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "<p>ROAST AND GROUND COFFEE WITH FLAVOURING </p>",
+    "mayContain": "",
+    "name": "starbucks coffee pods chocolate hazelnut",
+    "packClaim": ""
+   }
   },
   {
    "code": "115766",
@@ -243,7 +450,16 @@
    "size": "57g",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Coffee",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods espresso roast decaf",
+    "packClaim": "100% Arabica coffee, Committed to ethical coffee sourcing in partnership with Conservation International, Dark roast, Intensity 11, Rich & caramelly notes, The Starbucks® Roast - Each coffee requires a slightly different roast to reach its peak of aroma, acidity, body and flavor. We classify our coffees in three roast profiles, so finding your favorite is easy., This coffee is inspired by the espresso beverages we prepare for you in our stores, which all begin with our Espresso Roast. The quest began in 1975 with a search for the perfect melding of beans and roast, ending months of intense experimentation later with a rich and caramelly blend."
+   }
   },
   {
    "code": "59352",
@@ -253,7 +469,16 @@
    "size": "53g",
    "pct": 30,
    "department": "Drinks",
-   "details": null
+   "details": {
+    "allergens": "",
+    "brand": "starbucks by nespresso",
+    "descriptionVegan": [],
+    "fetched": "2026-11-16",
+    "ingredients": "Contents: 10 Capsules of Roast and Ground Coffee for the Nespresso System.  100% Arabica",
+    "mayContain": "",
+    "name": "starbucks by nespresso coffee pods blonde espresso roast",
+    "packClaim": "Smooth & sweet notes; Nearly five decades of sourcing, blending and roasting brought us here: an espresso that's boldly mellow. This special blend of beans from Latin America was carefully roasted to coax out sweet, vibrant notes. Soft and balanced, it pairs well with milk, making classic espresso drinks extra smooth without a roasty edge.; Intensity 6; 100% Arabica coffee; THE STARBUCKS® ROAST - Each coffee requires a slightly different roast to reach its peak or aroma, acidity, body and flavor. We classify our coffees in three roast profiles, so finding your favorite is easy.; Committed to ethical coffee sourcing in partnership with Conservation International; Contents: 10 capsules of roast and ground coffee for the Nespresso system. 100% Arabica."
+   }
   },
   {
    "code": "604171",
