@@ -73,6 +73,18 @@
    "status": "verified",
    "url": ""
   },
+  "115766": {
+   "brand": "Starbucks by Nespresso",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods Espresso Roast Decaf",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "116330": {
    "brand": "Stoke",
    "cat": "d",
@@ -182,6 +194,18 @@
    "src": "Bluebird (manufacturer)",
    "status": "verified",
    "url": "https://www.bluebird.co.nz/faqs"
+  },
+  "155945": {
+   "brand": "Starbucks by Nespresso",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods Italian Style Roast Ristretto",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
   },
   "156070": {
    "brand": "Juice Lab",
@@ -339,6 +363,18 @@
    "status": "no",
    "url": ""
   },
+  "197155": {
+   "brand": "Starbucks by Nespresso",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods Breakfast Blend",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "198127": {
    "brand": "Bluebird",
    "cat": "s",
@@ -363,6 +399,42 @@
    "status": "verified",
    "url": "https://www.bluebird.co.nz/faqs"
   },
+  "198407": {
+   "brand": "Pic's",
+   "cat": "p",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Really Good Peanut Butter Smooth 1kg",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "199470": {
+   "brand": "Rebel Bakehouse",
+   "cat": "b",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Bagels Sourdough",
+   "note": "Rebel Bakehouse's product page says its Sourdough bagels are vegan friendly.",
+   "src": "Rebel Bakehouse (manufacturer)",
+   "status": "verified",
+   "url": "https://rebelbakehouse.co.nz/product/sourdough-bagels/"
+  },
+  "199471": {
+   "brand": "Rebel Bakehouse",
+   "cat": "b",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Bagels Low Carb Max",
+   "note": "Rebel Bakehouse's product page says its Low Carb Max bagels are vegan friendly.",
+   "src": "Rebel Bakehouse (manufacturer)",
+   "status": "verified",
+   "url": "https://rebelbakehouse.co.nz/product/low-carb-max-bagels/"
+  },
   "200133": {
    "brand": "Kellogg's",
    "cat": "p",
@@ -386,6 +458,18 @@
    "src": "Farrah's (manufacturer)",
    "status": "verified",
    "url": "https://www.farrahs.co.nz/faqs"
+  },
+  "201466": {
+   "brand": "Rebel Bakehouse",
+   "cat": "b",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Bagels Sesame Seed",
+   "note": "Rebel Bakehouse's product page says its Sesame Seed bagels are vegan friendly.",
+   "src": "Rebel Bakehouse (manufacturer)",
+   "status": "verified",
+   "url": "https://rebelbakehouse.co.nz/product/sesame-seed-bagels/"
   },
   "202639": {
    "brand": "Majans",
@@ -519,6 +603,18 @@
    "status": "no",
    "url": ""
   },
+  "228349": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coca-Cola Zero Sugar 30 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "229585": {
    "brand": "Coca-Cola",
    "cat": "d",
@@ -638,6 +734,18 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "253728": {
+   "brand": "Rebel Bakehouse",
+   "cat": "b",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Bagels Brioche",
+   "note": "Rebel Bakehouse's product page says its Brioche Style bagels are vegan friendly.",
+   "src": "Rebel Bakehouse (manufacturer)",
+   "status": "verified",
+   "url": "https://rebelbakehouse.co.nz/product/brioche-style-bagels/"
   },
   "256255": {
    "brand": "Bundaberg",
@@ -1073,6 +1181,18 @@
    "status": "verified",
    "url": "https://www.bluebird.co.nz/faqs"
   },
+  "306312": {
+   "brand": "Trident",
+   "cat": "p",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Singapore Noodles Stir Fry Two Pack",
+   "note": "Trident's FAQ says its products are vegan friendly, except three named soups and variety packs not including these noodles.",
+   "src": "Trident (manufacturer)",
+   "status": "verified",
+   "url": "https://www.tridentfoods.com.au/faq/"
+  },
   "307864": {
    "brand": "Twinings",
    "cat": "c",
@@ -1082,6 +1202,30 @@
    "name": "Decaf English Breakfast",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "309435": {
+   "brand": "Starbucks by Nespresso",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods Creamy Vanilla",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "309640": {
+   "brand": "Starbucks by Nespresso",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods Smooth Caramel",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -1577,6 +1721,18 @@
    "status": "verified",
    "url": "https://barkers.co.nz/shop/mixed-berry-chia"
   },
+  "469118": {
+   "brand": "Pic's",
+   "cat": "p",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Really Good Peanut Butter Crunchy No Salt 1kg",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "469690": {
    "brand": "Barker's",
    "cat": "s",
@@ -1640,6 +1796,18 @@
    "src": "Jed's (manufacturer)",
    "status": "verified",
    "url": "https://www.jedscoffee.co.nz/contact/"
+  },
+  "489536": {
+   "brand": "Pic's",
+   "cat": "p",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Peanut Butter Smoochy 1kg",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
   },
   "490712": {
    "brand": "Leanne's Kitchen",
@@ -1820,6 +1988,42 @@
    "src": "Uncle Tobys (manufacturer)",
    "status": "verified",
    "url": "https://www.uncletobys.com.au/products/cereals/shredded-wheat/shredded-wheat"
+  },
+  "59352": {
+   "brand": "Starbucks by Nespresso",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods Blonde Espresso Roast",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "59704": {
+   "brand": "Starbucks by Nespresso",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods Espresso Roast",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "59706": {
+   "brand": "Starbucks by Nespresso",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods House Blend Lungo",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
   },
   "6000571": {
    "brand": "All Good",
@@ -2013,6 +2217,18 @@
    "status": "no",
    "url": ""
   },
+  "6036848": {
+   "brand": "Nature's Way",
+   "cat": "h",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Super Foods Barley Grass Powder",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "6037735": {
    "brand": "Woolworths",
    "cat": "b",
@@ -2036,6 +2252,30 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "603805": {
+   "brand": "L'OR",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Onyx Intensity 12",
+   "note": "L'OR FAQ: \"The coffee in our L'Or Espresso capsules is suitable for both vegetarian and vegan diet.\"",
+   "src": "L'OR (manufacturer)",
+   "status": "verified",
+   "url": "https://service.lorespresso.com/en/lorespresso-ie/"
+  },
+  "603806": {
+   "brand": "L'OR",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Supremo Intensity 10",
+   "note": "L'OR FAQ: \"The coffee in our L'Or Espresso capsules is suitable for both vegetarian and vegan diet.\"",
+   "src": "L'OR (manufacturer)",
+   "status": "verified",
+   "url": "https://service.lorespresso.com/en/lorespresso-ie/"
   },
   "6038672": {
    "brand": "Forty Thieves",
@@ -2084,6 +2324,30 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "verified",
    "url": ""
+  },
+  "604171": {
+   "brand": "L'OR",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Lungo Profondo Intensity 8",
+   "note": "L'OR FAQ: \"The coffee in our L'Or Espresso capsules is suitable for both vegetarian and vegan diet.\"",
+   "src": "L'OR (manufacturer)",
+   "status": "verified",
+   "url": "https://service.lorespresso.com/en/lorespresso-ie/"
+  },
+  "604174": {
+   "brand": "L'OR",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Capsules Colombia Intensity 8",
+   "note": "L'OR FAQ: \"The coffee in our L'Or Espresso capsules is suitable for both vegetarian and vegan diet.\"",
+   "src": "L'OR (manufacturer)",
+   "status": "verified",
+   "url": "https://service.lorespresso.com/en/lorespresso-ie/"
   },
   "6047262": {
    "brand": "Health Lab",
@@ -2253,6 +2517,18 @@
    "status": "no",
    "url": ""
   },
+  "6059428": {
+   "brand": "Starbucks",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coffee Pods Chocolate Hazelnut",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "60602": {
    "brand": "Farrah's",
    "cat": "b",
@@ -2264,6 +2540,18 @@
    "src": "Farrah's (manufacturer)",
    "status": "verified",
    "url": "https://www.farrahs.co.nz/faqs"
+  },
+  "6061582": {
+   "brand": "Rebel Bakehouse",
+   "cat": "b",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Bagels Herb & Black Garlic",
+   "note": "Rebel Bakehouse's product page says its Herb & Black Garlic bagels are vegan friendly.",
+   "src": "Rebel Bakehouse (manufacturer)",
+   "status": "verified",
+   "url": "https://rebelbakehouse.co.nz/product/herb-black-garlic-bagels/"
   },
   "6062016": {
    "brand": "Pringles",
@@ -2615,6 +2903,30 @@
    "status": "no",
    "url": ""
   },
+  "648072": {
+   "brand": "Musashi",
+   "cat": "p",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pre-Workout Powder Lemon Lime 225g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "648074": {
+   "brand": "Musashi",
+   "cat": "p",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pre-Workout Powder Tropical 225g",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "64811": {
    "brand": "Fanta",
    "cat": "d",
@@ -2684,6 +2996,54 @@
    "name": "Sparkling Duet Raspberry 6 Pack",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "659936": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Coca-Cola Soft Drink 30 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "659992": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sprite No Sugar 30 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "660071": {
+   "brand": "Coca-Cola",
+   "cat": "d",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Diet Coke 30 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "660073": {
+   "brand": "Sprite",
+   "cat": "d",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sprite Lemonade 30 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -3683,6 +4043,42 @@
    "status": "verified",
    "url": "https://nz.musashi.com/products/plant-protein"
   },
+  "805877": {
+   "brand": "Nescafé",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Nescafé Classic Espresso Instant Coffee",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "805878": {
+   "brand": "Nescafé",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Nescafé Classic Fine Blend Instant Coffee",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "805879": {
+   "brand": "Nescafé",
+   "cat": "c",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Nescafé Classic Instant Coffee",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "811262": {
    "brand": "Ceres Organics",
    "cat": "s",
@@ -4021,6 +4417,18 @@
    "status": "verified",
    "url": "https://www.jedscoffee.co.nz/contact/"
   },
+  "887052": {
+   "brand": "Pic's",
+   "cat": "p",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Peanut Butter Crunchy 1kg",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "888464": {
    "brand": "Twinings",
    "cat": "c",
@@ -4057,6 +4465,18 @@
    "status": "no",
    "url": ""
   },
+  "901701": {
+   "brand": "Pepsi Max",
+   "cat": "d",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pepsi Max Vanilla 10 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "90716": {
    "brand": "Snacka Changi",
    "cat": "s",
@@ -4080,6 +4500,18 @@
    "src": "L'OR (manufacturer)",
    "status": "verified",
    "url": "https://service.lorespresso.com/lorespresso-uk/"
+  },
+  "909276": {
+   "brand": "Health Lab",
+   "cat": "s",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "milk,egg",
+   "name": "Protein Bar Chocolate Brownie",
+   "note": "Health Lab's FAQ: \"Yes, all of our products are vegan-friendly.\"",
+   "src": "Health Lab (manufacturer)",
+   "status": "verified",
+   "url": "https://healthlab.com.au/pages/faqs"
   },
   "909799": {
    "brand": "Lilo",
@@ -4200,6 +4632,18 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
+  },
+  "926885": {
+   "brand": "Vitasoy",
+   "cat": "d",
+   "checked": "2026-11-16",
+   "flags": [],
+   "mayContain": "",
+   "name": "Almond Unsweetened UHT Milk",
+   "note": "Vitasoy's Almond Unsweetened page states \"Suitable for vegetarians and vegans.\"",
+   "src": "Vitasoy (manufacturer)",
+   "status": "verified",
+   "url": "https://soy.com.au/product/almond-milk-unsweetened/"
   },
   "928942": {
    "brand": "Proper Crisps",
