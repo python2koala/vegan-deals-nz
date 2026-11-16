@@ -675,6 +675,18 @@
    "status": "verified",
    "url": "https://adf-foods.com/our-brands/ashoka/shelf-table-products/ready-to-eat/"
   },
+  "239028": {
+   "brand": "Hubbards",
+   "cat": "p",
+   "checked": "2026-11-17",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Amazing Keto Muesli Cinnamon & Cashew",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "246807": {
    "brand": "Coca-Cola",
    "cat": "d",
@@ -2214,6 +2226,18 @@
    "name": "Nesquik Cereal Breakfast",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "",
+   "status": "no",
+   "url": ""
+  },
+  "6030036": {
+   "brand": "Hubbards",
+   "cat": "p",
+   "checked": "2026-11-17",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Amazing Granola High Protein Vanilla & Berry",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
   },
@@ -4079,6 +4103,18 @@
    "status": "no",
    "url": ""
   },
+  "806467": {
+   "brand": "Hubbards",
+   "cat": "p",
+   "checked": "2026-11-17",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Amazing Clusters Cereal Vanilla & Almond",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
   "811262": {
    "brand": "Ceres Organics",
    "cat": "s",
@@ -4472,6 +4508,18 @@
    "flags": [],
    "mayContain": "",
    "name": "Pepsi Max Vanilla 10 Pack",
+   "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
+   "src": "Woolworths NZ listing (pack claim)",
+   "status": "no",
+   "url": ""
+  },
+  "903636": {
+   "brand": "Hubbards",
+   "cat": "p",
+   "checked": "2026-11-17",
+   "flags": [],
+   "mayContain": "milk",
+   "name": "Amazing Keto Cereal Cocoa",
    "note": "No vegan confirmation found from the manufacturer, trusted sites or the Woolworths NZ pack claim.",
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
