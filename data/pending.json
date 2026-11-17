@@ -3,7 +3,7 @@
   "from": "2026-11-16",
   "to": "2026-11-22"
  },
- "count": 60,
+ "count": 58,
  "rows": [
   {
    "code": "753627",
@@ -12,26 +12,6 @@
    "brand": "hubbards amazing",
    "size": "590g",
    "pct": 31,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "686551",
-   "slug": "jordans-granola-low-sugar-almond-hazelnut",
-   "name": "jordans granola low sugar almond hazelnut",
-   "brand": "jordans",
-   "size": "500g",
-   "pct": 41,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "85598",
-   "slug": "jordans-granola-low-sugar-blueberry-coconut",
-   "name": "jordans granola low sugar blueberry coconut",
-   "brand": "jordans",
-   "size": "500g",
-   "pct": 41,
    "department": "Pantry",
    "details": null
   },

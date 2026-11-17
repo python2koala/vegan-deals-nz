@@ -3347,6 +3347,18 @@
    "status": "verified",
    "url": "https://www.mingleseasoning.com/products/japanese-curry"
   },
+  "686551": {
+   "brand": "Jordans",
+   "cat": "p",
+   "checked": "2026-11-17",
+   "flags": [],
+   "mayContain": "",
+   "name": "Jordans Granola Low Sugar Almond & Hazelnut",
+   "note": "Jordans' FAQ says it cannot fully state its cereals are 100% suitable for vegans, as honey is used in the same facility.",
+   "src": "Jordans (manufacturer)",
+   "status": "no",
+   "url": "https://jordanscereals.com.au/about-us/faq/"
+  },
   "68721": {
    "brand": "Mingle",
    "cat": "p",
@@ -4392,6 +4404,18 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
+  },
+  "85598": {
+   "brand": "Jordans",
+   "cat": "p",
+   "checked": "2026-11-17",
+   "flags": [],
+   "mayContain": "",
+   "name": "Jordans Granola Low Sugar Blueberry & Coconut",
+   "note": "Jordans' FAQ says it cannot fully state its cereals are 100% suitable for vegans, as honey is used in the same facility.",
+   "src": "Jordans (manufacturer)",
+   "status": "no",
+   "url": "https://jordanscereals.com.au/about-us/faq/"
   },
   "859554": {
    "brand": "Lo Bros",
