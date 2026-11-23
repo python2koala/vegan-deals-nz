@@ -845,6 +845,18 @@
    "status": "no",
    "url": ""
   },
+  "266503": {
+   "brand": "Chelsea",
+   "cat": "p",
+   "checked": "2026-11-23",
+   "flags": [],
+   "mayContain": "",
+   "name": "Chelsea Caster Sugar",
+   "note": "Chelsea FAQ: nearly all its sugars and syrups suit vegans; the only exception is Honey Maple Flavoured Syrup.",
+   "src": "Chelsea (manufacturer)",
+   "status": "verified",
+   "url": "https://www.chelsea.co.nz/about-sugar/faqs/"
+  },
   "266525": {
    "brand": "Chelsea",
    "cat": "p",
@@ -864,6 +876,30 @@
    "flags": [],
    "mayContain": "",
    "name": "White Sugar",
+   "note": "Chelsea FAQ: nearly all its sugars and syrups suit vegans; the only exception is Honey Maple Flavoured Syrup.",
+   "src": "Chelsea (manufacturer)",
+   "status": "verified",
+   "url": "https://www.chelsea.co.nz/about-sugar/faqs/"
+  },
+  "266536": {
+   "brand": "Chelsea",
+   "cat": "p",
+   "checked": "2026-11-23",
+   "flags": [],
+   "mayContain": "",
+   "name": "Chelsea Soft Brown Sugar",
+   "note": "Chelsea FAQ: nearly all its sugars and syrups suit vegans; the only exception is Honey Maple Flavoured Syrup.",
+   "src": "Chelsea (manufacturer)",
+   "status": "verified",
+   "url": "https://www.chelsea.co.nz/about-sugar/faqs/"
+  },
+  "266553": {
+   "brand": "Chelsea",
+   "cat": "p",
+   "checked": "2026-11-23",
+   "flags": [],
+   "mayContain": "",
+   "name": "Chelsea Icing Sugar",
    "note": "Chelsea FAQ: nearly all its sugars and syrups suit vegans; the only exception is Honey Maple Flavoured Syrup.",
    "src": "Chelsea (manufacturer)",
    "status": "verified",
@@ -4536,6 +4572,18 @@
    "src": "Woolworths NZ listing (pack claim)",
    "status": "no",
    "url": ""
+  },
+  "901878": {
+   "brand": "Pepsi Max",
+   "cat": "d",
+   "checked": "2026-11-23",
+   "flags": [],
+   "mayContain": "",
+   "name": "Pepsi Max Soft Drink 6 Pack",
+   "note": "Pepsi Max official FAQ: \"Yes, Pepsi MAX is suitable for both vegetarians and vegans.\"",
+   "src": "Pepsi Max (manufacturer)",
+   "status": "verified",
+   "url": "https://www.pepsimax.com.au/faq"
   },
   "903636": {
    "brand": "Hubbards",
