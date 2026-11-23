@@ -195,6 +195,18 @@
    "status": "verified",
    "url": "https://www.bluebird.co.nz/faqs"
   },
+  "143643": {
+   "brand": "Arnott's",
+   "cat": "s",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Farmbake Cookies Peanut Brownies",
+   "note": "PETA Australia's accidentally vegan list includes Arnott's Farmbake Peanut Brownie biscuits.",
+   "src": "PETA Australia",
+   "status": "verified",
+   "url": "https://www.peta.org.au/living/accidentally-vegan/"
+  },
   "155945": {
    "brand": "Starbucks by Nespresso",
    "cat": "c",
@@ -770,6 +782,20 @@
    "src": "Bundaberg (manufacturer)",
    "status": "verified",
    "url": "https://www.bundaberg.com/en-us/faqs/"
+  },
+  "256933": {
+   "brand": "Patak's",
+   "cat": "p",
+   "checked": "2026-11-24",
+   "flags": [
+    "noing"
+   ],
+   "mayContain": "",
+   "name": "Pickles Eggplant Sweet Medium",
+   "note": "Patak's AU product page says \"Suitable for vegetarians and vegans\", but Patak's AU FAQ says it makes no vegan claims.",
+   "src": "Patak's (manufacturer)",
+   "status": "caution",
+   "url": "https://www.pataks.com.au/product/pataks-eggplant-pickle-312g/"
   },
   "256945": {
    "brand": "Frooze Balls",
@@ -1360,6 +1386,30 @@
    "src": "",
    "status": "no",
    "url": ""
+  },
+  "322316": {
+   "brand": "Clean Collective",
+   "cat": "d",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Energy Drink Peach Nectarine",
+   "note": "Clean Collective's product page says \"They're also vegan, gluten-free, and keto-friendly.\"",
+   "src": "Clean Collective (manufacturer)",
+   "status": "verified",
+   "url": "https://cleancollective.co.nz/products/energy-peach-nectarine"
+  },
+  "322333": {
+   "brand": "Clean Collective",
+   "cat": "d",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Energy Drink Mixed Berry",
+   "note": "Clean Collective's product page says \"They're also vegan, gluten-free, and keto-friendly.\"",
+   "src": "Clean Collective (manufacturer)",
+   "status": "verified",
+   "url": "https://cleancollective.co.nz/products/energy-forest-berry"
   },
   "324231": {
    "brand": "Uncle Tobys",
@@ -2409,6 +2459,18 @@
    "status": "verified",
    "url": "https://service.lorespresso.com/en/lorespresso-ie/"
   },
+  "6043667": {
+   "brand": "Clean Collective",
+   "cat": "d",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Energy Drink Pineapple",
+   "note": "Clean Collective's product page says \"They're also vegan, gluten-free, and keto-friendly.\"",
+   "src": "Clean Collective (manufacturer)",
+   "status": "verified",
+   "url": "https://cleancollective.co.nz/products/energy-pineapple"
+  },
   "6047262": {
    "brand": "Health Lab",
    "cat": "s",
@@ -2637,6 +2699,18 @@
    "status": "caution",
    "url": "https://www.peta.org.au/living/accidentally-vegan/"
   },
+  "6062268": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Sarsaparilla 6 x 375mL",
+   "note": "Bundaberg's FAQ lists Sarsaparilla among the beverages \"suitable for vegans\".",
+   "src": "Bundaberg (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
+  },
   "6062467": {
    "brand": "Otis",
    "cat": "b",
@@ -2649,6 +2723,18 @@
    "status": "verified",
    "url": "https://otisoatmilk.co.nz/pages/faq"
   },
+  "6062527": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Diet Ginger Beer 6 x 375mL",
+   "note": "Bundaberg's FAQ lists Diet Ginger Beer among the beverages \"suitable for vegans\".",
+   "src": "Bundaberg (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
+  },
   "6062868": {
    "brand": "Oreo",
    "cat": "s",
@@ -2660,6 +2746,18 @@
    "src": "PETA Australia",
    "status": "caution",
    "url": "https://www.peta.org.au/living/accidentally-vegan/"
+  },
+  "6062961": {
+   "brand": "Bundaberg",
+   "cat": "d",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Ginger Beer 6 x 375mL",
+   "note": "Bundaberg's FAQ lists Ginger Beer among the beverages \"suitable for vegans\".",
+   "src": "Bundaberg (manufacturer)",
+   "status": "verified",
+   "url": "https://www.bundaberg.com/en-us/faqs/"
   },
   "6063008": {
    "brand": "Bundaberg",
@@ -2757,6 +2855,18 @@
    "status": "verified",
    "url": "https://www.macyandtailor.com/products/p/grainfreetortillabbq"
   },
+  "6069867": {
+   "brand": "Ceres Organics",
+   "cat": "s",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Seaweed Snack Sea Salt & Vinegar",
+   "note": "Ceres Organics' product page lists Vegan among its dietary attributes, with a Vegan badge.",
+   "src": "Ceres Organics (manufacturer)",
+   "status": "verified",
+   "url": "https://ceres.co.nz/products/12712-organic-roasted-seaweed-salt-vinegar-nori-snack-5g"
+  },
   "6070091": {
    "brand": "Macy & Tailor",
    "cat": "s",
@@ -2768,6 +2878,18 @@
    "src": "Macy & Tailor (manufacturer)",
    "status": "verified",
    "url": "https://www.macyandtailor.com/products/p/grainfreetortillasalt"
+  },
+  "6070220": {
+   "brand": "Ceres Organics",
+   "cat": "s",
+   "checked": "2026-11-24",
+   "flags": [],
+   "mayContain": "",
+   "name": "Seaweed Snack Original",
+   "note": "New World describes it as a \"good source of iodine, vegan, no MSG or preservatives.\"",
+   "src": "New World",
+   "status": "verified",
+   "url": "https://www.newworld.co.nz/shop/product/5023694_ea_000nw"
   },
   "6072755": {
    "brand": "Auntie Dai's",
@@ -4464,6 +4586,20 @@
    "src": "Lo Bros (manufacturer)",
    "status": "verified",
    "url": "https://lobros.co/pages/got-questions"
+  },
+  "87353": {
+   "brand": "Patak's",
+   "cat": "p",
+   "checked": "2026-11-24",
+   "flags": [
+    "noing"
+   ],
+   "mayContain": "",
+   "name": "Pickles Tangy Lime Medium",
+   "note": "Patak's AU product page says \"Suitable for vegetarians and vegans\", but Patak's AU FAQ says it makes no vegan claims.",
+   "src": "Patak's (manufacturer)",
+   "status": "caution",
+   "url": "https://www.pataks.com.au/product/pataks-lime-pickle-283g/"
   },
   "877945": {
    "brand": "Frooze Balls",

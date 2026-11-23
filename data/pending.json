@@ -3,7 +3,7 @@
   "from": "2026-11-23",
   "to": "2026-11-29"
  },
- "count": 81,
+ "count": 70,
  "rows": [
   {
    "code": "35681",
@@ -43,36 +43,6 @@
    "size": "500mL",
    "pct": 31,
    "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "6062961",
-   "slug": "bundaberg-ginger-beer",
-   "name": "bundaberg ginger beer",
-   "brand": "bundaberg",
-   "size": "6 x 375mL bottLe",
-   "pct": 25,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "6062527",
-   "slug": "bundaberg-diet-ginger-beer",
-   "name": "bundaberg diet ginger beer",
-   "brand": "bundaberg",
-   "size": "6 x 375mL bottLe",
-   "pct": 25,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "6062268",
-   "slug": "bundaberg-sarsparilla",
-   "name": "bundaberg sarsparilla",
-   "brand": "bundaberg",
-   "size": "6 x 375mL bottLe",
-   "pct": 25,
-   "department": "Drinks",
    "details": null
   },
   {
@@ -183,26 +153,6 @@
    "size": "6 x 250mL cans",
    "pct": 28,
    "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "256933",
-   "slug": "patak-s-pickles-eggplant-sweet-medium",
-   "name": "patak's pickles eggplant sweet medium",
-   "brand": "patak's",
-   "size": "312g jar",
-   "pct": 26,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "87353",
-   "slug": "patak-s-pickles-tangy-lime-medium",
-   "name": "patak's pickles tangy lime medium",
-   "brand": "patak's",
-   "size": "283g jar",
-   "pct": 26,
-   "department": "Pantry",
    "details": null
   },
   {
@@ -442,16 +392,6 @@
    "brand": "sanitarium",
    "size": "1L",
    "pct": 26,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "143643",
-   "slug": "arnott-s-farmbake-cookies-peanut-brownies",
-   "name": "arnott's farmbake cookies peanut brownies",
-   "brand": "arnott's",
-   "size": "310g",
-   "pct": 25,
    "department": "Pantry",
    "details": null
   },
@@ -696,36 +636,6 @@
    "details": null
   },
   {
-   "code": "322333",
-   "slug": "clean-collective-energy-drink-mixed-berry",
-   "name": "clean collective energy drink mixed berry",
-   "brand": "clean collective",
-   "size": "330mL",
-   "pct": 34,
-   "department": "Drinks",
-   "details": null
-  },
-  {
-   "code": "322316",
-   "slug": "clean-collective-energy-drink-peach-nectarine",
-   "name": "clean collective energy drink peach nectarine",
-   "brand": "clean collective",
-   "size": "330mL",
-   "pct": 34,
-   "department": "Beer & Wine",
-   "details": null
-  },
-  {
-   "code": "6043667",
-   "slug": "clean-collective-energy-drink-pineapple",
-   "name": "clean collective energy drink pineapple",
-   "brand": "clean collective",
-   "size": "330mL",
-   "pct": 34,
-   "department": "Beer & Wine",
-   "details": null
-  },
-  {
    "code": "34094",
    "slug": "edgell-corn-creamed",
    "name": "edgell corn creamed",
@@ -779,26 +689,6 @@
    "code": "6069825",
    "slug": "ceres-organics-seaweed-snack-teriyaki",
    "name": "ceres organics seaweed snack teriyaki",
-   "brand": "ceres organics",
-   "size": "4g",
-   "pct": 35,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "6070220",
-   "slug": "ceres-organics-seaweed-snack-original",
-   "name": "ceres organics seaweed snack original",
-   "brand": "ceres organics",
-   "size": "4g",
-   "pct": 35,
-   "department": "Pantry",
-   "details": null
-  },
-  {
-   "code": "6069867",
-   "slug": "ceres-organics-seaweed-snack-sea-salt-vinegar",
-   "name": "ceres organics seaweed snack sea salt & vinegar",
    "brand": "ceres organics",
    "size": "4g",
    "pct": 35,
